@@ -1,0 +1,24 @@
+value,parent
+Less than 1st grade,No HS diploma
+1st 2nd 3rd or 4th grade,No HS diploma
+5th or 6th grade,No HS diploma
+7th and 8th grade,No HS diploma
+9th grade,No HS diploma
+10th grade,No HS diploma
+11th grade,No HS diploma
+12th grade no diploma,No HS diploma
+High school graduate,HS graduate
+Some college but no degree,Some college/Associates
+Associates degree-academic program,Some college/Associates
+Associates degree-occup /vocational,Some college/Associates
+Bachelors degree(BA AB BS),Bachelors
+Masters degree(MA MS MEng MEd MSW MBA),Graduate/Professional
+Prof school degree (MD DDS DVM LLB JD),Graduate/Professional
+Doctorate degree(PhD EdD),Graduate/Professional
+Children,Children/NA
+No HS diploma,ANY
+HS graduate,ANY
+Some college/Associates,ANY
+Bachelors,ANY
+Graduate/Professional,ANY
+Children/NA,ANY

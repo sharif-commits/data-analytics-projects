@@ -1,0 +1,256 @@
+dimensions,n_dims,buc_cells,duckdb_cells,only_in_buc,only_in_duckdb,count_mismatches,match
+age_group,1,9,9,0,0,0,True
+class_of_worker,1,10,10,0,0,0,True
+education,1,18,18,0,0,0,True
+marital_status,1,8,8,0,0,0,True
+race,1,6,6,0,0,0,True
+sex,1,3,3,0,0,0,True
+employment_status,1,9,9,0,0,0,True
+tax_filer_status,1,7,7,0,0,0,True
+age_group | class_of_worker,2,72,72,0,0,0,True
+age_group | education,2,140,140,0,0,0,True
+age_group | marital_status,2,62,62,0,0,0,True
+age_group | race,2,53,53,0,0,0,True
+age_group | sex,2,27,27,0,0,0,True
+age_group | employment_status,2,69,69,0,0,0,True
+age_group | tax_filer_status,2,50,50,0,0,0,True
+class_of_worker | education,2,124,124,0,0,0,True
+class_of_worker | marital_status,2,63,63,0,0,0,True
+class_of_worker | race,2,51,51,0,0,0,True
+class_of_worker | sex,2,30,30,0,0,0,True
+class_of_worker | employment_status,2,62,62,0,0,0,True
+class_of_worker | tax_filer_status,2,59,59,0,0,0,True
+education | marital_status,2,120,120,0,0,0,True
+education | race,2,100,100,0,0,0,True
+education | sex,2,54,54,0,0,0,True
+education | employment_status,2,119,119,0,0,0,True
+education | tax_filer_status,2,118,118,0,0,0,True
+marital_status | race,2,45,45,0,0,0,True
+marital_status | sex,2,24,24,0,0,0,True
+marital_status | employment_status,2,57,57,0,0,0,True
+marital_status | tax_filer_status,2,34,34,0,0,0,True
+race | sex,2,18,18,0,0,0,True
+race | employment_status,2,46,46,0,0,0,True
+race | tax_filer_status,2,38,38,0,0,0,True
+sex | employment_status,2,27,27,0,0,0,True
+sex | tax_filer_status,2,21,21,0,0,0,True
+employment_status | tax_filer_status,2,53,53,0,0,0,True
+age_group | class_of_worker | education,3,647,647,0,0,0,True
+age_group | class_of_worker | marital_status,3,341,341,0,0,0,True
+age_group | class_of_worker | race,3,286,286,0,0,0,True
+age_group | class_of_worker | sex,3,203,203,0,0,0,True
+age_group | class_of_worker | employment_status,3,319,319,0,0,0,True
+age_group | class_of_worker | tax_filer_status,3,305,305,0,0,0,True
+age_group | education | marital_status,3,625,625,0,0,0,True
+age_group | education | race,3,510,510,0,0,0,True
+age_group | education | sex,3,413,413,0,0,0,True
+age_group | education | employment_status,3,642,642,0,0,0,True
+age_group | education | tax_filer_status,3,626,626,0,0,0,True
+age_group | marital_status | race,3,260,260,0,0,0,True
+age_group | marital_status | sex,3,179,179,0,0,0,True
+age_group | marital_status | employment_status,3,330,330,0,0,0,True
+age_group | marital_status | tax_filer_status,3,236,236,0,0,0,True
+age_group | race | sex,3,156,156,0,0,0,True
+age_group | race | employment_status,3,282,282,0,0,0,True
+age_group | race | tax_filer_status,3,243,243,0,0,0,True
+age_group | sex | employment_status,3,195,195,0,0,0,True
+age_group | sex | tax_filer_status,3,146,146,0,0,0,True
+age_group | employment_status | tax_filer_status,3,296,296,0,0,0,True
+class_of_worker | education | marital_status,3,529,529,0,0,0,True
+class_of_worker | education | race,3,444,444,0,0,0,True
+class_of_worker | education | sex,3,346,346,0,0,0,True
+class_of_worker | education | employment_status,3,491,491,0,0,0,True
+class_of_worker | education | tax_filer_status,3,538,538,0,0,0,True
+class_of_worker | marital_status | race,3,244,244,0,0,0,True
+class_of_worker | marital_status | sex,3,173,173,0,0,0,True
+class_of_worker | marital_status | employment_status,3,270,270,0,0,0,True
+class_of_worker | marital_status | tax_filer_status,3,228,228,0,0,0,True
+class_of_worker | race | sex,3,143,143,0,0,0,True
+class_of_worker | race | employment_status,3,230,230,0,0,0,True
+class_of_worker | race | tax_filer_status,3,232,232,0,0,0,True
+class_of_worker | sex | employment_status,3,169,169,0,0,0,True
+class_of_worker | sex | tax_filer_status,3,167,167,0,0,0,True
+class_of_worker | employment_status | tax_filer_status,3,263,263,0,0,0,True
+education | marital_status | race,3,442,442,0,0,0,True
+education | marital_status | sex,3,328,328,0,0,0,True
+education | marital_status | employment_status,3,530,530,0,0,0,True
+education | marital_status | tax_filer_status,3,455,455,0,0,0,True
+education | race | sex,3,278,278,0,0,0,True
+education | race | employment_status,3,437,437,0,0,0,True
+education | race | tax_filer_status,3,435,435,0,0,0,True
+education | sex | employment_status,3,325,325,0,0,0,True
+education | sex | tax_filer_status,3,337,337,0,0,0,True
+education | employment_status | tax_filer_status,3,520,520,0,0,0,True
+marital_status | race | sex,3,125,125,0,0,0,True
+marital_status | race | employment_status,3,227,227,0,0,0,True
+marital_status | race | tax_filer_status,3,171,171,0,0,0,True
+marital_status | sex | employment_status,3,158,158,0,0,0,True
+marital_status | sex | tax_filer_status,3,102,102,0,0,0,True
+marital_status | employment_status | tax_filer_status,3,208,208,0,0,0,True
+race | sex | employment_status,3,127,127,0,0,0,True
+race | sex | tax_filer_status,3,113,113,0,0,0,True
+race | employment_status | tax_filer_status,3,214,214,0,0,0,True
+sex | employment_status | tax_filer_status,3,153,153,0,0,0,True
+age_group | class_of_worker | education | marital_status,4,2177,2177,0,0,0,True
+age_group | class_of_worker | education | race,4,1873,1873,0,0,0,True
+age_group | class_of_worker | education | sex,4,1737,1737,0,0,0,True
+age_group | class_of_worker | education | employment_status,4,2137,2137,0,0,0,True
+age_group | class_of_worker | education | tax_filer_status,4,2204,2204,0,0,0,True
+age_group | class_of_worker | marital_status | race,4,1098,1098,0,0,0,True
+age_group | class_of_worker | marital_status | sex,4,908,908,0,0,0,True
+age_group | class_of_worker | marital_status | employment_status,4,1229,1229,0,0,0,True
+age_group | class_of_worker | marital_status | tax_filer_status,4,1055,1055,0,0,0,True
+age_group | class_of_worker | race | sex,4,775,775,0,0,0,True
+age_group | class_of_worker | race | employment_status,4,1057,1057,0,0,0,True
+age_group | class_of_worker | race | tax_filer_status,4,1055,1055,0,0,0,True
+age_group | class_of_worker | sex | employment_status,4,866,866,0,0,0,True
+age_group | class_of_worker | sex | tax_filer_status,4,836,836,0,0,0,True
+age_group | class_of_worker | employment_status | tax_filer_status,4,1169,1169,0,0,0,True
+age_group | education | marital_status | race,4,1802,1802,0,0,0,True
+age_group | education | marital_status | sex,4,1622,1622,0,0,0,True
+age_group | education | marital_status | employment_status,4,2161,2161,0,0,0,True
+age_group | education | marital_status | tax_filer_status,4,1910,1910,0,0,0,True
+age_group | education | race | sex,4,1397,1397,0,0,0,True
+age_group | education | race | employment_status,4,1880,1880,0,0,0,True
+age_group | education | race | tax_filer_status,4,1827,1827,0,0,0,True
+age_group | education | sex | employment_status,4,1721,1721,0,0,0,True
+age_group | education | sex | tax_filer_status,4,1669,1669,0,0,0,True
+age_group | education | employment_status | tax_filer_status,4,2219,2219,0,0,0,True
+age_group | marital_status | race | sex,4,707,707,0,0,0,True
+age_group | marital_status | race | employment_status,4,1081,1081,0,0,0,True
+age_group | marital_status | race | tax_filer_status,4,874,874,0,0,0,True
+age_group | marital_status | sex | employment_status,4,880,880,0,0,0,True
+age_group | marital_status | sex | tax_filer_status,4,653,653,0,0,0,True
+age_group | marital_status | employment_status | tax_filer_status,4,1044,1044,0,0,0,True
+age_group | race | sex | employment_status,4,766,766,0,0,0,True
+age_group | race | sex | tax_filer_status,4,666,666,0,0,0,True
+age_group | race | employment_status | tax_filer_status,4,1030,1030,0,0,0,True
+age_group | sex | employment_status | tax_filer_status,4,809,809,0,0,0,True
+class_of_worker | education | marital_status | race,4,1589,1589,0,0,0,True
+class_of_worker | education | marital_status | sex,4,1381,1381,0,0,0,True
+class_of_worker | education | marital_status | employment_status,4,1763,1763,0,0,0,True
+class_of_worker | education | marital_status | tax_filer_status,4,1662,1662,0,0,0,True
+class_of_worker | education | race | sex,4,1171,1171,0,0,0,True
+class_of_worker | education | race | employment_status,4,1483,1483,0,0,0,True
+class_of_worker | education | race | tax_filer_status,4,1594,1594,0,0,0,True
+class_of_worker | education | sex | employment_status,4,1271,1271,0,0,0,True
+class_of_worker | education | sex | tax_filer_status,4,1409,1409,0,0,0,True
+class_of_worker | education | employment_status | tax_filer_status,4,1759,1759,0,0,0,True
+class_of_worker | marital_status | race | sex,4,643,643,0,0,0,True
+class_of_worker | marital_status | race | employment_status,4,879,879,0,0,0,True
+class_of_worker | marital_status | race | tax_filer_status,4,797,797,0,0,0,True
+class_of_worker | marital_status | sex | employment_status,4,713,713,0,0,0,True
+class_of_worker | marital_status | sex | tax_filer_status,4,613,613,0,0,0,True
+class_of_worker | marital_status | employment_status | tax_filer_status,4,864,864,0,0,0,True
+class_of_worker | race | sex | employment_status,4,594,594,0,0,0,True
+class_of_worker | race | sex | tax_filer_status,4,621,621,0,0,0,True
+class_of_worker | race | employment_status | tax_filer_status,4,859,859,0,0,0,True
+class_of_worker | sex | employment_status | tax_filer_status,4,706,706,0,0,0,True
+education | marital_status | race | sex,4,1144,1144,0,0,0,True
+education | marital_status | race | employment_status,4,1569,1569,0,0,0,True
+education | marital_status | race | tax_filer_status,4,1412,1412,0,0,0,True
+education | marital_status | sex | employment_status,4,1357,1357,0,0,0,True
+education | marital_status | sex | tax_filer_status,4,1205,1205,0,0,0,True
+education | marital_status | employment_status | tax_filer_status,4,1668,1668,0,0,0,True
+education | race | sex | employment_status,4,1113,1113,0,0,0,True
+education | race | sex | tax_filer_status,4,1160,1160,0,0,0,True
+education | race | employment_status | tax_filer_status,4,1554,1554,0,0,0,True
+education | sex | employment_status | tax_filer_status,4,1379,1379,0,0,0,True
+marital_status | race | sex | employment_status,4,596,596,0,0,0,True
+marital_status | race | sex | tax_filer_status,4,470,470,0,0,0,True
+marital_status | race | employment_status | tax_filer_status,4,743,743,0,0,0,True
+marital_status | sex | employment_status | tax_filer_status,4,573,573,0,0,0,True
+race | sex | employment_status | tax_filer_status,4,584,584,0,0,0,True
+age_group | class_of_worker | education | marital_status | race,5,5602,5602,0,0,0,True
+age_group | class_of_worker | education | marital_status | sex,5,5408,5408,0,0,0,True
+age_group | class_of_worker | education | marital_status | employment_status,5,6308,6308,0,0,0,True
+age_group | class_of_worker | education | marital_status | tax_filer_status,5,5885,5885,0,0,0,True
+age_group | class_of_worker | education | race | sex,5,4788,4788,0,0,0,True
+age_group | class_of_worker | education | race | employment_status,5,5590,5590,0,0,0,True
+age_group | class_of_worker | education | race | tax_filer_status,5,5716,5716,0,0,0,True
+age_group | class_of_worker | education | sex | employment_status,5,5452,5452,0,0,0,True
+age_group | class_of_worker | education | sex | tax_filer_status,5,5541,5541,0,0,0,True
+age_group | class_of_worker | education | employment_status | tax_filer_status,5,6443,6443,0,0,0,True
+age_group | class_of_worker | marital_status | race | sex,5,2827,2827,0,0,0,True
+age_group | class_of_worker | marital_status | race | employment_status,5,3527,3527,0,0,0,True
+age_group | class_of_worker | marital_status | race | tax_filer_status,5,3184,3184,0,0,0,True
+age_group | class_of_worker | marital_status | sex | employment_status,5,3149,3149,0,0,0,True
+age_group | class_of_worker | marital_status | sex | tax_filer_status,5,2742,2742,0,0,0,True
+age_group | class_of_worker | marital_status | employment_status | tax_filer_status,5,3519,3519,0,0,0,True
+age_group | class_of_worker | race | sex | employment_status,5,2737,2737,0,0,0,True
+age_group | class_of_worker | race | sex | tax_filer_status,5,2719,2719,0,0,0,True
+age_group | class_of_worker | race | employment_status | tax_filer_status,5,3436,3436,0,0,0,True
+age_group | class_of_worker | sex | employment_status | tax_filer_status,5,3047,3047,0,0,0,True
+age_group | education | marital_status | race | sex,5,4519,4519,0,0,0,True
+age_group | education | marital_status | race | employment_status,5,5596,5596,0,0,0,True
+age_group | education | marital_status | race | tax_filer_status,5,5044,5044,0,0,0,True
+age_group | education | marital_status | sex | employment_status,5,5390,5390,0,0,0,True
+age_group | education | marital_status | sex | tax_filer_status,5,4770,4770,0,0,0,True
+age_group | education | marital_status | employment_status | tax_filer_status,5,5948,5948,0,0,0,True
+age_group | education | race | sex | employment_status,5,4775,4775,0,0,0,True
+age_group | education | race | sex | tax_filer_status,5,4666,4666,0,0,0,True
+age_group | education | race | employment_status | tax_filer_status,5,5732,5732,0,0,0,True
+age_group | education | sex | employment_status | tax_filer_status,5,5565,5565,0,0,0,True
+age_group | marital_status | race | sex | employment_status,5,2775,2775,0,0,0,True
+age_group | marital_status | race | sex | tax_filer_status,5,2279,2279,0,0,0,True
+age_group | marital_status | race | employment_status | tax_filer_status,5,3153,3153,0,0,0,True
+age_group | marital_status | sex | employment_status | tax_filer_status,5,2724,2724,0,0,0,True
+age_group | race | sex | employment_status | tax_filer_status,5,2678,2678,0,0,0,True
+class_of_worker | education | marital_status | race | sex,5,3952,3952,0,0,0,True
+class_of_worker | education | marital_status | race | employment_status,5,4696,4696,0,0,0,True
+class_of_worker | education | marital_status | race | tax_filer_status,5,4522,4522,0,0,0,True
+class_of_worker | education | marital_status | sex | employment_status,5,4369,4369,0,0,0,True
+class_of_worker | education | marital_status | sex | tax_filer_status,5,4186,4186,0,0,0,True
+class_of_worker | education | marital_status | employment_status | tax_filer_status,5,4993,4993,0,0,0,True
+class_of_worker | education | race | sex | employment_status,5,3665,3665,0,0,0,True
+class_of_worker | education | race | sex | tax_filer_status,5,4000,4000,0,0,0,True
+class_of_worker | education | race | employment_status | tax_filer_status,5,4695,4695,0,0,0,True
+class_of_worker | education | sex | employment_status | tax_filer_status,5,4434,4434,0,0,0,True
+class_of_worker | marital_status | race | sex | employment_status,5,2230,2230,0,0,0,True
+class_of_worker | marital_status | race | sex | tax_filer_status,5,2041,2041,0,0,0,True
+class_of_worker | marital_status | race | employment_status | tax_filer_status,5,2601,2601,0,0,0,True
+class_of_worker | marital_status | sex | employment_status | tax_filer_status,5,2246,2246,0,0,0,True
+class_of_worker | race | sex | employment_status | tax_filer_status,5,2212,2212,0,0,0,True
+education | marital_status | race | sex | employment_status,5,3864,3864,0,0,0,True
+education | marital_status | race | sex | tax_filer_status,5,3565,3565,0,0,0,True
+education | marital_status | race | employment_status | tax_filer_status,5,4478,4478,0,0,0,True
+education | marital_status | sex | employment_status | tax_filer_status,5,4207,4207,0,0,0,True
+education | race | sex | employment_status | tax_filer_status,5,3910,3910,0,0,0,True
+marital_status | race | sex | employment_status | tax_filer_status,5,1945,1945,0,0,0,True
+age_group | class_of_worker | education | marital_status | race | sex,6,13548,13548,0,0,0,True
+age_group | class_of_worker | education | marital_status | race | employment_status,6,15244,15244,0,0,0,True
+age_group | class_of_worker | education | marital_status | race | tax_filer_status,6,14392,14392,0,0,0,True
+age_group | class_of_worker | education | marital_status | sex | employment_status,6,15217,15217,0,0,0,True
+age_group | class_of_worker | education | marital_status | sex | tax_filer_status,6,14211,14211,0,0,0,True
+age_group | class_of_worker | education | marital_status | employment_status | tax_filer_status,6,16088,16088,0,0,0,True
+age_group | class_of_worker | education | race | sex | employment_status,6,13697,13697,0,0,0,True
+age_group | class_of_worker | education | race | sex | tax_filer_status,6,13880,13880,0,0,0,True
+age_group | class_of_worker | education | race | employment_status | tax_filer_status,6,15550,15550,0,0,0,True
+age_group | class_of_worker | education | sex | employment_status | tax_filer_status,6,15621,15621,0,0,0,True
+age_group | class_of_worker | marital_status | race | sex | employment_status,6,8743,8743,0,0,0,True
+age_group | class_of_worker | marital_status | race | sex | tax_filer_status,6,7923,7923,0,0,0,True
+age_group | class_of_worker | marital_status | race | employment_status | tax_filer_status,6,9501,9501,0,0,0,True
+age_group | class_of_worker | marital_status | sex | employment_status | tax_filer_status,6,8810,8810,0,0,0,True
+age_group | class_of_worker | race | sex | employment_status | tax_filer_status,6,8593,8593,0,0,0,True
+age_group | education | marital_status | race | sex | employment_status,6,13529,13529,0,0,0,True
+age_group | education | marital_status | race | sex | tax_filer_status,6,12275,12275,0,0,0,True
+age_group | education | marital_status | race | employment_status | tax_filer_status,6,14466,14466,0,0,0,True
+age_group | education | marital_status | sex | employment_status | tax_filer_status,6,14370,14370,0,0,0,True
+age_group | education | race | sex | employment_status | tax_filer_status,6,13935,13935,0,0,0,True
+age_group | marital_status | race | sex | employment_status | tax_filer_status,6,7897,7897,0,0,0,True
+class_of_worker | education | marital_status | race | sex | employment_status,6,11270,11270,0,0,0,True
+class_of_worker | education | marital_status | race | sex | tax_filer_status,6,10974,10974,0,0,0,True
+class_of_worker | education | marital_status | race | employment_status | tax_filer_status,6,12463,12463,0,0,0,True
+class_of_worker | education | marital_status | sex | employment_status | tax_filer_status,6,12169,12169,0,0,0,True
+class_of_worker | education | race | sex | employment_status | tax_filer_status,6,11411,11411,0,0,0,True
+class_of_worker | marital_status | race | sex | employment_status | tax_filer_status,6,6530,6530,0,0,0,True
+education | marital_status | race | sex | employment_status | tax_filer_status,6,10920,10920,0,0,0,True
+age_group | class_of_worker | education | marital_status | race | sex | employment_status,7,35879,35879,0,0,0,True
+age_group | class_of_worker | education | marital_status | race | sex | tax_filer_status,7,33948,33948,0,0,0,True
+age_group | class_of_worker | education | marital_status | race | employment_status | tax_filer_status,7,37256,37256,0,0,0,True
+age_group | class_of_worker | education | marital_status | sex | employment_status | tax_filer_status,7,37871,37871,0,0,0,True
+age_group | class_of_worker | education | race | sex | employment_status | tax_filer_status,7,36733,36733,0,0,0,True
+age_group | class_of_worker | marital_status | race | sex | employment_status | tax_filer_status,7,23035,23035,0,0,0,True
+age_group | education | marital_status | race | sex | employment_status | tax_filer_status,7,34194,34194,0,0,0,True
+class_of_worker | education | marital_status | race | sex | employment_status | tax_filer_status,7,29589,29589,0,0,0,True
+age_group | class_of_worker | education | marital_status | race | sex | employment_status | tax_filer_status,8,86043,86043,0,0,0,True

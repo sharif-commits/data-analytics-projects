@@ -1,0 +1,11 @@
+lateness_band,orders,avg_review_score,pct_one_star
+30+ days early,2732,4.256,8.1
+15-29 days early,32212,4.329,6.4
+8-14 days early,36364,4.311,6.4
+1-7 days early,17341,4.2,7.1
+on time,1292,4.034,8.5
+1-7 days late,3672,2.715,41.4
+8-14 days late,1479,1.672,70.6
+15-30 days late,1039,1.613,71.0
+more than 30 days late,345,2.058,63.2
+not delivered,2190,1.757,70.4

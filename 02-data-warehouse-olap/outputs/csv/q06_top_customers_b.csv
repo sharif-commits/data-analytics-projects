@@ -1,0 +1,6 @@
+customer_id,customer_unique_id,city,state,items,total_purchase_amount
+1617b1357756262bfa56ab541c47bc16,0a0a92112bd4c708ca5fde585afaa872,rio de janeiro,RJ,8,13664.08
+ec5b2ba62e574342386871631fafd3fc,763c8b1c9c68a0229c42c9fc6f662b93,vila velha,ES,4,7274.88
+c6e2731c5b391845f6800c97401a43a9,dc4802a71eae9be1dd28f5d788ceb526,campo grande,MS,1,6929.31
+f48d464a0baaea338cb25f816991ab1f,459bef486812aa25204be022145caa62,vitoria,ES,1,6922.21
+3fd6777bbce08a352fddd04e4a7cc8f6,ff4159b92c40ebe40454e3e6a7c35ed6,marilia,SP,1,6726.66

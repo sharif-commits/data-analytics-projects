@@ -1,0 +1,61 @@
+========================================================================
+PART 1 -- ETL into DuckDB snowflake warehouse
+========================================================================
+raw data : C:\Users\shariff\OneDrive\Desktop\courses\sem5\DA\Assignments\a2\M26_DA_A2\M26_DA_A2_Part1
+database : C:\Users\shariff\OneDrive\Desktop\courses\sem5\DA\Assignments\a2\part1\olist_dw.duckdb
+
+  [  0.07s]  01_create_schema.sql     Create snowflake schema (DDL)
+  [  6.88s]  02_load_staging.sql      Extract: raw CSV -> staging
+  [  4.59s]  03_load_dimensions.sql   Transform + Load: dimensions (top-down)
+  [  7.61s]  04_load_facts.sql        Transform + Load: fact tables
+  [  0.02s]  05_create_views.sql      Create analytic views
+            ------------------------ 
+  [ 19.16s]  total load time
+
+Row counts after load
+------------------------------------------------------------------------
+  dim_date                     dimension       2,193
+  dim_region                   dimension           6
+  dim_state                    dimension          28
+  dim_city                     dimension       6,246
+  dim_zip                      dimension      19,178
+  dim_customer                 dimension      99,442
+  dim_lead_origin              dimension          11
+  dim_seller_acquisition       dimension         843
+  dim_seller                   dimension       3,096
+  dim_category                 dimension          74
+  dim_product                  dimension      32,952
+  dim_order_status             dimension           9
+  dim_delivery_status          dimension           4
+  dim_delivery_bucket          dimension           6
+  dim_payment_type             dimension           6
+  dim_review                   dimension      98,674
+  fact_order_item              FACT          112,650
+  fact_order_payment           FACT          103,886
+
+Load validation
+------------------------------------------------------------------------
+  OK    1. fact_order_item row count == order_items.csv row count
+  OK    2. fact_order_payment row count == order_payments.csv row count
+  OK    3. distinct orders in fact == distinct orders in order_items.csv
+  OK    4. fact grain is unique on (order_id, order_item_id)
+  OK    5. SUM(revenue) in fact == SUM(price + freight) in staging (2dp)
+  OK    6. SUM(payment_value) in fact == SUM in staging (2dp)
+  OK    7. items whose order has NO delivery date are kept (delivered_date_key = -1)
+  OK    8. orders with NO review are kept (review_key = -1)
+  OK    9. geography: every dim_zip.city_key resolves (orphans)
+  OK   10. geography: every dim_city.state_key resolves (orphans)
+  OK   11. geography: every dim_state.region_key resolves (orphans)
+  OK   12. geography: no zip fell back to the Unknown city member
+  OK   13. geography: no city fell back to the Unknown state member
+  OK   14. product: every dim_product.category_key resolves (orphans)
+  OK   15. seller: every dim_seller.acquisition_key resolves (orphans)
+  OK   16. fact: no line item lost its customer
+  OK   17. fact: no line item lost its seller
+  OK   18. fact: no line item lost its product
+  OK   19. fact: every purchase date resolved in dim_date
+  OK   20. dim_date covers the full range of dates present in the data
+  OK   21. customer dimension is unique on customer_id
+  OK   22. review dimension is unique on order_id (one review per order)
+
+  22/22 checks passed

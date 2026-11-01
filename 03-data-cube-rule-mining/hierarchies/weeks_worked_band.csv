@@ -1,0 +1,10 @@
+value,parent
+0 weeks,Not working
+1-13 weeks,Part year
+14-26 weeks,Part year
+27-39 weeks,Most/full year
+40-51 weeks,Most/full year
+52 weeks,Most/full year
+Not working,ANY
+Part year,ANY
+Most/full year,ANY

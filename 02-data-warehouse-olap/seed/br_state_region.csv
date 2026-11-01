@@ -1,0 +1,28 @@
+state_code,state_name,region_code,region_name
+AC,Acre,N,North
+AL,Alagoas,NE,Northeast
+AP,Amapa,N,North
+AM,Amazonas,N,North
+BA,Bahia,NE,Northeast
+CE,Ceara,NE,Northeast
+DF,Distrito Federal,CW,Central-West
+ES,Espirito Santo,SE,Southeast
+GO,Goias,CW,Central-West
+MA,Maranhao,NE,Northeast
+MT,Mato Grosso,CW,Central-West
+MS,Mato Grosso do Sul,CW,Central-West
+MG,Minas Gerais,SE,Southeast
+PA,Para,N,North
+PB,Paraiba,NE,Northeast
+PR,Parana,S,South
+PE,Pernambuco,NE,Northeast
+PI,Piaui,NE,Northeast
+RJ,Rio de Janeiro,SE,Southeast
+RN,Rio Grande do Norte,NE,Northeast
+RS,Rio Grande do Sul,S,South
+RO,Rondonia,N,North
+RR,Roraima,N,North
+SC,Santa Catarina,S,South
+SP,Sao Paulo,SE,Southeast
+SE,Sergipe,NE,Northeast
+TO,Tocantins,N,North

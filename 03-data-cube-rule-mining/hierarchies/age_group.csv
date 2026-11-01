@@ -1,0 +1,14 @@
+value,parent
+00-15 child,Minor
+16-24 young adult,Young adult
+25-34,Prime working age
+35-44,Prime working age
+45-54,Older working age
+55-64,Older working age
+65-74 senior,Senior
+75+ elderly,Senior
+Minor,ANY
+Young adult,ANY
+Prime working age,ANY
+Older working age,ANY
+Senior,ANY

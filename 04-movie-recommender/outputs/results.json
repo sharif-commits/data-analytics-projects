@@ -1,0 +1,478 @@
+{
+ "prep": [
+  {
+   "step": "raw ratings",
+   "ratings": 100836,
+   "users": 610,
+   "movies": 9724
+  },
+  {
+   "step": "rating >= 3.0",
+   "ratings": 81763,
+   "users": 609,
+   "movies": 8452
+  },
+  {
+   "step": "users with >= 5 likes",
+   "ratings": 81759,
+   "users": 608,
+   "movies": 8452
+  }
+ ],
+ "n_train": 486,
+ "n_test": 122,
+ "n_inner": 389,
+ "n_val": 97,
+ "basket": {
+  "mean": 134.47203947368422,
+  "median": 61.5,
+  "min": 10,
+  "max": 2117
+ },
+ "runtime_cmp": [
+  {
+   "minsup": 0.3,
+   "itemsets": 23,
+   "fp_growth_s": 0.015114900000298803,
+   "apriori_s": 0.013350199999877077,
+   "identical": true
+  },
+  {
+   "minsup": 0.25,
+   "itemsets": 58,
+   "fp_growth_s": 0.01915240000016638,
+   "apriori_s": 0.034215799999856245,
+   "identical": true
+  },
+  {
+   "minsup": 0.2,
+   "itemsets": 186,
+   "fp_growth_s": 0.03748479999967458,
+   "apriori_s": 0.10123269999985496,
+   "identical": true
+  },
+  {
+   "minsup": 0.18,
+   "itemsets": 350,
+   "fp_growth_s": 0.0494221999997535,
+   "apriori_s": 0.16999880000003031,
+   "identical": true
+  },
+  {
+   "minsup": 0.15,
+   "itemsets": 1105,
+   "fp_growth_s": 0.10397439999997005,
+   "apriori_s": 0.4500316000003295,
+   "identical": true
+  },
+  {
+   "minsup": 0.12,
+   "itemsets": 4818,
+   "fp_growth_s": 0.3537399000001642,
+   "apriori_s": 1.362268800000038,
+   "identical": true
+  },
+  {
+   "minsup": 0.1,
+   "itemsets": 21026,
+   "fp_growth_s": 0.8765039999998407,
+   "apriori_s": 4.858519599999909,
+   "identical": true
+  },
+  {
+   "minsup": 0.09,
+   "itemsets": 53987,
+   "fp_growth_s": 1.445105699999658,
+   "apriori_s": 8.863158399999975,
+   "identical": true
+  },
+  {
+   "minsup": 0.08,
+   "itemsets": 169506,
+   "fp_growth_s": 3.504939800000102,
+   "apriori_s": 22.354943899999853,
+   "identical": true
+  }
+ ],
+ "extrapolated_itemsets": {
+  "0.01": 117991134.62336183,
+  "0.02": 46243384.12502577,
+  "0.03": 18123824.15137213,
+  "0.04": 7103135.034014484,
+  "0.05": 2783878.661039872,
+  "0.06": 1091064.7710174655
+ },
+ "final": {
+  "minsup": 0.1,
+  "minconf": 0.5,
+  "itemsets": 21026,
+  "rules": 9281,
+  "antecedents": 194,
+  "cons_len": {
+   "1": 2893,
+   "2": 3953,
+   "3": 1914,
+   "4": 476,
+   "5": 44,
+   "6": 1
+  }
+ },
+ "n_both_top100": 10,
+ "both_top100": [
+  {
+   "sup_rank": 13,
+   "conf_rank": 90,
+   "rule": "{Jurassic Park (1993) [480]} -> {Forrest Gump (1994) [356]}",
+   "support": 0.29218106995884774,
+   "confidence": 0.8352941176470589,
+   "lift": 1.5919723183391004
+  },
+  {
+   "sup_rank": 17,
+   "conf_rank": 30,
+   "rule": "{Star Wars: Episode V - The Empire Strikes Back (1980) [1196]} -> {Star Wars: Episode IV - A New Hope (1977) [260]}",
+   "support": 0.2757201646090535,
+   "confidence": 0.8758169934640523,
+   "lift": 2.325940212150434
+  },
+  {
+   "sup_rank": 32,
+   "conf_rank": 42,
+   "rule": "{Star Wars: Episode VI - Return of the Jedi (1983) [1210]} -> {Star Wars: Episode IV - A New Hope (1977) [260]}",
+   "support": 0.25925925925925924,
+   "confidence": 0.863013698630137,
+   "lift": 2.291938019312823
+  },
+  {
+   "sup_rank": 48,
+   "conf_rank": 91,
+   "rule": "{Apollo 13 (1995) [150]} -> {Forrest Gump (1994) [356]}",
+   "support": 0.24691358024691357,
+   "confidence": 0.8333333333333334,
+   "lift": 1.5882352941176472
+  },
+  {
+   "sup_rank": 55,
+   "conf_rank": 31,
+   "rule": "{Lord of the Rings: The Two Towers, The (2002) [5952]} -> {Lord of the Rings: The Fellowship of the Ring, The (2001) [4993]}",
+   "support": 0.24279835390946503,
+   "confidence": 0.8740740740740741,
+   "lift": 3.078260869565218
+  },
+  {
+   "sup_rank": 56,
+   "conf_rank": 45,
+   "rule": "{Lord of the Rings: The Return of the King, The (2003) [7153]} -> {Lord of the Rings: The Fellowship of the Ring, The (2001) [4993]}",
+   "support": 0.24279835390946503,
+   "confidence": 0.8613138686131386,
+   "lift": 3.0333227546810537
+  },
+  {
+   "sup_rank": 57,
+   "conf_rank": 53,
+   "rule": "{Lord of the Rings: The Fellowship of the Ring, The (2001) [4993]} -> {Lord of the Rings: The Two Towers, The (2002) [5952]}",
+   "support": 0.24279835390946503,
+   "confidence": 0.855072463768116,
+   "lift": 3.0782608695652174
+  },
+  {
+   "sup_rank": 58,
+   "conf_rank": 54,
+   "rule": "{Lord of the Rings: The Fellowship of the Ring, The (2001) [4993]} -> {Lord of the Rings: The Return of the King, The (2003) [7153]}",
+   "support": 0.24279835390946503,
+   "confidence": 0.855072463768116,
+   "lift": 3.0333227546810537
+  },
+  {
+   "sup_rank": 60,
+   "conf_rank": 35,
+   "rule": "{Lord of the Rings: The Two Towers, The (2002) [5952]} -> {Lord of the Rings: The Return of the King, The (2003) [7153]}",
+   "support": 0.24074074074074073,
+   "confidence": 0.8666666666666667,
+   "lift": 3.074452554744526
+  },
+  {
+   "sup_rank": 61,
+   "conf_rank": 56,
+   "rule": "{Lord of the Rings: The Return of the King, The (2003) [7153]} -> {Lord of the Rings: The Two Towers, The (2002) [5952]}",
+   "support": 0.24074074074074073,
+   "confidence": 0.8540145985401459,
+   "lift": 3.0744525547445254
+  }
+ ],
+ "top_sup_head": [
+  [
+   "{Shawshank Redemption, The (1994) [318]} -> {Forrest Gump (1994) [356]}",
+   0.36419753086419754,
+   0.7108433734939759,
+   1.3547838412473423
+  ],
+  [
+   "{Forrest Gump (1994) [356]} -> {Shawshank Redemption, The (1994) [318]}",
+   0.36419753086419754,
+   0.6941176470588235,
+   1.354783841247342
+  ],
+  [
+   "{Pulp Fiction (1994) [296]} -> {Forrest Gump (1994) [356]}",
+   0.345679012345679,
+   0.7336244541484717,
+   1.3982019008476754
+  ],
+  [
+   "{Forrest Gump (1994) [356]} -> {Pulp Fiction (1994) [296]}",
+   0.345679012345679,
+   0.6588235294117647,
+   1.3982019008476751
+  ],
+  [
+   "{Pulp Fiction (1994) [296]} -> {Shawshank Redemption, The (1994) [318]}",
+   0.3374485596707819,
+   0.7161572052401747,
+   1.3978008102278108
+  ],
+  [
+   "{Shawshank Redemption, The (1994) [318]} -> {Pulp Fiction (1994) [296]}",
+   0.3374485596707819,
+   0.6586345381526104,
+   1.3978008102278108
+  ],
+  [
+   "{Silence of the Lambs, The (1991) [593]} -> {Pulp Fiction (1994) [296]}",
+   0.30246913580246915,
+   0.7135922330097088,
+   1.5144359180904736
+  ],
+  [
+   "{Pulp Fiction (1994) [296]} -> {Silence of the Lambs, The (1991) [593]}",
+   0.30246913580246915,
+   0.6419213973799127,
+   1.5144359180904736
+  ],
+  [
+   "{Silence of the Lambs, The (1991) [593]} -> {Shawshank Redemption, The (1994) [318]}",
+   0.3004115226337449,
+   0.7087378640776699,
+   1.3833196865130424
+  ],
+  [
+   "{Shawshank Redemption, The (1994) [318]} -> {Silence of the Lambs, The (1991) [593]}",
+   0.3004115226337449,
+   0.5863453815261044,
+   1.3833196865130424
+  ]
+ ],
+ "top_conf_head": [
+  [
+   "{Dark Knight Rises, The (2012) [91529]} -> {Dark Knight, The (2008) [58559]}",
+   0.11316872427983539,
+   0.9821428571428571,
+   4.261798469387755
+  ],
+  [
+   "{Godfather: Part II, The (1974) [1221]} -> {Godfather, The (1972) [858]}",
+   0.19753086419753085,
+   0.96,
+   3.3089361702127658
+  ],
+  [
+   "{Back to the Future Part II (1989) [2011]} -> {Back to the Future (1985) [1270]}",
+   0.11316872427983539,
+   0.9482758620689655,
+   3.7166295884315907
+  ],
+  [
+   "{Mrs. Doubtfire (1993) [500]} -> {Forrest Gump (1994) [356]}",
+   0.19135802469135801,
+   0.9393939393939394,
+   1.7903743315508023
+  ],
+  [
+   "{Sleepless in Seattle (1993) [539]} -> {Forrest Gump (1994) [356]}",
+   0.14609053497942387,
+   0.922077922077922,
+   1.7573720397249808
+  ],
+  [
+   "{Batman Forever (1995) [153]} -> {Batman (1989) [592]}",
+   0.1440329218106996,
+   0.9210526315789473,
+   3.267383787936996
+  ],
+  [
+   "{Back to the Future Part III (1990) [2012]} -> {Back to the Future (1985) [1270]}",
+   0.11316872427983539,
+   0.9166666666666666,
+   3.5927419354838706
+  ],
+  [
+   "{Kill Bill: Vol. 2 (2004) [7438]} -> {Kill Bill: Vol. 1 (2003) [6874]}",
+   0.15637860082304528,
+   0.9156626506024096,
+   4.587753074152279
+  ],
+  [
+   "{X2: X-Men United (2003) [6333]} -> {X-Men (2000) [3793]}",
+   0.102880658436214,
+   0.9090909090909091,
+   4.374437443744374
+  ],
+  [
+   "{Trainspotting (1996) [778]} -> {Pulp Fiction (1994) [296]}",
+   0.15637860082304528,
+   0.9047619047619048,
+   1.9201497192763568
+  ]
+ ],
+ "scorer_table": [
+  {
+   "scorer": "max_conf",
+   "P@1": 0.35051546391752575,
+   "P@5": 0.2701030927835052,
+   "P@10": 0.25051546391752577,
+   "R@5": 0.0350128579372131,
+   "R@10": 0.0645777251228317
+  },
+  {
+   "scorer": "sum_conf",
+   "P@1": 0.38144329896907214,
+   "P@5": 0.2721649484536083,
+   "P@10": 0.2391752577319588,
+   "R@5": 0.03709356494032735,
+   "R@10": 0.0628465764376744
+  },
+  {
+   "scorer": "max_lift",
+   "P@1": 0.3917525773195876,
+   "P@5": 0.2907216494845361,
+   "P@10": 0.26804123711340205,
+   "R@5": 0.036316692682102795,
+   "R@10": 0.07013672664225827
+  },
+  {
+   "scorer": "popularity",
+   "P@1": 0.28865979381443296,
+   "P@5": 0.20412371134020624,
+   "P@10": 0.18969072164948456,
+   "R@5": 0.024750577464419516,
+   "R@10": 0.047114231075374206
+  }
+ ],
+ "scorer": "max_lift",
+ "curve": [
+  {
+   "k": 1,
+   "precision_ARM": 0.22131147540983606,
+   "recall_ARM": 0.008308101212504445,
+   "precision_popularity": 0.21311475409836064,
+   "recall_popularity": 0.005224234418207357
+  },
+  {
+   "k": 2,
+   "precision_ARM": 0.22131147540983606,
+   "recall_ARM": 0.013998780896491226,
+   "precision_popularity": 0.20901639344262296,
+   "recall_popularity": 0.011488368312025418
+  },
+  {
+   "k": 3,
+   "precision_ARM": 0.22131147540983606,
+   "recall_ARM": 0.020460035782583062,
+   "precision_popularity": 0.20218579234972672,
+   "recall_popularity": 0.016530452201694336
+  },
+  {
+   "k": 4,
+   "precision_ARM": 0.22336065573770492,
+   "recall_ARM": 0.026815541121524285,
+   "precision_popularity": 0.19262295081967212,
+   "recall_popularity": 0.021127442186200676
+  },
+  {
+   "k": 5,
+   "precision_ARM": 0.2180327868852459,
+   "recall_ARM": 0.03348641059078411,
+   "precision_popularity": 0.18360655737704917,
+   "recall_popularity": 0.025645225550590033
+  },
+  {
+   "k": 6,
+   "precision_ARM": 0.21311475409836061,
+   "recall_ARM": 0.03926288499028398,
+   "precision_popularity": 0.18169398907103823,
+   "recall_popularity": 0.030601333547269828
+  },
+  {
+   "k": 7,
+   "precision_ARM": 0.22014051522248243,
+   "recall_ARM": 0.04599875342390721,
+   "precision_popularity": 0.18618266978922712,
+   "recall_popularity": 0.03614022601332535
+  },
+  {
+   "k": 8,
+   "precision_ARM": 0.22131147540983606,
+   "recall_ARM": 0.05240154577078402,
+   "precision_popularity": 0.18545081967213115,
+   "recall_popularity": 0.040411476049229615
+  },
+  {
+   "k": 9,
+   "precision_ARM": 0.21675774134790526,
+   "recall_ARM": 0.05698222579048959,
+   "precision_popularity": 0.18123861566484517,
+   "recall_popularity": 0.04451574357825589
+  },
+  {
+   "k": 10,
+   "precision_ARM": 0.20901639344262293,
+   "recall_ARM": 0.06079414228743624,
+   "precision_popularity": 0.1754098360655738,
+   "recall_popularity": 0.04863426796735182
+  }
+ ],
+ "test_users_eval": 122,
+ "zero_rec_users": 6,
+ "full10_share": 0.9426229508196722,
+ "reachable_truth": 0.32086597857031146,
+ "hit_share": 0.6967213114754098,
+ "recall_ceiling": 0.3903732343957194,
+ "samples": [
+  {
+   "user": 340,
+   "type": "best recall@10",
+   "liked": 28,
+   "P@10": 0.6,
+   "R@10": 0.42857142857142855,
+   "recommended (✓ = in ground truth)": "✓ Firm, The (1993); ✓ Crimson Tide (1995); True Lies (1994); Aladdin (1992); ✓ Braveheart (1995); ✓ Terminator 2: Judgment Day (1991); Speed (1994); ✓ Star Trek: Generations (1994); ✓ Jurassic Park (1993); Silence of the Lambs, The (1991)",
+   "last 3 input movies": "Stargate (1994); Clear and Present Danger (1994); Forrest Gump (1994)"
+  },
+  {
+   "user": 107,
+   "type": "typical (median P@10 with ≥1 hit)",
+   "liked": 34,
+   "P@10": 0.3,
+   "R@10": 0.17647058823529413,
+   "recommended (✓ = in ground truth)": "Fugitive, The (1993); Firm, The (1993); ✓ Crimson Tide (1995); Batman (1989); Aladdin (1992); ✓ Braveheart (1995); Terminator 2: Judgment Day (1991); Forrest Gump (1994); Jurassic Park (1993); ✓ Stargate (1994)",
+   "last 3 input movies": "Shawshank Redemption, The (1994); Ace Ventura: Pet Detective (1994); Clear and Present Danger (1994)"
+  },
+  {
+   "user": 318,
+   "type": "heavy user (largest history)",
+   "liked": 853,
+   "P@10": 0.4,
+   "R@10": 0.00936768149882904,
+   "recommended (✓ = in ground truth)": "Kill Bill: Vol. 2 (2004); Incredibles, The (2004); Fight Club (1999); ✓ Shawshank Redemption, The (1994); Gladiator (2000); ✓ Seven (a.k.a. Se7en) (1995); Usual Suspects, The (1995); Ocean's Eleven (2001); ✓ Reservoir Dogs (1992); ✓ Up (2009)",
+   "last 3 input movies": "League of Extraordinary Gentlemen, The (a.k.a. LXG) (2003); Dogma (1999); Kiss Kiss Bang Bang (2005)"
+  },
+  {
+   "user": 333,
+   "type": "light user (smallest history)",
+   "liked": 14,
+   "P@10": 0.0,
+   "R@10": 0.0,
+   "recommended (✓ = in ground truth)": "Godfather, The (1972); Fargo (1996); Forrest Gump (1994); Usual Suspects, The (1995); Godfather: Part II, The (1974); Shawshank Redemption, The (1994); Pulp Fiction (1994); Fight Club (1999); American Beauty (1999); Silence of the Lambs, The (1991)",
+   "last 3 input movies": "Small Time Crooks (2000); Shanghai Noon (2000); Scary Movie (2000)"
+  }
+ ]
+}

@@ -1,0 +1,103 @@
+# Top 100 association rules by CONFIDENCE (ties: support, then lift)
+# minsup = 0.1, minconf = 0.5; mined with FP-growth (from scratch) on 486 training users; 9281 rules in total
+rank | rule {antecedent} -> {consequent} | support | confidence | lift
+1 | {Dark Knight Rises, The (2012) [91529]} -> {Dark Knight, The (2008) [58559]} | 0.1132 | 0.9821 | 4.2618
+2 | {Godfather: Part II, The (1974) [1221]} -> {Godfather, The (1972) [858]} | 0.1975 | 0.9600 | 3.3089
+3 | {Back to the Future Part II (1989) [2011]} -> {Back to the Future (1985) [1270]} | 0.1132 | 0.9483 | 3.7166
+4 | {Mrs. Doubtfire (1993) [500]} -> {Forrest Gump (1994) [356]} | 0.1914 | 0.9394 | 1.7904
+5 | {Sleepless in Seattle (1993) [539]} -> {Forrest Gump (1994) [356]} | 0.1461 | 0.9221 | 1.7574
+6 | {Batman Forever (1995) [153]} -> {Batman (1989) [592]} | 0.1440 | 0.9211 | 3.2674
+7 | {Back to the Future Part III (1990) [2012]} -> {Back to the Future (1985) [1270]} | 0.1132 | 0.9167 | 3.5927
+8 | {Kill Bill: Vol. 2 (2004) [7438]} -> {Kill Bill: Vol. 1 (2003) [6874]} | 0.1564 | 0.9157 | 4.5878
+9 | {X2: X-Men United (2003) [6333]} -> {X-Men (2000) [3793]} | 0.1029 | 0.9091 | 4.3744
+10 | {Trainspotting (1996) [778]} -> {Pulp Fiction (1994) [296]} | 0.1564 | 0.9048 | 1.9201
+11 | {Green Mile, The (1999) [3147]} -> {Shawshank Redemption, The (1994) [318]} | 0.1564 | 0.9048 | 1.7659
+12 | {Matrix Reloaded, The (2003) [6365]} -> {Matrix, The (1999) [2571]} | 0.1091 | 0.8983 | 2.1091
+13 | {Home Alone (1990) [586]} -> {Forrest Gump (1994) [356]} | 0.1255 | 0.8971 | 1.7097
+14 | {Pretty Woman (1990) [597]} -> {Forrest Gump (1994) [356]} | 0.1852 | 0.8911 | 1.6983
+15 | {In the Line of Fire (1993) [474]} -> {Fugitive, The (1993) [457]} | 0.1008 | 0.8909 | 3.0927
+16 | {Natural Born Killers (1994) [288]} -> {Pulp Fiction (1994) [296]} | 0.1008 | 0.8909 | 1.8908
+17 | {Indiana Jones and the Last Crusade (1989) [1291]} -> {Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) [1198]} | 0.1996 | 0.8899 | 2.8454
+18 | {Minority Report (2002) [5445]} -> {Matrix, The (1999) [2571]} | 0.1626 | 0.8876 | 2.0840
+19 | {Big Lebowski, The (1998) [1732]} -> {Pulp Fiction (1994) [296]} | 0.1440 | 0.8861 | 1.8805
+20 | {Back to the Future Part III (1990) [2012]} -> {Forrest Gump (1994) [356]} | 0.1091 | 0.8833 | 1.6835
+21 | {Green Mile, The (1999) [3147]} -> {Forrest Gump (1994) [356]} | 0.1523 | 0.8810 | 1.6790
+22 | {City of God (Cidade de Deus) (2002) [6016]} -> {Fight Club (1999) [2959]} | 0.1049 | 0.8793 | 2.4702
+23 | {Reservoir Dogs (1992) [1089]} -> {Pulp Fiction (1994) [296]} | 0.1790 | 0.8788 | 1.8650
+24 | {Sin City (2005) [32587]} -> {Matrix, The (1999) [2571]} | 0.1193 | 0.8788 | 2.0632
+25 | {Shaun of the Dead (2004) [8874]} -> {Fight Club (1999) [2959]} | 0.1029 | 0.8772 | 2.4643
+26 | {Shaun of the Dead (2004) [8874]} -> {Matrix, The (1999) [2571]} | 0.1029 | 0.8772 | 2.0595
+27 | {Shrek 2 (2004) [8360]} -> {Shrek (2001) [4306]} | 0.1173 | 0.8769 | 3.5222
+28 | {Indiana Jones and the Temple of Doom (1984) [2115]} -> {Indiana Jones and the Last Crusade (1989) [1291]} | 0.1461 | 0.8765 | 3.9083
+29 | {Indiana Jones and the Temple of Doom (1984) [2115]} -> {Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) [1198]} | 0.1461 | 0.8765 | 2.8026
+30 | {Star Wars: Episode V - The Empire Strikes Back (1980) [1196]} -> {Star Wars: Episode IV - A New Hope (1977) [260]} | 0.2757 | 0.8758 | 2.3259
+31 | {Lord of the Rings: The Two Towers, The (2002) [5952]} -> {Lord of the Rings: The Fellowship of the Ring, The (2001) [4993]} | 0.2428 | 0.8741 | 3.0783
+32 | {Clear and Present Danger (1994) [349]} -> {Fugitive, The (1993) [457]} | 0.1399 | 0.8718 | 3.0264
+33 | {Four Weddings and a Funeral (1994) [357]} -> {Forrest Gump (1994) [356]} | 0.1255 | 0.8714 | 1.6608
+34 | {Harry Potter and the Prisoner of Azkaban (2004) [8368]} -> {Lord of the Rings: The Return of the King, The (2003) [7153]} | 0.1235 | 0.8696 | 3.0847
+35 | {Lord of the Rings: The Two Towers, The (2002) [5952]} -> {Lord of the Rings: The Return of the King, The (2003) [7153]} | 0.2407 | 0.8667 | 3.0745
+36 | {Departed, The (2006) [48516]} -> {Fight Club (1999) [2959]} | 0.1461 | 0.8659 | 2.4324
+37 | {Departed, The (2006) [48516]} -> {Shawshank Redemption, The (1994) [318]} | 0.1461 | 0.8659 | 1.6900
+38 | {Firm, The (1993) [454]} -> {Fugitive, The (1993) [457]} | 0.1317 | 0.8649 | 3.0023
+39 | {Quiz Show (1994) [300]} -> {Pulp Fiction (1994) [296]} | 0.1049 | 0.8644 | 1.8345
+40 | {Beauty and the Beast (1991) [595]} -> {Aladdin (1992) [588]} | 0.1955 | 0.8636 | 2.9352
+41 | {Sin City (2005) [32587]} -> {Fight Club (1999) [2959]} | 0.1173 | 0.8636 | 2.4262
+42 | {Star Wars: Episode VI - Return of the Jedi (1983) [1210]} -> {Star Wars: Episode IV - A New Hope (1977) [260]} | 0.2593 | 0.8630 | 2.2919
+43 | {Terminator, The (1984) [1240]} -> {Matrix, The (1999) [2571]} | 0.1667 | 0.8617 | 2.0231
+44 | {Casino Royale (2006) [49272]} -> {Lord of the Rings: The Return of the King, The (2003) [7153]} | 0.1152 | 0.8615 | 3.0563
+45 | {Lord of the Rings: The Return of the King, The (2003) [7153]} -> {Lord of the Rings: The Fellowship of the Ring, The (2001) [4993]} | 0.2428 | 0.8613 | 3.0333
+46 | {Goodfellas (1990) [1213]} -> {Pulp Fiction (1994) [296]} | 0.1728 | 0.8571 | 1.8191
+47 | {Kill Bill: Vol. 2 (2004) [7438]} -> {Fight Club (1999) [2959]} | 0.1461 | 0.8554 | 2.4031
+48 | {Catch Me If You Can (2002) [5989]} -> {Matrix, The (1999) [2571]} | 0.1461 | 0.8554 | 2.0084
+49 | {Catch Me If You Can (2002) [5989]} -> {Forrest Gump (1994) [356]} | 0.1461 | 0.8554 | 1.6303
+50 | {Star Wars: Episode I - The Phantom Menace (1999) [2628]} -> {Star Wars: Episode IV - A New Hope (1977) [260]} | 0.1337 | 0.8553 | 2.2714
+51 | {Fifth Element, The (1997) [1527]} -> {Matrix, The (1999) [2571]} | 0.1337 | 0.8553 | 2.0080
+52 | {Harry Potter and the Sorcerer's Stone (a.k.a. Harry Potter and the Philosopher's Stone) (2001) [4896]} -> {Forrest Gump (1994) [356]} | 0.1337 | 0.8553 | 1.6300
+53 | {Lord of the Rings: The Fellowship of the Ring, The (2001) [4993]} -> {Lord of the Rings: The Two Towers, The (2002) [5952]} | 0.2428 | 0.8551 | 3.0783
+54 | {Lord of the Rings: The Fellowship of the Ring, The (2001) [4993]} -> {Lord of the Rings: The Return of the King, The (2003) [7153]} | 0.2428 | 0.8551 | 3.0333
+55 | {Harry Potter and the Chamber of Secrets (2002) [5816]} -> {Forrest Gump (1994) [356]} | 0.1214 | 0.8551 | 1.6297
+56 | {Lord of the Rings: The Return of the King, The (2003) [7153]} -> {Lord of the Rings: The Two Towers, The (2002) [5952]} | 0.2407 | 0.8540 | 3.0745
+57 | {Bourne Identity, The (2002) [5418]} -> {Matrix, The (1999) [2571]} | 0.1440 | 0.8537 | 2.0042
+58 | {Total Recall (1990) [2916]} -> {Matrix, The (1999) [2571]} | 0.1193 | 0.8529 | 2.0026
+59 | {V for Vendetta (2006) [44191]} -> {Fight Club (1999) [2959]} | 0.1420 | 0.8519 | 2.3931
+60 | {V for Vendetta (2006) [44191]} -> {Matrix, The (1999) [2571]} | 0.1420 | 0.8519 | 2.0000
+61 | {Ghost (1990) [587]} -> {Forrest Gump (1994) [356]} | 0.1420 | 0.8519 | 1.6235
+62 | {Terminator, The (1984) [1240]} -> {Terminator 2: Judgment Day (1991) [589]} | 0.1646 | 0.8511 | 2.6014
+63 | {Back to the Future Part III (1990) [2012]} -> {Forrest Gump (1994) [356], Back to the Future (1985) [1270]} | 0.1049 | 0.8500 | 4.1727
+64 | {Cast Away (2000) [4022]} -> {Shawshank Redemption, The (1994) [318]} | 0.1276 | 0.8493 | 1.6577
+65 | {Hunt for Red October, The (1990) [1610]} -> {Matrix, The (1999) [2571]} | 0.1152 | 0.8485 | 1.9921
+66 | {Sin City (2005) [32587]} -> {Pulp Fiction (1994) [296]} | 0.1152 | 0.8485 | 1.8007
+67 | {Bourne Supremacy, The (2004) [8665]} -> {Matrix, The (1999) [2571]} | 0.1029 | 0.8475 | 1.9897
+68 | {Shrek 2 (2004) [8360]} -> {Forrest Gump (1994) [356]} | 0.1132 | 0.8462 | 1.6127
+69 | {Casino Royale (2006) [49272]} -> {Forrest Gump (1994) [356]} | 0.1132 | 0.8462 | 1.6127
+70 | {Kill Bill: Vol. 1 (2003) [6874]} -> {Fight Club (1999) [2959]} | 0.1687 | 0.8454 | 2.3748
+71 | {Lethal Weapon (1987) [2000]} -> {Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981) [1198]} | 0.1008 | 0.8448 | 2.7012
+72 | {Lethal Weapon (1987) [2000]} -> {Matrix, The (1999) [2571]} | 0.1008 | 0.8448 | 1.9835
+73 | {City of God (Cidade de Deus) (2002) [6016]} -> {Pulp Fiction (1994) [296]} | 0.1008 | 0.8448 | 1.7930
+74 | {Back to the Future Part II (1989) [2011]} -> {Forrest Gump (1994) [356]} | 0.1008 | 0.8448 | 1.6101
+75 | {Indiana Jones and the Last Crusade (1989) [1291]} -> {Star Wars: Episode V - The Empire Strikes Back (1980) [1196]} | 0.1893 | 0.8440 | 2.6811
+76 | {Pan's Labyrinth (Laberinto del fauno, El) (2006) [48394]} -> {Fight Club (1999) [2959]} | 0.1091 | 0.8413 | 2.3633
+77 | {Pan's Labyrinth (Laberinto del fauno, El) (2006) [48394]} -> {Matrix, The (1999) [2571]} | 0.1091 | 0.8413 | 1.9752
+78 | {Indiana Jones and the Temple of Doom (1984) [2115]} -> {Star Wars: Episode V - The Empire Strikes Back (1980) [1196]} | 0.1399 | 0.8395 | 2.6667
+79 | {Indiana Jones and the Temple of Doom (1984) [2115]} -> {Star Wars: Episode IV - A New Hope (1977) [260]} | 0.1399 | 0.8395 | 2.2295
+80 | {Indiana Jones and the Temple of Doom (1984) [2115]} -> {Matrix, The (1999) [2571]} | 0.1399 | 0.8395 | 1.9710
+81 | {Total Recall (1990) [2916]} -> {Star Wars: Episode V - The Empire Strikes Back (1980) [1196]} | 0.1173 | 0.8382 | 2.6626
+82 | {Requiem for a Dream (2000) [3949]} -> {Fight Club (1999) [2959]} | 0.1276 | 0.8378 | 2.3537
+83 | {Snatch (2000) [4011]} -> {Fight Club (1999) [2959]} | 0.1276 | 0.8378 | 2.3537
+84 | {Firm, The (1993) [454]} -> {Forrest Gump (1994) [356]} | 0.1276 | 0.8378 | 1.5968
+85 | {Speed (1994) [377]} -> {Forrest Gump (1994) [356]} | 0.1996 | 0.8362 | 1.5937
+86 | {Jerry Maguire (1996) [1393]} -> {Forrest Gump (1994) [356]} | 0.1049 | 0.8361 | 1.5934
+87 | {Full Metal Jacket (1987) [1222]} -> {Pulp Fiction (1994) [296]} | 0.1255 | 0.8356 | 1.7734
+88 | {Donnie Darko (2001) [4878]} -> {Fight Club (1999) [2959]} | 0.1358 | 0.8354 | 2.3470
+89 | {Ferris Bueller's Day Off (1986) [2918]} -> {Forrest Gump (1994) [356]} | 0.1358 | 0.8354 | 1.5923
+90 | {Jurassic Park (1993) [480]} -> {Forrest Gump (1994) [356]} | 0.2922 | 0.8353 | 1.5920
+91 | {Apollo 13 (1995) [150]} -> {Forrest Gump (1994) [356]} | 0.2469 | 0.8333 | 1.5882
+92 | {Being John Malkovich (1999) [2997]} -> {American Beauty (1999) [2858]} | 0.1337 | 0.8333 | 2.5633
+93 | {Prestige, The (2006) [48780]} -> {Fight Club (1999) [2959]} | 0.1132 | 0.8333 | 2.3410
+94 | {Gattaca (1997) [1653]} -> {Matrix, The (1999) [2571]} | 0.1132 | 0.8333 | 1.9565
+95 | {Prestige, The (2006) [48780]} -> {Shawshank Redemption, The (1994) [318]} | 0.1132 | 0.8333 | 1.6265
+96 | {Cliffhanger (1993) [434]} -> {True Lies (1994) [380]} | 0.1029 | 0.8333 | 3.4034
+97 | {Bourne Ultimatum, The (2007) [54286]} -> {Matrix, The (1999) [2571]} | 0.1029 | 0.8333 | 1.9565
+98 | {Avatar (2009) [72998]} -> {Forrest Gump (1994) [356]} | 0.1029 | 0.8333 | 1.5882
+99 | {Dances with Wolves (1990) [590]} -> {Forrest Gump (1994) [356]} | 0.2037 | 0.8319 | 1.5856
+100 | {Babe (1995) [34]} -> {Forrest Gump (1994) [356]} | 0.1420 | 0.8313 | 1.5844

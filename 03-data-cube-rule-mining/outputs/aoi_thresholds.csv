@@ -1,0 +1,5 @@
+max_relations,tuples_out,climb_steps,generalisations,elapsed_s
+5,2,7,312211,0.897
+10,8,6,312203,0.863
+20,8,6,312203,0.855
+50,40,5,312163,0.854

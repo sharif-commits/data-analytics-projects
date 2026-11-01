@@ -1,0 +1,6 @@
+configuration,elapsed_s,elapsed_runs_s,cells,calls,partitions,rows_sorted,pruned_partitions,skipped_sorts,constant_shortcuts,collapsed_nodes
+none,6.259,6.19;6.26;7.33,86043,86043,57935,74245560,136948,0,0,0
++reorder,5.598,5.58;5.61;5.60,86043,86043,62579,73935306,97600,0,0,0
++precount prune,6.138,6.32;6.14;6.11,86043,86043,51820,73259733,97600,10759,0,0
++constant shortcut,6.657,6.00;6.66;7.11,86043,86043,51553,72169017,97600,10759,267,0
++collapse (all),8.328,7.76;17.28;8.33,86043,86024,51553,72169017,97600,10759,248,19

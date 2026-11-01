@@ -1,0 +1,9 @@
+grouping_id,grouping_set,cells,revenue_in_slice
+0,"(Region, Category, Year)",718,15843553.24
+1,"(Region, Category)",348,15843553.24
+2,"(Region, Year)",15,15843553.24
+3,(Region),5,15843553.24
+4,"(Category, Year)",178,15843553.24
+5,(Category),74,15843553.24
+6,(Year),3,15843553.24
+7,()  grand total,1,15843553.24

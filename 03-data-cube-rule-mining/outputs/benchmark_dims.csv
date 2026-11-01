@@ -1,0 +1,10 @@
+n_dims,dims,elapsed_s,cells,calls,rows_sorted,pruned_partitions
+2,"age_group, class_of_worker",0.103,72,72,897855,16
+3,"age_group, class_of_worker, education",0.239,647,647,2094688,480
+4,"age_group, class_of_worker, education, marital_status",0.505,2177,2177,4481753,2815
+5,"age_group, class_of_worker, education, marital_status, race",0.974,5602,5602,9225689,9077
+6,"age_group, class_of_worker, education, marital_status, race, sex",1.874,13548,13548,18641646,12328
+7,"age_group, class_of_worker, education, marital_status, race, sex, employment_status",3.887,35879,35879,37373349,62277
+8,"age_group, class_of_worker, education, marital_status, race, sex, employment_status, tax_filer_status",8.43,86043,86043,74245560,136948
+9,"age_group, class_of_worker, education, marital_status, race, sex, employment_status, tax_filer_status, household_summary",19.023,202847,202847,146876955,376629
+10,"age_group, class_of_worker, education, marital_status, race, sex, employment_status, tax_filer_status, household_summary, citizenship",47.74,432722,432722,288971308,989287

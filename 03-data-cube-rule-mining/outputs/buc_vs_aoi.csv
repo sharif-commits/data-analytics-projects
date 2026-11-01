@@ -1,0 +1,8 @@
+aspect,buc_inmem,buc_paged,aoi
+input tuples,299285,299285,299285
+output rows,5602,5602,40
+runtime (s),0.97,0.86,0.12
+output bounded by,minsup,minsup,max_relations
+needs concept hierarchies,no,no,yes
+exact iceberg counts,yes,yes,yes (per rule)
+out-of-core (disk spill),no,yes,no

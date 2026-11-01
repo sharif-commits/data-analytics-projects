@@ -1,0 +1,6 @@
+customer_unique_id,city,state,region,orders,items,product_spend,freight_spend,total_purchase_amount
+0a0a92112bd4c708ca5fde585afaa872,rio de janeiro,RJ,Southeast,1,8,13440.0,224.08,13664.08
+da122df9eeddfedc1dc1f5349a1a690c,araruama,RJ,Southeast,2,2,7388.0,183.63,7571.63
+763c8b1c9c68a0229c42c9fc6f662b93,vila velha,ES,Southeast,1,4,7160.0,114.88,7274.88
+dc4802a71eae9be1dd28f5d788ceb526,campo grande,MS,Central-West,1,1,6735.0,194.31,6929.31
+459bef486812aa25204be022145caa62,vitoria,ES,Southeast,1,1,6729.0,193.21,6922.21

@@ -1,0 +1,16 @@
+region,region_revenue,rank_in_region,category,revenue,orders,pct_of_region
+Southeast,10232323.5,1,bed_bath_table,921076.09,7137,9.0
+Southeast,10232323.5,2,health_beauty,886750.28,5927,8.7
+Southeast,10232323.5,3,watches_gifts,828720.08,3708,8.1
+South,2296975.8,1,sports_leisure,182769.64,1164,8.0
+South,2296975.8,2,health_beauty,169174.89,1064,7.4
+South,2296975.8,3,furniture_decor,169076.81,1117,7.4
+Northeast,1880799.54,1,health_beauty,236942.0,1082,12.6
+Northeast,1880799.54,2,watches_gifts,186013.11,739,9.9
+Northeast,1880799.54,3,sports_leisure,123735.56,686,6.6
+Central-West,1023062.0,1,health_beauty,98513.81,573,9.6
+Central-West,1023062.0,2,watches_gifts,94914.18,374,9.3
+Central-West,1023062.0,3,sports_leisure,72812.13,476,7.1
+North,410392.4,1,health_beauty,49867.09,190,12.2
+North,410392.4,2,watches_gifts,42140.73,138,10.3
+North,410392.4,3,sports_leisure,32936.59,149,8.0

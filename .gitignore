@@ -1,0 +1,10 @@
+M26_DA_A2/
+data/
+bank.csv
+listings.csv
+*.duckdb
+*.duckdb.wal
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

@@ -1,0 +1,88 @@
+region,state,city,agg_level,revenue,orders,customers,avg_order_value,pct_of_total
+ALL REGIONS,All states,All cities,GRAND TOTAL,15843553.24,98666,95420,160.58,100.0
+Southeast,All states,All cities,REGION,10232323.5,67706,65410,151.13,64.58
+Southeast,SP,All cities,STATE,5921678.12,41375,39981,143.12,37.38
+Southeast,SP,sao paulo,CITY,2170010.94,15399,14862,140.92,13.7
+Southeast,SP,campinas,CITY,212541.7,1429,1386,148.73,1.34
+Southeast,RJ,All cities,STATE,2129681.98,12762,12303,166.88,13.44
+Southeast,RJ,rio de janeiro,CITY,1154234.02,6834,6576,168.9,7.29
+Southeast,RJ,niteroi,CITY,137919.38,845,807,163.22,0.87
+Southeast,MG,All cities,STATE,1856161.49,11544,11178,160.79,11.72
+Southeast,MG,belo horizonte,CITY,416733.39,2750,2654,151.54,2.63
+Southeast,MG,juiz de fora,CITY,75595.07,426,414,177.45,0.48
+Southeast,ES,All cities,STATE,324801.91,2025,1956,160.4,2.05
+Southeast,ES,vitoria,CITY,62678.33,377,364,166.26,0.4
+Southeast,ES,vila velha,CITY,56182.64,333,324,168.72,0.35
+South,All states,All cities,REGION,2296975.8,14042,13599,163.58,14.5
+South,RS,All cities,STATE,885826.76,5432,5249,163.08,5.59
+South,RS,porto alegre,CITY,224064.09,1372,1320,163.31,1.41
+South,RS,caxias do sul,CITY,44321.36,224,213,197.86,0.28
+South,PR,All cities,STATE,800935.44,4998,4840,160.25,5.06
+South,PR,curitiba,CITY,244739.87,1510,1455,162.08,1.54
+South,PR,londrina,CITY,53105.01,303,295,175.26,0.34
+South,SC,All cities,STATE,610213.6,3612,3513,168.94,3.85
+South,SC,florianopolis,CITY,99925.37,565,543,176.86,0.63
+South,SC,joinville,CITY,40972.07,263,260,155.79,0.26
+Northeast,All states,All cities,REGION,1880799.54,9336,9089,201.46,11.87
+Northeast,BA,All cities,STATE,611506.67,3358,3257,182.1,3.86
+Northeast,BA,salvador,CITY,216772.4,1238,1202,175.1,1.37
+Northeast,BA,feira de santana,CITY,32466.8,185,176,175.5,0.2
+Northeast,PE,All cities,STATE,322237.69,1648,1605,195.53,2.03
+Northeast,PE,recife,CITY,110023.52,612,589,179.78,0.69
+Northeast,PE,jaboatao dos guararapes,CITY,25672.86,135,134,190.17,0.16
+Northeast,CE,All cities,STATE,275606.3,1327,1305,207.69,1.74
+Northeast,CE,fortaleza,CITY,118646.07,650,640,182.53,0.75
+Northeast,CE,sobral,CITY,13295.73,35,35,379.88,0.08
+Northeast,MA,All cities,STATE,151171.99,740,719,204.29,0.95
+Northeast,MA,sao luis,CITY,63411.79,348,336,182.22,0.4
+Northeast,MA,imperatriz,CITY,9144.78,40,39,228.62,0.06
+Northeast,PB,All cities,STATE,140987.81,532,516,265.01,0.89
+Northeast,PB,joao pessoa,CITY,63070.91,254,240,248.31,0.4
+Northeast,PB,campina grande,CITY,22783.29,68,68,335.05,0.14
+Northeast,PI,All cities,STATE,108132.28,493,481,219.34,0.68
+Northeast,PI,teresina,CITY,60504.35,280,270,216.09,0.38
+Northeast,PI,parnaiba,CITY,5261.51,23,23,228.76,0.03
+Northeast,RN,All cities,STATE,101895.08,482,471,211.4,0.64
+Northeast,RN,natal,CITY,42851.0,205,201,209.03,0.27
+Northeast,RN,parnamirim,CITY,9400.97,59,57,159.34,0.06
+Northeast,AL,All cities,STATE,96229.4,411,399,234.13,0.61
+Northeast,AL,maceio,CITY,53078.08,246,242,215.76,0.34
+Northeast,AL,arapiraca,CITY,10150.03,29,28,350.0,0.06
+Northeast,SE,All cities,STATE,73032.32,345,338,211.69,0.46
+Northeast,SE,aracaju,CITY,44598.8,220,216,202.72,0.28
+Northeast,SE,itabaiana,CITY,3929.66,16,14,245.6,0.02
+Central-West,All states,All cities,REGION,1023062.0,5744,5563,178.11,6.46
+Central-West,DF,All cities,STATE,353229.44,2125,2062,166.23,2.23
+Central-West,DF,brasilia,CITY,353135.34,2124,2061,166.26,2.23
+Central-West,DF,brasília,CITY,94.1,1,1,94.1,0.0
+Central-West,GO,All cities,STATE,347706.93,2007,1942,173.25,2.19
+Central-West,GO,goiania,CITY,124060.53,687,667,180.58,0.78
+Central-West,GO,anapolis,CITY,20097.51,112,109,179.44,0.13
+Central-West,MT,All cities,STATE,186168.96,903,873,206.17,1.18
+Central-West,MT,cuiaba,CITY,47104.68,248,242,189.94,0.3
+Central-West,MT,rondonopolis,CITY,14105.63,65,60,217.01,0.09
+Central-West,MS,All cities,STATE,135956.67,709,688,191.76,0.86
+Central-West,MS,campo grande,CITY,65485.25,315,310,207.89,0.41
+Central-West,MS,dourados,CITY,10596.64,64,59,165.57,0.07
+North,All states,All cities,REGION,410392.4,1838,1782,223.28,2.59
+North,PA,All cities,STATE,217647.11,970,944,224.38,1.37
+North,PA,belem,CITY,95622.12,441,430,216.83,0.6
+North,PA,ananindeua,CITY,21236.85,88,85,241.33,0.13
+North,TO,All cities,STATE,61354.42,279,272,219.91,0.39
+North,TO,palmas,CITY,21790.37,90,89,242.12,0.14
+North,TO,araguaina,CITY,9848.63,41,40,240.21,0.06
+North,RO,All cities,STATE,57558.02,247,235,233.03,0.36
+North,RO,porto velho,CITY,26121.92,109,101,239.65,0.16
+North,RO,ariquemes,CITY,4969.64,13,12,382.28,0.03
+North,AM,All cities,STATE,27835.73,147,142,189.36,0.18
+North,AM,manaus,CITY,25793.06,139,134,185.56,0.16
+North,AM,coari,CITY,1259.04,1,1,1259.04,0.01
+North,AC,All cities,STATE,19669.7,81,77,242.84,0.12
+North,AC,rio branco,CITY,16917.55,70,66,241.68,0.11
+North,AC,cruzeiro do sul,CITY,1127.06,3,3,375.69,0.01
+North,AP,All cities,STATE,16262.8,68,67,239.16,0.1
+North,AP,macapa,CITY,13666.03,54,53,253.07,0.09
+North,AP,santana,CITY,1543.94,9,9,171.55,0.01
+North,RR,All cities,STATE,10064.62,46,45,218.8,0.06
+North,RR,boa vista,CITY,9892.93,45,44,219.84,0.06
+North,RR,bonfim,CITY,171.69,1,1,171.69,0.0
