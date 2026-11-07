@@ -8,3 +8,11 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+
+# Build and run output
+*.bin
+*.aux
+*.log
+*.out
+*.synctex.gz
+.venv/

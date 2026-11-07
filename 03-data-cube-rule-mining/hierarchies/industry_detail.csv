@@ -1,0 +1,53 @@
+level_0,level_1
+0,Not in universe or children
+1,Agriculture
+10,Manufacturing-durable goods
+11,Manufacturing-durable goods
+12,Manufacturing-durable goods
+13,Manufacturing-durable goods
+14,Manufacturing-durable goods
+15,Manufacturing-durable goods
+16,Manufacturing-durable goods
+17,Manufacturing-durable goods
+18,Manufacturing-durable goods
+19,Manufacturing-nondurable goods
+2,Agriculture
+20,Manufacturing-nondurable goods
+21,Manufacturing-nondurable goods
+22,Manufacturing-nondurable goods
+23,Manufacturing-nondurable goods
+24,Manufacturing-nondurable goods
+25,Manufacturing-nondurable goods
+26,Manufacturing-nondurable goods
+27,Manufacturing-nondurable goods
+28,Manufacturing-nondurable goods
+29,Transportation
+3,Mining
+30,Communications
+31,Utilities and sanitary services
+32,Wholesale trade
+33,Retail trade
+34,Finance insurance and real estate
+35,Finance insurance and real estate
+36,Private household services
+37,Business and repair services
+38,Business and repair services
+39,Personal services except private HH
+4,Construction
+40,Entertainment
+41,Hospital services
+42,Medical except hospital
+43,Education
+44,Social services
+45,Other professional services
+46,Forestry and fisheries
+47,Public administration
+48,Public administration
+49,Public administration
+5,Manufacturing-durable goods
+50,Public administration
+51,Armed Forces
+6,Manufacturing-durable goods
+7,Manufacturing-durable goods
+8,Manufacturing-durable goods
+9,Manufacturing-durable goods

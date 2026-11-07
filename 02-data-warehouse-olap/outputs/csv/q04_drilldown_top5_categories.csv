@@ -1,0 +1,21 @@
+category,product,rank_in_category,units,revenue,pct_of_category
+health_beauty,ALL PRODUCTS,,9670,1441248.07,100.0
+health_beauty,154e7e31ebfa092203795c972e5804a6,1,281,10063.11,0.7
+health_beauty,2b4609f8948be18874494203496bc318,2,260,26659.74,1.85
+health_beauty,7c1bd920dbdf22470b68bde975dd3ccf,3,231,17609.48,1.22
+watches_gifts,ALL PRODUCTS,,5991,1305541.61,100.0
+watches_gifts,53b36df67ebb7c41585e8d54d6772e08,1,323,39957.93,3.06
+watches_gifts,a62e25e09e05e6faf31d90c6ec1aa3d1,2,226,27998.3,2.14
+watches_gifts,e0d64dcfaa3b6db5c54ca298ae101d05,3,194,35344.09,2.71
+bed_bath_table,ALL PRODUCTS,,11115,1241681.72,100.0
+bed_bath_table,99a4788cb24856965c36a24e339b6058,1,488,51071.6,4.11
+bed_bath_table,f1c7f353075ce59d8a6f3cf58f419c9c,2,154,33316.76,2.68
+bed_bath_table,06edb72f1e0c64b14c5b79353f7abea3,3,143,7958.33,0.64
+sports_leisure,ALL PRODUCTS,,8641,1156656.48,100.0
+sports_leisure,c6336fa91fbd87c359e44f5dca5a90ed,1,94,5285.64,0.46
+sports_leisure,e44f675b60b3a3a2453ec36421e06f0f,2,84,10263.75,0.89
+sports_leisure,362b773250263786dd58670d2df42c3b,3,73,4763.39,0.41
+computers_accessories,ALL PRODUCTS,,7827,1059272.4,100.0
+computers_accessories,d1c427060a0f73f6b889a5c7c61f2ac4,1,343,60976.03,5.76
+computers_accessories,3dd2a17168ec895c781a9191c1e95ad7,2,274,48212.22,4.55
+computers_accessories,e53e557d5a159f5aa2c5e995dfdf244b,3,183,18409.72,1.74

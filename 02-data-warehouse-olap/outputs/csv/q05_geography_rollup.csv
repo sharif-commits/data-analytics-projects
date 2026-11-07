@@ -1,0 +1,4301 @@
+level,region,state,city,orders,revenue,pct_of_total
+grand total,,,,98666,15843553.24,100.0
+region,Southeast,,,67706,10232323.5,64.58
+state,Southeast,SP,,41375,5921678.12,37.38
+region,South,,,14042,2296975.8,14.5
+city,Southeast,SP,sao paulo,15402,2170227.12,13.7
+state,Southeast,RJ,,12762,2129681.98,13.44
+region,Northeast,,,9336,1880799.54,11.87
+state,Southeast,MG,,11544,1856161.49,11.72
+city,Southeast,RJ,rio de janeiro,6834,1154234.02,7.29
+region,Central-West,,,5744,1023062.0,6.46
+state,South,RS,,5432,885826.76,5.59
+state,South,PR,,4998,800935.44,5.06
+state,Northeast,BA,,3358,611506.67,3.86
+state,South,SC,,3612,610213.6,3.85
+city,Southeast,MG,belo horizonte,2750,416733.39,2.63
+region,North,,,1838,410392.4,2.59
+state,Central-West,DF,,2125,353229.44,2.23
+city,Central-West,DF,brasilia,2120,352740.9,2.23
+state,Central-West,GO,,2007,347706.93,2.19
+state,Southeast,ES,,2025,324801.91,2.05
+state,Northeast,PE,,1648,322237.69,2.03
+state,Northeast,CE,,1327,275606.3,1.74
+city,South,PR,curitiba,1510,244739.87,1.54
+city,South,RS,porto alegre,1372,224064.09,1.41
+state,North,PA,,970,217647.11,1.37
+city,Northeast,BA,salvador,1238,216772.4,1.37
+city,Southeast,SP,campinas,1429,212541.7,1.34
+state,Central-West,MT,,903,186168.96,1.18
+city,Southeast,SP,guarulhos,1178,163575.82,1.03
+state,Northeast,MA,,740,151171.99,0.95
+state,Northeast,PB,,532,140987.81,0.89
+city,Southeast,RJ,niteroi,845,137919.38,0.87
+state,Central-West,MS,,709,135956.67,0.86
+city,Central-West,GO,goiania,687,124060.53,0.78
+city,Southeast,SP,sao bernardo do campo,928,119024.85,0.75
+city,Northeast,CE,fortaleza,650,118646.07,0.75
+city,Southeast,SP,santos,706,111670.21,0.7
+city,Northeast,PE,recife,612,110023.52,0.69
+state,Northeast,PI,,493,108132.28,0.68
+city,Southeast,SP,santo andre,792,104630.62,0.66
+state,Northeast,RN,,482,101895.08,0.64
+city,South,SC,florianopolis,565,99925.37,0.63
+state,Northeast,AL,,411,96229.4,0.61
+city,North,PA,belem,441,95622.12,0.6
+city,Southeast,SP,osasco,742,94000.72,0.59
+city,Southeast,SP,jundiai,560,91406.77,0.58
+city,Southeast,SP,sao jose dos campos,686,89987.31,0.57
+city,Southeast,SP,sorocaba,624,87148.84,0.55
+city,Southeast,MG,juiz de fora,426,75595.07,0.48
+city,Southeast,SP,ribeirao preto,508,75408.3,0.48
+state,Northeast,SE,,345,73032.32,0.46
+city,Southeast,RJ,nova iguacu,439,70823.75,0.45
+city,Central-West,MS,campo grande,315,65485.25,0.41
+city,Northeast,MA,sao luis,348,63411.79,0.4
+city,Northeast,PB,joao pessoa,254,63070.91,0.4
+city,Southeast,ES,vitoria,377,62678.33,0.4
+city,Southeast,RJ,sao goncalo,406,61607.53,0.39
+state,North,TO,,279,61354.42,0.39
+city,Northeast,PI,teresina,280,60504.35,0.38
+city,Southeast,SP,piracicaba,366,58940.97,0.37
+city,Southeast,SP,barueri,429,58591.64,0.37
+city,Southeast,SP,mogi das cruzes,379,58554.66,0.37
+city,Southeast,MG,contagem,423,58393.84,0.37
+state,North,RO,,247,57558.02,0.36
+city,Southeast,MG,uberlandia,372,56786.09,0.36
+city,Southeast,ES,vila velha,333,56182.64,0.35
+city,Southeast,SP,sao jose do rio preto,333,53752.12,0.34
+city,South,PR,londrina,303,53105.01,0.34
+city,Northeast,AL,maceio,246,53078.08,0.34
+city,Southeast,SP,maua,319,48426.12,0.31
+city,Central-West,MT,cuiaba,248,47104.68,0.3
+city,South,PR,maringa,267,44985.8,0.28
+city,Southeast,SP,bauru,270,44963.34,0.28
+city,Northeast,SE,aracaju,220,44598.8,0.28
+city,South,RS,caxias do sul,224,44321.36,0.28
+city,Southeast,SP,praia grande,306,44261.15,0.28
+city,Southeast,ES,serra,285,42965.77,0.27
+city,Northeast,RN,natal,205,42851.0,0.27
+city,Southeast,SP,indaiatuba,278,41834.51,0.26
+city,South,SC,joinville,263,40972.07,0.26
+city,Southeast,RJ,campos dos goytacazes,243,40817.52,0.26
+city,Southeast,SP,taboao da serra,290,40400.1,0.25
+city,Southeast,RJ,duque de caxias,263,39908.05,0.25
+city,Southeast,RJ,petropolis,238,39578.93,0.25
+city,Southeast,MG,divinopolis,135,38792.24,0.24
+city,Southeast,RJ,volta redonda,228,38645.95,0.24
+city,Southeast,RJ,macae,237,37607.25,0.24
+city,Southeast,SP,marilia,196,37493.97,0.24
+city,Southeast,SP,carapicuiba,325,37266.98,0.24
+city,South,RS,santa maria,194,37224.65,0.23
+city,Southeast,SP,sao caetano do sul,275,36753.34,0.23
+city,Southeast,SP,cotia,248,35267.18,0.22
+city,Southeast,SP,taubate,267,34742.91,0.22
+city,Southeast,MG,betim,201,34349.92,0.22
+city,Southeast,SP,sao carlos,233,34193.07,0.22
+city,Southeast,SP,diadema,284,33993.36,0.21
+city,Southeast,SP,guaruja,224,33687.81,0.21
+city,Southeast,MG,uberaba,189,33337.75,0.21
+city,Northeast,BA,feira de santana,185,32466.8,0.2
+city,South,RS,canoas,209,31982.83,0.2
+city,Southeast,RJ,nova friburgo,150,31585.08,0.2
+city,Southeast,MG,montes claros,211,31487.39,0.2
+city,Southeast,SP,presidente prudente,160,29912.29,0.19
+city,South,SC,blumenau,187,29242.92,0.18
+city,Southeast,SP,suzano,233,29068.74,0.18
+city,Southeast,SP,americana,221,28679.73,0.18
+state,North,AM,,147,27835.73,0.18
+city,South,PR,cascavel,148,27649.61,0.17
+city,South,RS,pelotas,184,27356.59,0.17
+city,Southeast,SP,limeira,189,26374.17,0.17
+city,Southeast,SP,santana de parnaiba,182,26256.09,0.17
+city,Southeast,MG,ipatinga,171,26176.78,0.17
+city,North,RO,porto velho,109,26121.92,0.16
+city,Southeast,SP,franca,159,25805.32,0.16
+city,North,AM,manaus,139,25793.06,0.16
+city,Northeast,PE,jaboatao dos guararapes,135,25672.86,0.16
+city,Southeast,SP,valinhos,183,25660.62,0.16
+city,Southeast,SP,embu das artes,175,24966.3,0.16
+city,Southeast,SP,sumare,181,24618.78,0.16
+city,South,SC,sao jose,168,24347.43,0.15
+city,Southeast,MG,pouso alegre,130,24108.31,0.15
+city,Southeast,RJ,rio das ostras,136,23827.82,0.15
+city,Southeast,SP,atibaia,157,23786.41,0.15
+city,Southeast,SP,sao vicente,163,23743.4,0.15
+city,Southeast,MG,nova lima,98,23287.84,0.15
+city,Southeast,SP,rio claro,153,23268.91,0.15
+city,Southeast,SP,araraquara,154,23201.75,0.15
+city,Southeast,MG,governador valadares,139,23184.61,0.15
+city,Southeast,RJ,barra mansa,121,23042.8,0.15
+city,South,RS,novo hamburgo,122,22932.32,0.14
+city,Northeast,PB,campina grande,68,22783.29,0.14
+city,Southeast,SP,braganca paulista,144,22683.23,0.14
+city,South,PR,ponta grossa,142,22152.28,0.14
+city,South,SC,itajai,120,22126.97,0.14
+city,Southeast,RJ,sao joao de meriti,132,22001.11,0.14
+city,Southeast,SP,itaquaquecetuba,171,21929.33,0.14
+city,North,TO,palmas,90,21790.37,0.14
+city,South,RS,gravatai,112,21719.36,0.14
+city,Southeast,RJ,angra dos reis,85,21654.73,0.14
+city,Southeast,SP,jacarei,193,21445.29,0.14
+city,North,PA,ananindeua,88,21236.85,0.13
+city,Southeast,SP,itapevi,170,21151.41,0.13
+city,Southeast,ES,cariacica,138,20593.75,0.13
+city,Southeast,RJ,teresopolis,119,20266.36,0.13
+city,Southeast,MG,sete lagoas,127,20239.32,0.13
+city,Central-West,GO,anapolis,112,20097.51,0.13
+city,Southeast,RJ,cabo frio,116,20078.22,0.13
+city,Southeast,MG,pocos de caldas,119,20016.03,0.13
+state,North,AC,,81,19669.7,0.12
+city,Northeast,BA,vitoria da conquista,90,19549.93,0.12
+city,Southeast,SP,aracatuba,139,19457.08,0.12
+city,South,RS,rio grande,124,19450.49,0.12
+city,South,SC,balneario camboriu,100,19408.9,0.12
+city,Southeast,MG,patos de minas,100,19346.98,0.12
+city,Southeast,RJ,araruama,77,19196.05,0.12
+city,Southeast,ES,cachoeiro de itapemirim,121,19171.42,0.12
+city,Southeast,SP,botucatu,101,19053.08,0.12
+city,Southeast,SP,paulinia,129,18790.84,0.12
+city,Southeast,RJ,mage,111,18762.55,0.12
+city,Southeast,SP,hortolandia,145,18748.57,0.12
+city,Southeast,MG,vicosa,90,18714.73,0.12
+city,Southeast,RJ,marica,138,18560.53,0.12
+city,South,RS,passo fundo,113,18163.87,0.11
+city,South,SC,criciuma,92,17812.23,0.11
+city,South,PR,sao jose dos pinhais,131,17763.44,0.11
+city,South,SC,chapeco,103,17750.75,0.11
+city,Southeast,SP,ferraz de vasconcelos,111,17635.78,0.11
+city,Central-West,GO,aparecida de goiania,110,16992.24,0.11
+city,Northeast,PE,petrolina,65,16948.97,0.11
+city,North,AC,rio branco,70,16917.55,0.11
+city,Southeast,SP,birigui,78,16626.83,0.1
+city,Southeast,SP,guaratingueta,96,16593.2,0.1
+city,Southeast,RJ,belford roxo,111,16552.32,0.1
+city,Southeast,MG,itajuba,94,16505.2,0.1
+city,Southeast,RJ,resende,117,16496.72,0.1
+city,Southeast,MG,varginha,89,16326.88,0.1
+state,North,AP,,68,16262.8,0.1
+city,Southeast,RJ,nilopolis,107,16117.68,0.1
+city,Northeast,PE,olinda,93,15650.04,0.1
+city,Southeast,SP,caraguatatuba,88,15499.29,0.1
+city,South,SC,jaragua do sul,89,15356.05,0.1
+city,Southeast,MG,lavras,83,15307.96,0.1
+city,Southeast,SP,caieiras,100,15204.12,0.1
+city,Southeast,SP,santa barbara doeste,122,15194.89,0.1
+city,Southeast,SP,araras,94,15187.25,0.1
+city,Southeast,MG,araxa,76,15147.01,0.1
+city,Southeast,MG,ribeirao das neves,99,14887.61,0.09
+city,Southeast,SP,pindamonhangaba,101,14840.34,0.09
+city,Southeast,SP,itu,135,14718.08,0.09
+city,Southeast,ES,linhares,65,14326.81,0.09
+city,Southeast,MG,barbacena,80,14321.7,0.09
+city,Southeast,SP,ourinhos,77,14316.78,0.09
+city,Northeast,BA,porto seguro,39,14312.29,0.09
+city,Southeast,SP,jaguariuna,67,14158.73,0.09
+city,Central-West,MT,rondonopolis,65,14105.63,0.09
+city,Southeast,SP,itapetininga,77,14048.45,0.09
+city,South,PR,foz do iguacu,87,13902.67,0.09
+city,Southeast,SP,assis,84,13819.31,0.09
+city,North,AP,macapa,54,13666.03,0.09
+city,Southeast,SP,itatiba,97,13634.01,0.09
+city,South,SC,lages,83,13616.22,0.09
+city,Southeast,SP,sao joao da boa vista,81,13608.18,0.09
+city,Southeast,MG,santa luzia,91,13575.69,0.09
+city,South,SC,palhoca,94,13550.25,0.09
+city,Northeast,CE,sobral,35,13295.73,0.08
+city,South,RS,sao leopoldo,104,13225.18,0.08
+city,Southeast,SP,amparo,66,13001.82,0.08
+city,Northeast,BA,barreiras,52,12945.76,0.08
+city,Southeast,MG,itabira,79,12741.86,0.08
+city,Southeast,SP,tatui,73,12732.34,0.08
+city,Southeast,SP,varzea paulista,78,12659.48,0.08
+city,Southeast,MG,muriae,64,12616.09,0.08
+city,Northeast,PE,caruaru,64,12579.23,0.08
+city,Southeast,SP,itanhaem,79,12338.12,0.08
+city,Southeast,SP,votorantim,85,12245.15,0.08
+city,Southeast,SP,salto,94,12186.32,0.08
+city,South,SC,tubarao,60,12125.77,0.08
+city,Southeast,MG,araguari,54,12048.94,0.08
+city,Southeast,ES,guarapari,67,12021.14,0.08
+city,South,RS,santa cruz do sul,62,11974.65,0.08
+city,Southeast,SP,franco da rocha,109,11893.33,0.08
+city,Central-West,GO,rio verde,64,11834.95,0.07
+city,Southeast,SP,ribeirao pires,107,11780.63,0.07
+city,Southeast,SP,cacapava,74,11752.65,0.07
+city,South,PR,toledo,70,11688.66,0.07
+city,South,SC,gaspar,30,11633.61,0.07
+city,Southeast,SP,cajamar,99,11598.22,0.07
+city,Southeast,SP,catanduva,75,11430.29,0.07
+city,Central-West,GO,jatai,54,11337.94,0.07
+city,Northeast,BA,lauro de freitas,75,11270.58,0.07
+city,Southeast,MG,caratinga,62,11211.45,0.07
+city,Southeast,MG,conselheiro lafaiete,84,11192.38,0.07
+city,Northeast,BA,ilheus,72,11018.06,0.07
+city,South,RS,cachoeirinha,72,10975.34,0.07
+city,Southeast,SP,sao roque,78,10927.99,0.07
+city,Southeast,RJ,mesquita,75,10927.32,0.07
+city,Southeast,SP,barretos,73,10860.64,0.07
+city,South,PR,paranagua,60,10851.56,0.07
+city,Southeast,SP,jau,73,10847.52,0.07
+city,Southeast,SP,poa,85,10803.8,0.07
+city,South,RS,bage,63,10791.9,0.07
+city,Southeast,SP,francisco morato,98,10781.31,0.07
+city,Southeast,SP,vinhedo,94,10718.83,0.07
+city,South,PR,pato branco,53,10599.58,0.07
+city,Central-West,MS,dourados,64,10596.64,0.07
+city,Southeast,SP,bertioga,48,10590.62,0.07
+city,Southeast,SP,mogi-guacu,71,10425.89,0.07
+city,Southeast,SP,lins,55,10399.73,0.07
+city,Southeast,SP,mairipora,75,10345.67,0.07
+city,Southeast,SP,ubatuba,76,10303.16,0.07
+city,Southeast,SP,mogi mirim,78,10290.66,0.06
+city,Southeast,SP,itapecerica da serra,98,10245.85,0.06
+city,Southeast,MG,paracatu,63,10182.22,0.06
+city,Northeast,AL,arapiraca,29,10150.03,0.06
+city,Northeast,BA,itabuna,61,10149.32,0.06
+city,South,PR,pinhais,67,10146.84,0.06
+city,Southeast,SP,sao sebastiao,59,10132.41,0.06
+city,South,PR,guarapuava,64,10117.63,0.06
+city,Southeast,MG,manhuacu,64,10066.6,0.06
+state,North,RR,,46,10064.62,0.06
+city,North,RR,boa vista,45,9892.93,0.06
+city,Southeast,MG,sao joao del rei,67,9889.99,0.06
+city,Southeast,SP,pirassununga,69,9866.23,0.06
+city,North,TO,araguaina,41,9848.63,0.06
+city,Southeast,SP,votuporanga,63,9740.19,0.06
+city,Southeast,MG,lagoa santa,59,9721.16,0.06
+city,South,SC,brusque,60,9714.82,0.06
+city,Southeast,SP,avare,63,9713.47,0.06
+city,Southeast,SP,jandira,84,9658.31,0.06
+city,South,SC,videira,47,9611.89,0.06
+city,Southeast,MG,teofilo otoni,75,9586.63,0.06
+city,Northeast,BA,luis eduardo magalhaes,36,9538.69,0.06
+city,Southeast,SP,lorena,83,9471.61,0.06
+city,South,RS,lajeado,50,9440.38,0.06
+city,Northeast,RN,parnamirim,59,9400.97,0.06
+city,Southeast,MG,itauna,57,9236.13,0.06
+city,South,PR,colombo,61,9174.64,0.06
+city,Southeast,SP,leme,50,9157.01,0.06
+city,Northeast,MA,imperatriz,40,9144.78,0.06
+city,Southeast,MG,nova serrana,51,9127.5,0.06
+city,Southeast,MG,timoteo,53,9041.12,0.06
+city,Northeast,BA,juazeiro,44,8954.58,0.06
+city,South,PR,apucarana,52,8810.9,0.06
+city,Southeast,SP,aruja,69,8722.18,0.06
+city,South,PR,francisco beltrao,52,8639.09,0.05
+city,Southeast,SP,itapira,54,8605.02,0.05
+city,Northeast,CE,juazeiro do norte,34,8586.07,0.05
+city,South,PR,campo mourao,56,8579.69,0.05
+city,Southeast,SP,boituva,49,8556.88,0.05
+city,Southeast,ES,colatina,65,8552.72,0.05
+city,Central-West,MS,tres lagoas,42,8544.95,0.05
+city,Southeast,MG,ibirite,50,8536.72,0.05
+city,Northeast,BA,camacari,62,8489.41,0.05
+city,Southeast,SP,matao,52,8449.77,0.05
+city,Southeast,RJ,itaborai,60,8432.21,0.05
+city,Southeast,SP,fernandopolis,53,8409.21,0.05
+city,South,PR,paranavai,46,8379.45,0.05
+city,South,RS,bento goncalves,55,8359.35,0.05
+city,Southeast,MG,ouro preto,56,8316.72,0.05
+city,Southeast,MG,joao monlevade,51,8264.99,0.05
+city,South,RS,viamao,73,8191.93,0.05
+city,Southeast,SP,cubatao,79,8171.42,0.05
+city,Central-West,MT,varzea grande,41,8163.1,0.05
+city,Southeast,MG,patrocinio,46,8108.2,0.05
+city,Southeast,MG,ponte nova,40,8090.34,0.05
+city,Southeast,RJ,tres rios,39,8084.49,0.05
+city,Southeast,RJ,itaperuna,47,8081.54,0.05
+city,Southeast,MG,unai,54,8064.51,0.05
+city,Central-West,MT,sinop,44,8052.42,0.05
+city,Southeast,SP,sertaozinho,62,8003.77,0.05
+city,Southeast,MG,para de minas,37,7994.59,0.05
+city,Northeast,BA,eunapolis,38,7916.78,0.05
+city,South,RS,erechim,58,7883.78,0.05
+city,Southeast,SP,jaboticabal,54,7874.53,0.05
+city,Southeast,SP,peruibe,44,7865.64,0.05
+city,Southeast,MG,pirapora,42,7842.16,0.05
+city,Northeast,BA,paulo afonso,39,7842.13,0.05
+city,Northeast,BA,jacobina,24,7766.1,0.05
+city,Southeast,SP,cosmopolis,52,7751.95,0.05
+city,Southeast,MG,uba,53,7734.0,0.05
+city,Southeast,ES,sao mateus,47,7679.63,0.05
+city,Southeast,SP,andradina,43,7651.94,0.05
+city,Southeast,SP,lencois paulista,43,7565.48,0.05
+city,Southeast,RJ,itaguai,48,7537.0,0.05
+city,Southeast,RJ,paracambi,35,7516.23,0.05
+city,South,SC,navegantes,31,7500.85,0.05
+city,Southeast,SP,tupa,52,7490.94,0.05
+city,South,PR,arapongas,34,7479.9,0.05
+city,South,RS,esteio,41,7466.14,0.05
+city,Southeast,SP,cruzeiro,56,7458.77,0.05
+city,Northeast,BA,alagoinhas,40,7428.33,0.05
+city,Northeast,BA,valenca,35,7406.42,0.05
+city,Southeast,RJ,queimados,54,7380.4,0.05
+city,South,RS,alvorada,50,7368.62,0.05
+city,Southeast,SP,itapeva,52,7300.21,0.05
+city,North,PA,santarem,44,7272.64,0.05
+city,South,SC,sao miguel do oeste,40,7241.38,0.05
+city,South,SC,concordia,50,7240.18,0.05
+city,South,SC,itapema,44,7233.42,0.05
+city,South,RS,osorio,35,7225.75,0.05
+city,South,RS,cachoeira do sul,32,7223.41,0.05
+city,Southeast,SP,registro,46,7186.38,0.05
+city,Southeast,MG,vespasiano,43,7108.71,0.04
+city,Southeast,SP,mococa,34,7108.56,0.04
+city,Central-West,MT,primavera do leste,28,7092.91,0.04
+city,Northeast,CE,caucaia,35,7092.72,0.04
+city,Northeast,PE,paulista,41,7076.62,0.04
+city,Southeast,SP,embu-guacu,46,7062.82,0.04
+city,Southeast,MG,guaxupe,37,6967.0,0.04
+city,South,PR,rolandia,27,6955.9,0.04
+city,South,RS,ijui,52,6870.16,0.04
+city,South,RS,sapucaia do sul,40,6868.66,0.04
+city,Southeast,SP,artur nogueira,41,6845.3,0.04
+city,Southeast,MG,ituiutaba,55,6794.8,0.04
+city,Southeast,MG,curvelo,43,6734.37,0.04
+city,Central-West,MT,lucas do rio verde,24,6627.81,0.04
+city,Northeast,MA,balsas,17,6607.74,0.04
+city,South,PR,umuarama,40,6603.01,0.04
+city,Southeast,SP,olimpia,37,6600.43,0.04
+city,Southeast,SP,vargem grande paulista,44,6595.94,0.04
+city,Southeast,RJ,barra do pirai,54,6593.9,0.04
+city,South,RS,santo angelo,46,6578.63,0.04
+city,Central-West,GO,itumbiara,36,6570.69,0.04
+city,Southeast,MG,alfenas,43,6539.45,0.04
+city,Northeast,RN,mossoro,36,6519.48,0.04
+city,Northeast,CE,maracanau,34,6504.71,0.04
+city,South,SC,taio,15,6475.8,0.04
+city,Central-West,GO,catalao,34,6440.9,0.04
+city,Central-West,GO,valparaiso de goias,37,6424.51,0.04
+city,Southeast,RJ,arraial do cabo,29,6409.31,0.04
+city,North,PA,altamira,25,6399.84,0.04
+city,Southeast,SP,mirassol,29,6383.33,0.04
+city,Southeast,RJ,parati,32,6338.45,0.04
+city,Southeast,SP,itupeva,44,6323.22,0.04
+city,South,PR,araucaria,54,6255.87,0.04
+city,Southeast,SP,mongagua,42,6232.17,0.04
+city,Central-West,GO,caldas novas,36,6204.57,0.04
+city,North,TO,gurupi,24,6192.18,0.04
+city,Southeast,SP,batatais,28,6158.21,0.04
+city,Southeast,SP,adamantina,36,6154.09,0.04
+city,Southeast,SP,bebedouro,51,6140.51,0.04
+city,South,RS,guaiba,31,6139.13,0.04
+city,Central-West,GO,formosa,34,6124.12,0.04
+city,South,SC,sao bento do sul,44,6105.45,0.04
+city,Southeast,RJ,santo antonio de padua,31,6064.97,0.04
+city,South,PR,uniao da vitoria,29,6037.75,0.04
+city,Southeast,MG,arcos,25,5989.36,0.04
+city,Southeast,SP,sao jose do rio pardo,44,5971.05,0.04
+city,North,PA,tucurui,17,5931.75,0.04
+city,Central-West,MT,campo novo do parecis,16,5915.78,0.04
+city,Southeast,MG,santa barbara,26,5889.97,0.04
+city,Southeast,MG,itabirito,29,5886.35,0.04
+city,Southeast,MG,pedro leopoldo,40,5875.05,0.04
+city,Southeast,SP,campo limpo paulista,48,5841.24,0.04
+city,South,PR,mandaguari,18,5829.06,0.04
+city,Northeast,BA,guanambi,37,5801.06,0.04
+city,Southeast,RJ,saquarema,46,5788.49,0.04
+city,Northeast,BA,jequie,34,5766.87,0.04
+city,Southeast,RJ,sao pedro da aldeia,46,5712.97,0.04
+city,South,RS,uruguaiana,48,5712.6,0.04
+city,South,SC,rio do sul,35,5695.13,0.04
+city,South,PR,cianorte,39,5691.55,0.04
+city,Southeast,MG,salinas,22,5691.16,0.04
+city,Southeast,RJ,japeri,34,5682.82,0.04
+city,Central-West,MT,caceres,25,5668.56,0.04
+city,North,PA,parauapebas,27,5634.15,0.04
+city,South,RS,montenegro,32,5632.51,0.04
+city,South,RS,capao da canoa,38,5629.08,0.04
+city,Central-West,MS,corumba,27,5627.08,0.04
+city,Southeast,RJ,armacao dos buzios,29,5612.87,0.04
+city,Central-West,GO,luziania,33,5608.51,0.04
+city,South,RS,santo antonio da patrulha,17,5603.12,0.04
+city,Southeast,SP,louveira,44,5596.56,0.04
+city,Southeast,SP,taquaritinga,35,5557.63,0.04
+city,Southeast,MG,bom despacho,38,5554.6,0.04
+city,Southeast,SP,penapolis,37,5549.26,0.04
+city,Southeast,MG,sao sebastiao do paraiso,35,5509.71,0.03
+city,Southeast,MG,tres coracoes,41,5476.22,0.03
+city,South,SC,cacador,40,5469.62,0.03
+city,Southeast,SP,tremembe,38,5462.7,0.03
+city,South,PR,telemaco borba,34,5458.21,0.03
+city,Central-West,MT,juina,17,5417.13,0.03
+city,Southeast,SP,santo antonio de posse,20,5393.22,0.03
+city,Northeast,PE,garanhuns,31,5368.34,0.03
+city,Southeast,SP,piraju,18,5365.75,0.03
+city,Southeast,SP,capivari,34,5363.37,0.03
+city,Southeast,RJ,vassouras,37,5336.56,0.03
+city,Southeast,MG,sabara,42,5334.36,0.03
+city,South,RS,alegrete,35,5296.24,0.03
+city,South,SC,canoinhas,27,5291.02,0.03
+city,Southeast,MG,ouro branco,41,5283.79,0.03
+city,South,RS,campo bom,36,5283.35,0.03
+city,Southeast,MG,cataguases,33,5273.52,0.03
+city,Northeast,PI,parnaiba,23,5261.51,0.03
+city,Southeast,RJ,seropedica,33,5256.35,0.03
+city,Southeast,MG,extrema,40,5251.99,0.03
+city,South,SC,joacaba,26,5233.09,0.03
+city,Northeast,BA,simoes filho,21,5223.07,0.03
+city,Southeast,MG,mariana,33,5212.95,0.03
+city,South,PR,fazenda rio grande,29,5204.96,0.03
+city,Southeast,MG,carangola,27,5198.49,0.03
+city,Southeast,MG,passos,43,5189.81,0.03
+city,Southeast,SP,dracena,27,5186.39,0.03
+city,Southeast,SP,nova odessa,38,5162.07,0.03
+city,Northeast,BA,santo antonio de jesus,30,5146.04,0.03
+city,Southeast,ES,aracruz,40,5102.98,0.03
+city,Southeast,SP,monte mor,39,5074.09,0.03
+city,South,PR,almirante tamandare,35,5041.83,0.03
+city,Southeast,MG,formiga,32,5033.34,0.03
+city,Southeast,RJ,rio bonito,28,5013.79,0.03
+city,Southeast,MG,sao lourenco,33,4988.96,0.03
+city,Southeast,SP,promissao,32,4980.68,0.03
+city,Southeast,MG,coronel fabriciano,41,4976.48,0.03
+city,North,RO,ariquemes,13,4969.64,0.03
+city,South,RS,taquara,21,4954.91,0.03
+city,Southeast,SP,sao joaquim da barra,34,4952.04,0.03
+city,Central-West,MT,barra do garcas,25,4924.3,0.03
+city,Southeast,MG,bom jesus do galho,4,4923.81,0.03
+city,South,RS,santana do livramento,20,4911.3,0.03
+city,South,SC,xanxere,29,4906.49,0.03
+city,Southeast,SP,tiete,36,4871.73,0.03
+city,Central-West,MT,tangara da serra,24,4870.22,0.03
+city,South,SC,biguacu,24,4870.12,0.03
+city,Northeast,PB,patos,16,4795.28,0.03
+city,Northeast,PE,camaragibe,35,4762.9,0.03
+city,North,PA,maraba,23,4759.1,0.03
+city,Southeast,MG,piumhi,31,4737.63,0.03
+city,South,PR,campo largo,37,4725.21,0.03
+city,Southeast,SP,pereira barreto,19,4723.13,0.03
+city,Southeast,MG,santa rita do sapucai,35,4687.13,0.03
+city,Southeast,SP,barra bonita,29,4682.95,0.03
+city,North,PA,abaetetuba,11,4672.27,0.03
+city,Southeast,SP,santa fe do sul,35,4668.63,0.03
+city,Southeast,MG,carmo do paranaiba,16,4652.95,0.03
+city,Central-West,MS,ponta pora,18,4652.16,0.03
+city,Northeast,CE,russas,9,4622.34,0.03
+city,Southeast,RJ,valenca,27,4610.21,0.03
+city,Southeast,MG,andradas,12,4595.97,0.03
+city,Northeast,PI,picos,18,4593.66,0.03
+city,South,PR,cambe,27,4559.06,0.03
+city,Southeast,SP,orlandia,28,4552.4,0.03
+city,Southeast,MG,santa vitoria,17,4546.18,0.03
+city,South,SC,imbituba,34,4540.26,0.03
+city,Southeast,SP,itarare,28,4520.99,0.03
+city,North,PA,castanhal,21,4500.22,0.03
+city,Northeast,CE,pacatuba,5,4469.86,0.03
+city,South,SC,timbo,20,4468.12,0.03
+city,North,RO,ji-parana,17,4435.13,0.03
+city,Southeast,SP,guaira,36,4423.03,0.03
+city,Southeast,RJ,miguel pereira,28,4409.54,0.03
+city,Northeast,PE,trindade,4,4406.2,0.03
+city,South,RS,sapiranga,25,4404.82,0.03
+city,Southeast,SP,ituverava,29,4372.43,0.03
+city,South,PR,castro,22,4347.65,0.03
+city,South,PR,marechal candido rondon,31,4326.85,0.03
+city,Southeast,ES,guacui,16,4311.75,0.03
+city,Southeast,SP,presidente venceslau,25,4298.77,0.03
+city,Southeast,SP,alvares machado,8,4227.42,0.03
+city,Central-West,GO,mineiros,25,4219.64,0.03
+city,Northeast,BA,teixeira de freitas,29,4218.39,0.03
+city,Southeast,SP,aparecida,25,4208.91,0.03
+city,Northeast,CE,iguatu,14,4202.5,0.03
+city,Northeast,BA,cicero dantas,10,4156.38,0.03
+city,South,SC,tijucas,30,4144.17,0.03
+city,Southeast,MG,frutal,26,4116.67,0.03
+city,Southeast,SP,ilhabela,45,4112.15,0.03
+city,Southeast,SP,martinopolis,8,4084.11,0.03
+city,Northeast,PB,catole do rocha,6,4066.69,0.03
+city,South,RS,panambi,17,4059.15,0.03
+city,Southeast,SP,cerqueira cesar,18,4059.12,0.03
+city,Northeast,BA,campo formoso,10,4054.34,0.03
+city,South,SC,indaial,26,4052.06,0.03
+city,Southeast,MG,januaria,22,4050.95,0.03
+city,South,PR,laranjeiras do sul,20,4039.17,0.03
+city,Southeast,SP,itapolis,28,4017.5,0.03
+city,Southeast,RJ,bom jesus do itabapoana,20,4011.27,0.03
+city,Southeast,SP,ibiuna,31,4009.93,0.03
+city,Central-West,MT,sorriso,20,4009.03,0.03
+city,South,RS,sao luiz gonzaga,15,4008.72,0.03
+city,Central-West,GO,trindade,24,4007.41,0.03
+city,Southeast,SP,campos do jordao,26,3997.02,0.03
+city,South,RS,guapore,18,3987.06,0.03
+city,Central-West,GO,posse,16,3986.72,0.03
+city,Southeast,RJ,casimiro de abreu,20,3963.31,0.03
+city,Central-West,MT,alta floresta,12,3951.08,0.02
+city,Southeast,ES,viana,21,3937.27,0.02
+city,Central-West,GO,pires do rio,12,3930.03,0.02
+city,Northeast,SE,itabaiana,16,3929.66,0.02
+city,Southeast,MG,ipanema,7,3916.27,0.02
+city,Southeast,SP,sao pedro,12,3903.33,0.02
+city,Northeast,CE,crato,19,3895.83,0.02
+city,Northeast,MA,bacabal,11,3883.5,0.02
+city,Southeast,SP,cerquilho,30,3861.71,0.02
+city,South,RS,dois irmaos,17,3847.42,0.02
+city,South,RS,cruz alta,32,3836.93,0.02
+city,South,RS,gramado,30,3822.95,0.02
+city,Southeast,MG,monte carmelo,24,3819.48,0.02
+city,South,RS,ibiruba,21,3806.43,0.02
+city,South,SC,camboriu,28,3789.08,0.02
+city,Southeast,SP,cachoeira paulista,25,3768.01,0.02
+city,Southeast,SP,aguas de lindoia,22,3758.36,0.02
+city,South,RS,farroupilha,27,3757.49,0.02
+city,Southeast,MG,espera feliz,19,3751.42,0.02
+city,Southeast,SP,guararapes,19,3750.05,0.02
+city,Southeast,SP,jales,29,3746.81,0.02
+city,Southeast,MG,janauba,17,3699.22,0.02
+city,South,RS,santa rosa,33,3667.06,0.02
+city,Southeast,MG,claudio,22,3664.07,0.02
+city,Northeast,CE,itapaje,7,3661.21,0.02
+city,Southeast,MG,cambui,22,3660.81,0.02
+city,Southeast,SP,sao manuel,21,3655.87,0.02
+city,Southeast,SP,capao bonito,28,3622.17,0.02
+city,Southeast,MG,congonhas,30,3618.83,0.02
+city,Northeast,PE,cabo de santo agostinho,21,3618.25,0.02
+city,Northeast,BA,valente,9,3614.1,0.02
+city,Central-West,MT,nova xavantina,10,3602.16,0.02
+city,Southeast,SP,serra negra,14,3599.51,0.02
+city,Northeast,CE,aracati,22,3596.25,0.02
+city,South,SC,ituporanga,15,3580.25,0.02
+city,Southeast,SP,garca,28,3577.38,0.02
+city,Southeast,RJ,guapimirim,22,3568.89,0.02
+city,South,RS,estancia velha,20,3563.85,0.02
+city,Northeast,PE,escada,10,3556.7,0.02
+city,Northeast,BA,ipira,7,3555.23,0.02
+city,South,PR,medianeira,22,3549.81,0.02
+city,Southeast,MG,alem paraiba,28,3548.32,0.02
+city,Southeast,SP,mogi guacu,20,3546.44,0.02
+city,South,PR,matinhos,27,3538.83,0.02
+city,Southeast,SP,juquitiba,21,3529.99,0.02
+city,Southeast,SP,porto feliz,22,3521.9,0.02
+city,Central-West,MS,maracaju,13,3511.21,0.02
+city,North,PA,rondon do para,9,3484.39,0.02
+city,Northeast,BA,brumado,22,3474.19,0.02
+city,South,SC,curitibanos,20,3469.8,0.02
+city,Southeast,SP,macatuba,12,3452.45,0.02
+city,Southeast,RJ,paraiba do sul,18,3452.08,0.02
+city,Southeast,SP,pederneiras,21,3450.01,0.02
+city,Southeast,SP,barrinha,20,3439.57,0.02
+city,South,SC,braco do norte,20,3423.42,0.02
+city,Southeast,SP,quata,12,3417.29,0.02
+city,Northeast,PE,santa cruz do capibaribe,13,3409.19,0.02
+city,Southeast,SP,pedreira,36,3391.29,0.02
+city,South,RS,trindade do sul,4,3372.73,0.02
+city,Southeast,SP,ibitinga,22,3368.45,0.02
+city,South,RS,venancio aires,26,3352.84,0.02
+city,Northeast,RN,alto do rodrigues,8,3346.7,0.02
+city,Southeast,SP,mairinque,25,3346.7,0.02
+city,Southeast,SP,santa cruz do rio pardo,35,3343.17,0.02
+city,Central-West,MT,agua boa,18,3336.82,0.02
+city,South,SC,porto uniao,14,3329.43,0.02
+city,South,SC,garopaba,23,3326.71,0.02
+city,South,PR,mandaguacu,4,3325.86,0.02
+city,Southeast,MG,buritizeiro,9,3315.51,0.02
+city,Southeast,RJ,quissama,13,3309.22,0.02
+city,South,SC,santo amaro da imperatriz,12,3296.05,0.02
+city,South,RS,tramandai,25,3289.92,0.02
+city,Southeast,SP,santa isabel,29,3289.45,0.02
+city,Southeast,SP,monte azul paulista,19,3287.1,0.02
+city,Southeast,ES,marataizes,16,3274.31,0.02
+city,Southeast,ES,alegre,17,3265.01,0.02
+city,Southeast,SP,piedade,23,3261.85,0.02
+city,Northeast,BA,senhor do bonfim,19,3241.66,0.02
+city,Northeast,BA,ibotirama,7,3233.2,0.02
+city,Northeast,RN,caico,10,3215.31,0.02
+city,Southeast,MG,almenara,14,3212.33,0.02
+city,Southeast,SP,novo horizonte,17,3210.62,0.02
+city,South,RS,encantado,11,3196.45,0.02
+city,Southeast,SP,piracaia,22,3184.79,0.02
+city,Southeast,MG,machado,21,3182.8,0.02
+city,Northeast,RN,pau dos ferros,9,3176.81,0.02
+city,Northeast,CE,quixada,12,3176.57,0.02
+city,Southeast,ES,venda nova do imigrante,15,3171.22,0.02
+city,Northeast,BA,itapetinga,18,3169.5,0.02
+city,Northeast,MA,codo,8,3163.98,0.02
+city,Northeast,SE,estancia,9,3157.95,0.02
+city,Northeast,BA,bom jesus da lapa,9,3153.69,0.02
+city,Southeast,MG,caete,27,3153.05,0.02
+city,Northeast,BA,dias davila,25,3147.55,0.02
+city,Northeast,PI,floriano,18,3145.51,0.02
+city,Southeast,MG,jacutinga,18,3136.24,0.02
+city,Southeast,SP,cunha,14,3118.0,0.02
+city,South,PR,marialva,16,3115.02,0.02
+city,Southeast,SP,rancharia,22,3113.0,0.02
+city,South,RS,imbe,13,3105.67,0.02
+city,Southeast,MG,taiobeiras,13,3103.8,0.02
+city,Southeast,SP,holambra,23,3102.05,0.02
+city,Southeast,MG,oliveira,22,3100.72,0.02
+city,Southeast,RJ,cordeiro,24,3098.43,0.02
+city,Southeast,MG,sao joao nepomuceno,14,3088.13,0.02
+city,Southeast,RJ,natividade,15,3081.95,0.02
+city,Southeast,SP,ipero,18,3079.8,0.02
+city,Southeast,MG,sao gotardo,20,3078.92,0.02
+city,Southeast,MG,santana do paraiso,16,3077.73,0.02
+city,North,RO,vilhena,18,3076.53,0.02
+city,Southeast,SP,bariri,15,3075.22,0.02
+city,Southeast,SP,pirapora do bom jesus,16,3067.54,0.02
+city,Southeast,SP,monte alto,33,3066.7,0.02
+city,Southeast,MG,pitangui,22,3064.2,0.02
+city,Southeast,SP,paraguacu paulista,20,3063.96,0.02
+city,South,SC,fraiburgo,14,3052.72,0.02
+city,Northeast,PE,salgueiro,17,3044.75,0.02
+city,Southeast,SP,castilho,10,3043.6,0.02
+city,South,RS,vacaria,23,3016.43,0.02
+city,South,RS,carlos barbosa,19,3015.42,0.02
+city,Southeast,SP,presidente epitacio,23,3014.15,0.02
+city,South,PR,dois vizinhos,28,3000.9,0.02
+city,South,PR,irati,22,2994.16,0.02
+city,Northeast,PE,vitoria de santo antao,15,2988.47,0.02
+city,Northeast,PI,sao raimundo nonato,7,2987.04,0.02
+city,Southeast,MG,ouro fino,16,2978.23,0.02
+city,North,PA,paragominas,19,2975.18,0.02
+city,South,RS,santiago,26,2974.7,0.02
+city,Southeast,MG,capelinha,19,2968.12,0.02
+city,Southeast,ES,nova venecia,19,2952.63,0.02
+city,Southeast,MG,coromandel,25,2948.41,0.02
+city,South,RS,feliz,14,2947.85,0.02
+city,Southeast,MG,espinosa,6,2947.44,0.02
+city,Central-West,MT,colider,8,2943.95,0.02
+city,Southeast,SP,taquarituba,16,2942.6,0.02
+city,South,SC,itapiranga,11,2921.89,0.02
+city,Southeast,MG,nanuque,25,2920.75,0.02
+city,Southeast,MG,diamantina,27,2907.93,0.02
+city,Northeast,PE,araripina,12,2888.55,0.02
+city,South,RS,veranopolis,18,2878.08,0.02
+city,Northeast,PE,abreu e lima,11,2871.92,0.02
+city,Southeast,MG,monte siao,20,2866.44,0.02
+city,North,PA,pacaja,6,2860.96,0.02
+city,South,SC,icara,21,2850.9,0.02
+city,Southeast,SP,bonfim paulista,18,2850.17,0.02
+city,South,PR,missal,7,2838.99,0.02
+city,Southeast,SP,cravinhos,24,2838.32,0.02
+city,Southeast,RJ,barra de sao joao,13,2835.38,0.02
+city,Southeast,SP,tapiratiba,12,2835.28,0.02
+city,South,RS,sao gabriel,23,2829.82,0.02
+city,Southeast,RJ,iguaba grande,19,2829.65,0.02
+city,Southeast,MG,manhumirim,16,2817.53,0.02
+city,Southeast,MG,joao pinheiro,16,2814.03,0.02
+city,Northeast,SE,nossa senhora do socorro,14,2809.56,0.02
+city,Southeast,MG,santa juliana,9,2803.54,0.02
+city,South,RS,canela,17,2798.26,0.02
+city,Southeast,MG,brumadinho,26,2795.24,0.02
+city,Central-West,GO,aguas lindas de goias,24,2788.8,0.02
+city,South,SC,ararangua,18,2786.74,0.02
+city,Northeast,CE,crateus,9,2779.4,0.02
+city,Central-West,MS,aparecida do taboado,7,2768.59,0.02
+city,Central-West,GO,inhumas,16,2733.51,0.02
+city,Northeast,CE,tiangua,9,2732.68,0.02
+city,Northeast,PE,ouricuri,8,2730.73,0.02
+city,Northeast,MA,presidente dutra,12,2729.75,0.02
+city,Southeast,MG,araujos,5,2711.22,0.02
+city,Northeast,CE,eusebio,13,2707.56,0.02
+city,South,PR,cornelio procopio,24,2705.58,0.02
+city,Central-West,MT,querencia,10,2701.95,0.02
+city,South,SC,laguna,14,2696.23,0.02
+city,Southeast,SP,ilha solteira,24,2694.73,0.02
+city,Southeast,SP,americo brasiliense,17,2688.89,0.02
+city,Southeast,SP,rio grande da serra,26,2681.59,0.02
+city,Southeast,MG,tres pontas,20,2671.83,0.02
+city,Northeast,BA,irece,13,2660.91,0.02
+city,Central-West,GO,goiatuba,10,2648.12,0.02
+city,Central-West,GO,ipameri,13,2641.99,0.02
+city,Southeast,SP,socorro,19,2640.22,0.02
+city,Southeast,MG,guarani,7,2634.31,0.02
+city,South,RS,marau,22,2631.99,0.02
+city,Northeast,PE,serra talhada,10,2625.95,0.02
+city,South,SC,penha,17,2621.68,0.02
+city,Southeast,SP,itaporanga,12,2621.13,0.02
+city,South,RS,sao borja,18,2616.89,0.02
+city,Southeast,SP,piratininga,9,2614.56,0.02
+city,Northeast,BA,riachao do jacuipe,5,2613.59,0.02
+city,Northeast,MA,caxias,16,2604.15,0.02
+city,Northeast,PE,carpina,10,2600.23,0.02
+city,Northeast,AL,teotonio vilela,8,2599.38,0.02
+city,Southeast,RJ,paty do alferes,13,2597.71,0.02
+city,Southeast,RJ,sao fidelis,23,2597.42,0.02
+city,Southeast,ES,piuma,17,2590.17,0.02
+city,Central-West,GO,goianesia,18,2588.72,0.02
+city,Southeast,SP,laranjal paulista,17,2583.82,0.02
+city,South,RS,estrela,16,2583.69,0.02
+city,South,RS,sao sebastiao do cai,13,2576.19,0.02
+city,Central-West,MT,paranatinga,2,2574.32,0.02
+city,Southeast,MG,nova era,15,2565.16,0.02
+city,Southeast,MG,santos dumont,22,2559.58,0.02
+city,Southeast,MG,bambui,18,2558.68,0.02
+city,Southeast,RJ,sao joao da barra,15,2548.11,0.02
+city,Southeast,RJ,pirai,15,2544.07,0.02
+city,Southeast,SP,porto ferreira,27,2540.42,0.02
+city,Southeast,RJ,pinheiral,14,2529.38,0.02
+city,Central-West,MS,nova andradina,11,2527.55,0.02
+city,Southeast,SP,aguai,10,2509.95,0.02
+city,Central-West,MT,comodoro,7,2504.28,0.02
+city,Northeast,PE,gravata,11,2494.02,0.02
+city,Southeast,SP,junqueiropolis,15,2491.42,0.02
+city,Southeast,MG,matias barbosa,13,2489.66,0.02
+city,South,PR,lapa,14,2488.54,0.02
+city,Northeast,BA,cruz das almas,18,2486.57,0.02
+city,Northeast,BA,serrinha,15,2481.6,0.02
+city,Southeast,SP,viradouro,18,2480.95,0.02
+city,Southeast,SP,santa rita do passa quatro,18,2479.14,0.02
+city,Southeast,RJ,bom jardim,14,2474.68,0.02
+city,South,RS,quarai,4,2474.15,0.02
+city,South,RS,carazinho,23,2466.74,0.02
+city,South,PR,rio negro,15,2465.87,0.02
+city,Southeast,SP,conchal,19,2464.88,0.02
+city,Southeast,SP,espirito santo do pinhal,18,2464.28,0.02
+city,Northeast,PE,taquaritinga do norte,7,2461.9,0.02
+city,Southeast,MG,paraisopolis,15,2453.22,0.02
+city,South,RS,sao lourenco do sul,14,2453.15,0.02
+city,Southeast,MG,barao de cocais,18,2452.94,0.02
+city,Southeast,SP,bofete,6,2441.59,0.02
+city,Southeast,MG,varzea da palma,11,2440.97,0.02
+city,South,SC,campos novos,14,2438.38,0.02
+city,North,PA,novo progresso,5,2436.08,0.02
+city,Northeast,PE,igarassu,13,2420.73,0.02
+city,Northeast,BA,jaguarari,8,2417.35,0.02
+city,North,RO,cacoal,12,2414.8,0.02
+city,Northeast,PB,cajazeiras,11,2410.67,0.02
+city,South,RS,cruzeiro do sul,4,2410.37,0.02
+city,Central-West,GO,novo gama,16,2410.24,0.02
+city,Southeast,MG,conselheiro pena,15,2393.18,0.02
+city,Southeast,ES,anchieta,14,2387.85,0.02
+city,Northeast,BA,mucuri,7,2385.99,0.02
+city,South,PR,sarandi,18,2382.83,0.02
+city,Southeast,MG,camanducaia,9,2381.76,0.02
+city,Central-West,GO,ipora,15,2362.54,0.01
+city,Northeast,SE,lagarto,11,2362.35,0.01
+city,South,PR,palmas,19,2359.92,0.01
+city,Southeast,MG,sacramento,13,2358.54,0.01
+city,Northeast,CE,ico,8,2355.35,0.01
+city,South,SC,mafra,26,2355.01,0.01
+city,South,RS,tres de maio,12,2334.85,0.01
+city,South,PR,palmeira,12,2328.24,0.01
+city,Northeast,PB,pianco,1,2324.99,0.01
+city,Southeast,MG,santo antonio do monte,15,2315.53,0.01
+city,Southeast,MG,guanhaes,18,2313.75,0.01
+city,Central-West,MS,navirai,8,2313.24,0.01
+city,Northeast,PE,sanharo,3,2310.0,0.01
+city,Central-West,GO,uruacu,17,2307.27,0.01
+city,South,SC,bombinhas,15,2305.3,0.01
+city,Northeast,BA,caetite,10,2300.45,0.01
+city,Southeast,RJ,cantagalo,17,2289.85,0.01
+city,South,PR,antonina,10,2285.4,0.01
+city,South,PR,sao mateus do sul,15,2284.52,0.01
+city,Southeast,RJ,cambuci,8,2279.92,0.01
+city,Central-West,GO,cristalina,8,2275.49,0.01
+city,Northeast,AL,sao sebastiao,1,2269.98,0.01
+city,Southeast,SP,miguelopolis,14,2265.5,0.01
+city,North,PA,tailandia,4,2256.46,0.01
+city,Southeast,SP,pompeia,17,2252.95,0.01
+city,North,PA,nova esperanca do piria,1,2252.66,0.01
+city,Southeast,MG,caxambu,17,2245.96,0.01
+city,Northeast,MA,timon,15,2242.63,0.01
+city,Southeast,SP,santo anastacio,17,2240.33,0.01
+city,North,TO,paraiso do tocantins,10,2238.86,0.01
+city,Southeast,RJ,cachoeiras de macacu,20,2238.25,0.01
+city,Northeast,SE,cedro de sao joao,3,2235.98,0.01
+city,Southeast,ES,santa maria de jetiba,15,2231.07,0.01
+city,Southeast,MG,campo belo,21,2218.31,0.01
+city,Central-West,GO,piracanjuba,10,2211.4,0.01
+city,Northeast,PB,pombal,6,2210.2,0.01
+city,Southeast,SP,cesario lange,13,2209.06,0.01
+city,Central-West,MT,mirassol doeste,14,2207.23,0.01
+city,Southeast,MG,igarape,10,2202.09,0.01
+city,Southeast,MG,itanhandu,14,2201.84,0.01
+city,South,PR,goioere,11,2191.01,0.01
+city,Northeast,BA,santa maria da vitoria,13,2185.07,0.01
+city,South,SC,cocal do sul,4,2182.24,0.01
+city,South,RS,triunfo,11,2180.86,0.01
+city,Southeast,MG,lagoa grande,4,2175.77,0.01
+city,Southeast,SP,morro agudo,10,2163.53,0.01
+city,South,PR,jaguariaiva,18,2163.12,0.01
+city,Central-West,GO,porangatu,13,2162.74,0.01
+city,Southeast,SP,santa rosa de viterbo,14,2159.19,0.01
+city,Northeast,PE,belo jardim,12,2157.69,0.01
+city,South,PR,jandaia do sul,8,2156.75,0.01
+city,Northeast,AL,maragogi,5,2135.53,0.01
+city,South,RS,eldorado do sul,15,2127.04,0.01
+city,South,RS,charqueadas,17,2125.02,0.01
+city,Southeast,SP,osvaldo cruz,16,2124.36,0.01
+city,Southeast,SP,nova granada,19,2122.45,0.01
+city,Southeast,SP,palmital,18,2122.03,0.01
+city,Central-West,GO,ceres,7,2116.38,0.01
+city,Northeast,PB,esperanca,6,2108.09,0.01
+city,Southeast,MG,engenheiro navarro,1,2106.55,0.01
+city,Southeast,SP,fartura,10,2106.41,0.01
+city,Southeast,SP,cajati,16,2100.69,0.01
+city,Southeast,SP,ipua,4,2096.16,0.01
+city,Southeast,MG,passa quatro,10,2092.36,0.01
+city,Central-West,GO,niquelandia,14,2080.43,0.01
+city,South,PR,quatro barras,18,2079.83,0.01
+city,Northeast,PE,parnamirim,4,2079.47,0.01
+city,Northeast,CE,camocim,8,2078.27,0.01
+city,Southeast,MG,eloi mendes,10,2077.95,0.01
+city,South,SC,sao joao batista,10,2075.89,0.01
+city,Southeast,MG,buritis,14,2075.62,0.01
+city,Northeast,BA,santo amaro,10,2066.74,0.01
+city,Northeast,PE,agrestina,1,2066.34,0.01
+city,Southeast,SP,pariquera-acu,15,2065.21,0.01
+city,Southeast,MG,iturama,15,2064.08,0.01
+city,South,PR,cafelandia,12,2055.82,0.01
+city,South,RS,santa vitoria do palmar,12,2049.67,0.01
+city,Southeast,MG,esmeraldas,14,2043.24,0.01
+city,Northeast,PB,sape,2,2042.83,0.01
+city,South,PR,loanda,13,2042.79,0.01
+city,Southeast,RJ,itaocara,16,2042.5,0.01
+city,Southeast,MG,leopoldina,17,2038.21,0.01
+city,South,RS,camaqua,13,2037.22,0.01
+city,Southeast,MG,itamarandiba,8,2036.27,0.01
+city,Southeast,RJ,conceicao de macabu,13,2035.17,0.01
+city,South,PR,pinhalao,7,2032.35,0.01
+city,Southeast,SP,auriflama,10,2029.77,0.01
+city,South,PR,mangueirinha,9,2022.94,0.01
+city,Southeast,RJ,miracema,19,2021.97,0.01
+city,South,PR,guaratuba,9,2017.31,0.01
+city,Central-West,MT,paranaita,4,2016.47,0.01
+city,South,SC,barra velha,15,2014.41,0.01
+city,South,SC,sao francisco do sul,17,2012.77,0.01
+city,South,PR,bandeirantes,13,2005.85,0.01
+city,North,PA,canaa dos carajas,9,1991.36,0.01
+city,Southeast,ES,castelo,18,1990.94,0.01
+city,South,PR,ampere,9,1985.95,0.01
+city,South,RS,parobe,12,1985.07,0.01
+city,Southeast,ES,itaguacu,7,1972.99,0.01
+city,Central-West,MT,pontes e lacerda,9,1972.9,0.01
+city,Northeast,PI,sao joao do piaui,6,1972.72,0.01
+city,Southeast,SP,itai,10,1972.66,0.01
+city,Southeast,MG,carmo do rio claro,9,1969.53,0.01
+city,Southeast,MG,sao joaquim de bicas,8,1965.51,0.01
+city,Central-West,GO,alto paraiso de goias,9,1963.31,0.01
+city,Northeast,MA,santa ines,12,1956.91,0.01
+city,North,TO,alvorada,6,1954.44,0.01
+city,Southeast,MG,visconde do rio branco,18,1952.66,0.01
+city,Northeast,CE,brejo santo,10,1949.35,0.01
+city,South,SC,faxinal dos guedes,11,1948.77,0.01
+city,South,PR,piraquara,14,1947.24,0.01
+city,Southeast,MG,abaete,12,1946.81,0.01
+city,Southeast,MG,mantena,11,1946.55,0.01
+city,Southeast,MG,lagoa da prata,11,1945.7,0.01
+city,Northeast,PE,ipojuca,17,1945.2,0.01
+city,Southeast,SP,ibate,13,1944.12,0.01
+city,South,RS,palmeira das missoes,16,1943.52,0.01
+city,Southeast,MG,bocaiuva,13,1943.22,0.01
+city,Northeast,PE,catende,7,1941.68,0.01
+city,Central-West,MS,paranaiba,15,1937.59,0.01
+city,North,PA,ourilandia do norte,5,1934.35,0.01
+city,Southeast,MG,carmo do cajuru,10,1932.42,0.01
+city,South,SC,xaxim,10,1928.25,0.01
+city,South,SC,morro da fumaca,7,1921.45,0.01
+city,North,PA,barcarena,10,1921.34,0.01
+city,Central-West,GO,santa fe de goias,4,1921.27,0.01
+city,Southeast,SP,bom jesus dos perdoes,17,1920.77,0.01
+city,Southeast,SP,itajobi,10,1915.71,0.01
+city,South,RS,ronda alta,6,1914.31,0.01
+city,Central-West,MS,chapadao do sul,14,1913.41,0.01
+city,North,TO,porto nacional,8,1911.38,0.01
+city,South,SC,balneario picarras,10,1897.88,0.01
+city,Northeast,BA,camamu,9,1897.51,0.01
+city,Northeast,BA,itamaraju,12,1883.32,0.01
+city,South,RS,lagoa vermelha,14,1883.04,0.01
+city,Southeast,RJ,itatiaia,18,1882.29,0.01
+city,Northeast,PE,petrolandia,9,1875.72,0.01
+city,Northeast,MA,sao jose de ribamar,14,1870.87,0.01
+city,South,RS,taquari,11,1870.86,0.01
+city,South,PR,mariental,1,1867.85,0.01
+city,Southeast,ES,montanha,10,1862.77,0.01
+city,Southeast,SP,santa adelia,15,1861.06,0.01
+city,South,RS,cangucu,14,1860.47,0.01
+city,Central-West,MS,coxim,11,1854.62,0.01
+city,Northeast,CE,campos sales,4,1853.78,0.01
+city,Southeast,SP,jardinopolis,13,1851.48,0.01
+city,Northeast,PE,bom conselho,7,1848.32,0.01
+city,North,PA,jacunda,6,1844.82,0.01
+city,Central-West,MS,sidrolandia,11,1842.53,0.01
+city,Northeast,CE,nova russas,7,1842.03,0.01
+city,Southeast,RJ,carmo,13,1839.51,0.01
+city,Southeast,RJ,aperibe,12,1835.91,0.01
+city,South,RS,torres,17,1833.32,0.01
+city,Southeast,SP,itatinga,4,1832.1,0.01
+city,Northeast,PI,corrente,4,1831.14,0.01
+city,Southeast,SP,caconde,10,1829.57,0.01
+city,Northeast,PE,gameleira,4,1827.12,0.01
+city,Southeast,MG,paraguacu,12,1826.29,0.01
+city,South,RS,teutonia,14,1826.22,0.01
+city,Southeast,SP,candido mota,16,1824.1,0.01
+city,Northeast,CE,beberibe,3,1823.91,0.01
+city,Southeast,SP,tambau,19,1823.49,0.01
+city,Northeast,BA,pojuca,13,1820.78,0.01
+city,North,PA,redencao,12,1818.48,0.01
+city,Southeast,RJ,sao francisco de itabapoana,15,1816.41,0.01
+city,Northeast,PB,santa rita,7,1815.86,0.01
+city,Southeast,SP,paraibuna,10,1810.75,0.01
+city,Southeast,SP,guariba,14,1810.72,0.01
+city,Northeast,BA,esplanada,5,1808.34,0.01
+city,Northeast,CE,limoeiro do norte,12,1806.86,0.01
+city,Northeast,CE,ipueiras,3,1805.78,0.01
+city,North,PA,quatro bocas,5,1804.79,0.01
+city,Central-West,GO,morrinhos,14,1804.72,0.01
+city,South,SC,pomerode,9,1797.55,0.01
+city,Northeast,CE,nova olinda,3,1792.93,0.01
+city,Central-West,GO,senador canedo,16,1790.29,0.01
+city,Central-West,GO,quirinopolis,14,1789.8,0.01
+city,Southeast,SP,pirajui,12,1789.32,0.01
+city,Central-West,GO,minacu,11,1787.83,0.01
+city,Southeast,MG,vazante,6,1780.3,0.01
+city,Southeast,RJ,santo amaro de campos,6,1777.56,0.01
+city,North,PA,sao felix do xingu,8,1774.08,0.01
+city,Northeast,CE,cruz,7,1772.55,0.01
+city,Southeast,MG,santana do jacare,4,1769.22,0.01
+city,Northeast,RN,currais novos,8,1769.09,0.01
+city,Southeast,MG,boa esperanca,11,1769.0,0.01
+city,Southeast,ES,afonso claudio,11,1767.92,0.01
+city,Southeast,SP,jarinu,19,1767.06,0.01
+city,Northeast,BA,catu,10,1763.24,0.01
+city,Northeast,CE,itapipoca,11,1761.25,0.01
+city,South,PR,nova esperanca,8,1760.46,0.01
+city,South,SC,imbuia,4,1759.81,0.01
+city,Southeast,MG,carmopolis de minas,5,1756.72,0.01
+city,Northeast,MA,vitorino freire,3,1744.37,0.01
+city,Northeast,PE,bezerros,11,1739.95,0.01
+city,South,SC,guaramirim,13,1736.26,0.01
+city,Southeast,MG,ibia,8,1736.18,0.01
+city,Central-West,GO,santa helena de goias,9,1733.68,0.01
+city,Southeast,ES,sao gabriel da palha,13,1732.64,0.01
+city,South,RS,flores da cunha,12,1732.57,0.01
+city,Southeast,ES,ibatiba,9,1724.6,0.01
+city,Northeast,MA,nova olinda do maranhao,4,1724.33,0.01
+city,South,PR,jacarezinho,17,1720.46,0.01
+city,South,RS,mostardas,11,1720.33,0.01
+city,Southeast,SP,reginopolis,3,1719.32,0.01
+city,Southeast,MG,entre rios de minas,7,1709.62,0.01
+city,South,RS,dom pedrito,10,1708.09,0.01
+city,Southeast,SP,cordeiropolis,16,1705.29,0.01
+city,Southeast,MG,malacacheta,7,1702.21,0.01
+city,Southeast,SP,aracoiaba da serra,11,1701.76,0.01
+city,North,PA,marituba,15,1699.5,0.01
+city,Southeast,MG,buenopolis,5,1698.09,0.01
+city,Southeast,MG,lambari,8,1692.91,0.01
+city,Southeast,MG,piranguinho,9,1689.85,0.01
+city,South,PR,andira,11,1688.59,0.01
+city,South,RS,toropi,3,1682.98,0.01
+city,South,SC,correia pinto,11,1680.18,0.01
+city,Northeast,BA,mata de sao joao,12,1679.07,0.01
+city,Central-West,MS,cassilandia,5,1677.59,0.01
+city,Northeast,PB,cabedelo,7,1677.57,0.01
+city,Southeast,SP,bastos,17,1673.94,0.01
+city,South,RS,crissiumal,2,1671.3,0.01
+city,Northeast,PB,queimadas,5,1670.94,0.01
+city,Southeast,MG,mata verde,6,1667.51,0.01
+city,Southeast,SP,jose bonifacio,12,1666.93,0.01
+city,South,PR,siqueira campos,9,1663.62,0.01
+city,Central-West,MT,itauba,5,1661.97,0.01
+city,Northeast,PE,sao lourenco da mata,12,1660.2,0.01
+city,North,RO,costa marques,2,1658.28,0.01
+city,Southeast,SP,tanabi,11,1658.14,0.01
+city,Northeast,PE,barreiros,6,1653.7,0.01
+city,South,RS,arroio do meio,10,1648.17,0.01
+city,South,SC,garuva,5,1647.66,0.01
+city,Southeast,RJ,porto real,7,1645.92,0.01
+city,Southeast,MG,tupaciguara,13,1645.36,0.01
+city,Northeast,MA,loreto,1,1643.64,0.01
+city,Northeast,PB,guarabira,10,1642.86,0.01
+city,Southeast,MG,conceicao das alagoas,3,1641.4,0.01
+city,Northeast,CE,acarau,8,1639.94,0.01
+city,Southeast,MG,nova ponte,9,1638.54,0.01
+city,Southeast,SP,pitangueiras,16,1634.64,0.01
+city,Southeast,ES,vila valerio,8,1632.29,0.01
+city,South,RS,casca,7,1628.94,0.01
+city,Northeast,BA,formosa do rio preto,3,1628.16,0.01
+city,North,RO,pimenta bueno,7,1622.27,0.01
+city,Southeast,ES,jaguare,14,1618.38,0.01
+city,South,SC,orleans,8,1617.67,0.01
+city,Southeast,ES,baixo guandu,8,1617.17,0.01
+city,Northeast,MA,sao joao dos patos,7,1615.47,0.01
+city,Southeast,SP,iguape,14,1615.2,0.01
+city,Southeast,MG,divino,14,1611.72,0.01
+city,North,PA,xinguara,9,1608.51,0.01
+city,Southeast,MG,conceicao do mato dentro,12,1606.34,0.01
+city,Southeast,MG,itapecerica,13,1603.68,0.01
+city,Northeast,PE,afogados da ingazeira,8,1596.39,0.01
+city,Southeast,MG,jequitinhonha,11,1595.86,0.01
+city,South,SC,lauro muller,8,1595.6,0.01
+city,Southeast,SP,pacaembu,6,1595.07,0.01
+city,Southeast,ES,marilandia,8,1593.22,0.01
+city,Northeast,AL,penedo,8,1592.67,0.01
+city,South,PR,ibipora,12,1590.84,0.01
+city,Southeast,MG,mutum,8,1589.87,0.01
+city,Southeast,MG,aracuai,9,1588.78,0.01
+city,Southeast,MG,periquito,2,1588.1,0.01
+city,Southeast,MG,baependi,8,1587.39,0.01
+city,Southeast,MG,ipaba,8,1585.26,0.01
+city,Southeast,SP,pirapozinho,14,1582.47,0.01
+city,South,RS,igrejinha,17,1581.64,0.01
+city,Southeast,MG,aguas formosas,5,1580.57,0.01
+city,Southeast,SP,biritiba-mirim,10,1579.77,0.01
+city,Southeast,MG,barroso,11,1575.52,0.01
+city,Northeast,CE,morada nova,9,1571.6,0.01
+city,Northeast,BA,abrantes,3,1565.88,0.01
+city,Northeast,BA,candeias,13,1565.65,0.01
+city,Northeast,CE,santana do acarau,4,1563.58,0.01
+city,South,RS,girua,10,1560.97,0.01
+city,Northeast,PI,altos,5,1560.87,0.01
+city,Southeast,RJ,papucaia,11,1556.86,0.01
+city,Southeast,RJ,italva,14,1556.26,0.01
+city,South,SC,itaiopolis,8,1555.42,0.01
+city,Southeast,MG,simonesia,8,1549.87,0.01
+city,Southeast,MG,corinto,11,1545.63,0.01
+city,South,RS,chapada,4,1545.33,0.01
+city,South,PR,santo antonio da platina,12,1544.84,0.01
+city,North,AP,santana,9,1543.94,0.01
+city,Southeast,SP,sao miguel arcanjo,13,1543.78,0.01
+city,South,RS,nova prata,16,1541.25,0.01
+city,Southeast,SP,pinhalzinho,12,1537.96,0.01
+city,Central-West,MS,fatima do sul,4,1536.86,0.01
+city,Northeast,PE,saloa,3,1536.08,0.01
+city,Southeast,SP,mirandopolis,13,1535.41,0.01
+city,Southeast,SP,tabapua,12,1535.21,0.01
+city,Northeast,BA,ibitita,1,1534.58,0.01
+city,Southeast,SP,iracemapolis,18,1532.5,0.01
+city,South,RS,campinas do sul,6,1531.24,0.01
+city,Southeast,RJ,sao jose do vale do rio preto,12,1527.66,0.01
+city,Southeast,RJ,boa esperanca,1,1527.51,0.01
+city,Central-West,GO,sao luis de montes belos,8,1524.13,0.01
+city,Southeast,SP,itabera,7,1522.98,0.01
+city,South,RS,itaqui,9,1522.32,0.01
+city,South,PR,vitoria,8,1521.56,0.01
+city,Southeast,SP,bocaina,6,1520.62,0.01
+city,Northeast,CE,pacajus,6,1520.0,0.01
+city,Central-West,GO,sao miguel do araguaia,5,1518.03,0.01
+city,Northeast,CE,barbalha,6,1515.41,0.01
+city,North,PA,sao miguel do guama,5,1514.4,0.01
+city,Northeast,BA,buerarema,4,1510.32,0.01
+city,Southeast,RJ,mendes,12,1509.99,0.01
+city,Southeast,MG,astolfo dutra,11,1509.69,0.01
+city,Southeast,SP,agudos,16,1508.95,0.01
+city,South,RS,ivoti,13,1507.43,0.01
+city,South,SC,sombrio,11,1506.61,0.01
+city,Southeast,SP,altinopolis,4,1506.04,0.01
+city,South,RS,tres passos,11,1503.72,0.01
+city,Northeast,PI,guadalupe,4,1502.76,0.01
+city,Southeast,SP,aluminio,13,1500.64,0.01
+city,Northeast,RN,parelhas,4,1496.8,0.01
+city,North,PA,conceicao do araguaia,7,1494.6,0.01
+city,Southeast,SP,casa branca,13,1492.88,0.01
+city,Northeast,PE,palmares,8,1487.03,0.01
+city,South,SC,apiuna,7,1484.8,0.01
+city,South,RS,bom retiro do sul,2,1484.21,0.01
+city,Southeast,SP,divinolandia,7,1482.9,0.01
+city,Northeast,BA,alcobaca,4,1481.9,0.01
+city,South,RS,espumoso,7,1480.46,0.01
+city,Northeast,PE,sao bento do una,4,1477.8,0.01
+city,Northeast,BA,tapiramuta,2,1476.9,0.01
+city,Northeast,RN,upanema,3,1476.25,0.01
+city,Southeast,SP,teodoro sampaio,12,1473.91,0.01
+city,Southeast,SP,santa gertrudes,11,1471.05,0.01
+city,South,SC,capinzal,10,1469.23,0.01
+city,South,PR,sao miguel do iguacu,10,1468.23,0.01
+city,South,SC,forquilhinha,13,1468.18,0.01
+city,Northeast,BA,coaraci,4,1468.12,0.01
+city,North,PA,santana do araguaia,3,1467.91,0.01
+city,Southeast,MG,turmalina,9,1467.05,0.01
+city,Northeast,RN,joao camara,2,1466.81,0.01
+city,Southeast,MG,rio pomba,6,1464.86,0.01
+city,Southeast,MG,dores de campos,8,1464.19,0.01
+city,Central-West,GO,neropolis,7,1464.02,0.01
+city,Northeast,AL,palmeira dos indios,8,1463.46,0.01
+city,Southeast,ES,domingos martins,10,1459.37,0.01
+city,North,TO,guarai,4,1459.37,0.01
+city,Southeast,MG,botelhos,8,1456.47,0.01
+city,Southeast,SP,duartina,10,1453.3,0.01
+city,Central-West,MS,caarapo,4,1447.93,0.01
+city,South,SC,celso ramos,2,1440.94,0.01
+city,Southeast,SP,descalvado,13,1439.57,0.01
+city,Southeast,SP,sao simao,10,1439.29,0.01
+city,Southeast,SP,ouroeste,11,1437.57,0.01
+city,North,PA,braganca,9,1437.27,0.01
+city,Southeast,MG,bonfinopolis de minas,2,1433.75,0.01
+city,Southeast,MG,sao francisco,12,1431.7,0.01
+city,Southeast,SP,itapui,7,1430.89,0.01
+city,South,SC,ibirama,13,1429.2,0.01
+city,South,PR,assis chateaubriand,12,1426.3,0.01
+city,South,SC,gravatal,6,1418.28,0.01
+city,Northeast,MA,cedral,3,1416.52,0.01
+city,Northeast,CE,ubajara,3,1414.63,0.01
+city,Northeast,PI,cocal,8,1413.88,0.01
+city,South,PR,realeza,6,1412.76,0.01
+city,Southeast,SP,ipaussu,7,1409.26,0.01
+city,Northeast,PI,fronteiras,3,1408.84,0.01
+city,Southeast,SP,conchas,10,1408.56,0.01
+city,South,PR,primeiro de maio,7,1407.61,0.01
+city,Northeast,PB,mamanguape,6,1406.47,0.01
+city,Southeast,MG,sao goncalo do sapucai,9,1403.98,0.01
+city,Southeast,SP,dois corregos,11,1402.59,0.01
+city,Central-West,GO,campinorte,7,1400.61,0.01
+city,Northeast,PE,bonito,5,1398.84,0.01
+city,Northeast,BA,vera cruz,7,1394.82,0.01
+city,South,RS,campestre da serra,2,1390.06,0.01
+city,Southeast,RJ,goitacazes,11,1388.24,0.01
+city,South,SC,herval doeste,9,1386.93,0.01
+city,South,RS,santo augusto,9,1386.88,0.01
+city,Southeast,MG,carandai,11,1386.44,0.01
+city,Southeast,SP,balsamo,6,1383.48,0.01
+city,Southeast,MG,perdizes,8,1382.5,0.01
+city,South,PR,campina grande do sul,10,1382.49,0.01
+city,South,SC,rio negrinho,13,1381.73,0.01
+city,Southeast,SP,itariri,6,1378.73,0.01
+city,Central-West,GO,silvania,7,1373.15,0.01
+city,Northeast,PB,pirpirituba,1,1372.25,0.01
+city,Central-West,MT,confresa,7,1371.62,0.01
+city,Southeast,SP,guararema,11,1370.41,0.01
+city,Southeast,RJ,areal,7,1364.63,0.01
+city,South,RS,tapejara,9,1364.49,0.01
+city,Northeast,BA,tucano,9,1364.1,0.01
+city,North,PA,tucuma,4,1362.99,0.01
+city,Southeast,MG,areado,6,1360.55,0.01
+city,Northeast,AL,coruripe,3,1359.09,0.01
+city,Southeast,MG,raul soares,12,1357.77,0.01
+city,Southeast,SP,sao lourenco da serra,12,1357.03,0.01
+city,Southeast,ES,santa teresa,11,1356.74,0.01
+city,Northeast,PB,sousa,7,1356.43,0.01
+city,Central-West,MT,canarana,10,1356.31,0.01
+city,Central-West,GO,uruana,3,1355.95,0.01
+city,Northeast,MA,barra do corda,7,1354.33,0.01
+city,Northeast,AL,delmiro gouveia,4,1353.71,0.01
+city,Southeast,MG,sao joao evangelista,7,1353.08,0.01
+city,Southeast,SP,barao ataliba nogueira,1,1351.51,0.01
+city,South,SC,schroeder,9,1349.22,0.01
+city,Central-West,MT,aripuana,8,1348.38,0.01
+city,Northeast,BA,inhambupe,7,1346.98,0.01
+city,Southeast,SP,pirangi,8,1346.43,0.01
+city,Southeast,SP,parapua,8,1345.83,0.01
+city,Southeast,SP,maracai,8,1345.61,0.01
+city,Central-West,GO,chapadao do ceu,8,1343.25,0.01
+city,Southeast,MG,barra longa,1,1341.55,0.01
+city,Southeast,MG,monte belo,5,1340.3,0.01
+city,Northeast,CE,jaguaruana,4,1339.3,0.01
+city,Northeast,BA,itacare,9,1336.06,0.01
+city,Southeast,SP,pontal,12,1333.05,0.01
+city,Northeast,CE,reriutaba,3,1331.63,0.01
+city,South,RS,arroio do sal,7,1330.31,0.01
+city,Northeast,MA,coroata,9,1328.47,0.01
+city,Southeast,SP,guara,8,1328.2,0.01
+city,Southeast,SP,salto de pirapora,13,1326.18,0.01
+city,Southeast,RJ,sumidouro,10,1325.97,0.01
+city,Southeast,MG,pompeu,11,1321.67,0.01
+city,South,RS,frederico westphalen,14,1319.89,0.01
+city,Southeast,SP,saltinho,5,1316.35,0.01
+city,Southeast,MG,sarzedo,18,1316.33,0.01
+city,Northeast,PI,campo maior,7,1314.71,0.01
+city,Southeast,SP,urupes,10,1313.27,0.01
+city,Southeast,ES,boa esperanca,7,1312.95,0.01
+city,Southeast,SP,salesopolis,10,1310.96,0.01
+city,South,SC,sao joaquim,9,1310.39,0.01
+city,Northeast,PB,alhandra,2,1307.91,0.01
+city,Northeast,BA,conceicao do coite,9,1307.04,0.01
+city,Central-West,GO,acreuna,7,1306.45,0.01
+city,Northeast,BA,riacho de santana,4,1302.47,0.01
+city,Northeast,RN,macau,5,1297.69,0.01
+city,Northeast,CE,redencao,4,1297.66,0.01
+city,Southeast,MG,raposos,11,1297.31,0.01
+city,Northeast,PE,venturosa,2,1297.06,0.01
+city,Northeast,BA,catu de abrantes,2,1295.86,0.01
+city,South,RS,rosario do sul,14,1292.52,0.01
+city,Southeast,SP,charqueada,10,1290.88,0.01
+city,Northeast,BA,itaberaba,10,1286.19,0.01
+city,South,SC,araquari,11,1285.36,0.01
+city,Northeast,CE,quixere,3,1281.01,0.01
+city,South,PR,arapoti,9,1280.91,0.01
+city,South,RS,rolante,10,1280.29,0.01
+city,Northeast,PE,toritama,5,1277.99,0.01
+city,Southeast,MG,capinopolis,11,1277.95,0.01
+city,South,RS,butia,6,1277.92,0.01
+city,Central-West,MS,costa rica,12,1273.9,0.01
+city,Southeast,MG,prata,10,1270.36,0.01
+city,Southeast,SP,brotas,12,1269.88,0.01
+city,Northeast,BA,casa nova,6,1269.54,0.01
+city,Northeast,BA,camacan,6,1269.4,0.01
+city,Northeast,AL,santana do mundau,3,1268.01,0.01
+city,Northeast,PB,passagem,1,1265.83,0.01
+city,South,PR,ibaiti,11,1264.14,0.01
+city,Northeast,MA,colinas,3,1263.4,0.01
+city,Northeast,CE,jijoca de jericoacoara,4,1262.22,0.01
+city,North,RO,alto paraiso,1,1260.76,0.01
+city,North,AM,coari,1,1259.04,0.01
+city,Southeast,SP,aguas da prata,10,1257.57,0.01
+city,Southeast,MG,cristina,8,1256.38,0.01
+city,South,PR,itapejara doeste,6,1255.92,0.01
+city,Northeast,CE,cascavel,5,1254.75,0.01
+city,South,RS,capao do leao,4,1254.66,0.01
+city,Southeast,MG,arapora,5,1253.37,0.01
+city,Southeast,SP,santo antonio do pinhal,2,1252.69,0.01
+city,Northeast,CE,hidrolandia,7,1251.75,0.01
+city,Northeast,CE,taua,10,1251.37,0.01
+city,South,RS,terra de areia,5,1250.93,0.01
+city,Northeast,PI,valenca do piaui,4,1247.87,0.01
+city,Southeast,RJ,santa maria madalena,7,1247.45,0.01
+city,Central-West,MT,bom jesus do araguaia,1,1247.29,0.01
+city,Northeast,RN,caraubas,3,1246.76,0.01
+city,Southeast,MG,poco fundo,8,1244.88,0.01
+city,South,RS,jaguarao,8,1242.01,0.01
+city,Northeast,BA,entre rios,6,1241.52,0.01
+city,Northeast,PE,lajedo,7,1237.92,0.01
+city,Southeast,MG,sao jose da lapa,8,1237.52,0.01
+city,Central-West,GO,goias,8,1236.73,0.01
+city,South,PR,pontal do parana,8,1235.05,0.01
+city,Northeast,BA,prado,5,1234.59,0.01
+city,Southeast,SP,buritama,9,1234.42,0.01
+city,Southeast,SP,engenheiro coelho,13,1234.24,0.01
+city,Northeast,MA,acailandia,7,1233.48,0.01
+city,Southeast,SP,rio das pedras,11,1231.52,0.01
+city,Southeast,RJ,japuiba,5,1230.85,0.01
+city,Southeast,MG,ervalia,7,1230.45,0.01
+city,Central-West,MT,alto araguaia,5,1228.13,0.01
+city,Northeast,BA,macaubas,9,1227.15,0.01
+city,Northeast,BA,santo estevao,5,1226.69,0.01
+city,South,RS,arroio dos ratos,9,1226.52,0.01
+city,Southeast,SP,pilar do sul,12,1225.32,0.01
+city,Southeast,SP,brodowski,10,1224.59,0.01
+city,Southeast,RJ,mangaratiba,12,1224.42,0.01
+city,Central-West,GO,goianapolis,4,1224.04,0.01
+city,Northeast,PB,brejo do cruz,1,1217.78,0.01
+city,South,RS,garibaldi,9,1216.25,0.01
+city,Central-West,GO,rubiataba,7,1210.69,0.01
+city,Central-West,GO,serranopolis,3,1210.27,0.01
+city,North,PA,uruara,6,1199.13,0.01
+city,Southeast,SP,vera cruz,10,1198.44,0.01
+city,Central-West,MS,rio brilhante,11,1195.16,0.01
+city,South,RS,xangri-la,8,1192.87,0.01
+city,Southeast,MG,mar de espanha,9,1191.57,0.01
+city,Southeast,SP,taruma,9,1189.95,0.01
+city,Southeast,SP,guarei,5,1187.44,0.01
+city,Southeast,MG,mirai,9,1186.53,0.01
+city,Southeast,SP,monte aprazivel,10,1186.5,0.01
+city,South,PR,nova prata do iguacu,6,1185.19,0.01
+city,North,RO,extrema,4,1184.52,0.01
+city,Northeast,RN,sao goncalo do amarante,7,1184.28,0.01
+city,Southeast,ES,pinheiros,8,1182.51,0.01
+city,Northeast,PE,tabira,5,1178.89,0.01
+city,Southeast,ES,fundao,5,1177.95,0.01
+city,Northeast,PE,lagoa grande,4,1177.19,0.01
+city,Southeast,SP,tarabai,5,1174.4,0.01
+city,Southeast,MG,gouveia,4,1167.23,0.01
+city,Southeast,SP,primavera,9,1166.01,0.01
+city,North,TO,dianopolis,7,1165.41,0.01
+city,Central-West,GO,cacu,8,1163.53,0.01
+city,Southeast,SP,cajobi,8,1162.89,0.01
+city,South,SC,otacilio costa,5,1162.85,0.01
+city,Southeast,SP,pauliceia,3,1162.1,0.01
+city,Southeast,MG,arceburgo,7,1160.83,0.01
+city,Southeast,MG,catas altas,5,1160.35,0.01
+city,South,SC,treze tilias,11,1159.36,0.01
+city,Southeast,MG,sao jose da barra,6,1158.11,0.01
+city,Northeast,RN,caicara do norte,1,1157.41,0.01
+city,Southeast,SP,chavantes,12,1154.14,0.01
+city,Central-West,GO,itaberai,6,1151.08,0.01
+city,Central-West,MS,bonito,8,1150.97,0.01
+city,Northeast,BA,seabra,6,1148.26,0.01
+city,Southeast,SP,lucelia,12,1147.89,0.01
+city,Southeast,SP,patrocinio paulista,2,1147.46,0.01
+city,Northeast,PE,cabrobo,6,1146.91,0.01
+city,South,PR,colorado,6,1145.85,0.01
+city,Southeast,ES,ecoporanga,8,1145.83,0.01
+city,South,SC,sao lourenco do oeste,10,1143.79,0.01
+city,Southeast,MG,aimores,10,1143.77,0.01
+city,South,RS,encruzilhada do sul,8,1142.59,0.01
+city,Northeast,PI,bom jesus,4,1142.14,0.01
+city,Northeast,MA,pedreiras,3,1141.76,0.01
+city,South,RS,bom principio,6,1140.75,0.01
+city,Central-West,MT,sapezal,8,1139.52,0.01
+city,South,PR,ortigueira,8,1139.45,0.01
+city,Northeast,PB,bayeux,7,1139.41,0.01
+city,Northeast,CE,santa quiteria,5,1139.12,0.01
+city,Southeast,SP,luis antonio,7,1131.43,0.01
+city,Southeast,MG,brasopolis,7,1131.4,0.01
+city,Central-West,GO,crixas,8,1129.44,0.01
+city,Southeast,MG,fervedouro,8,1128.61,0.01
+city,South,SC,piratuba,6,1128.48,0.01
+city,South,RS,nova roma do sul,1,1127.29,0.01
+city,Southeast,ES,sao jose do calcado,6,1127.26,0.01
+city,North,AC,cruzeiro do sul,3,1127.06,0.01
+city,Northeast,BA,jeremoabo,6,1126.37,0.01
+city,Northeast,CE,morrinhos,4,1124.79,0.01
+city,North,PA,picarra,1,1122.86,0.01
+city,Southeast,SP,pedregulho,2,1122.18,0.01
+city,North,PA,concordia do para,3,1120.9,0.01
+city,Northeast,CE,quixeramobim,6,1119.97,0.01
+city,Northeast,BA,arraial dajuda,10,1118.7,0.01
+city,Southeast,SP,santo antonio do aracangua,1,1117.99,0.01
+city,Southeast,SP,serrana,13,1115.27,0.01
+city,Central-West,GO,bom jesus,8,1112.53,0.01
+city,Southeast,RJ,porciuncula,8,1112.13,0.01
+city,Central-West,MT,campos de julio,6,1110.35,0.01
+city,Southeast,MG,itamonte,10,1105.06,0.01
+city,Southeast,SP,buri,10,1103.39,0.01
+city,Southeast,SP,sao sebastiao da grama,4,1102.02,0.01
+city,South,PR,godoy moreira,1,1101.83,0.01
+city,South,PR,pinhao,8,1101.52,0.01
+city,Southeast,SP,dourado,8,1098.35,0.01
+city,Central-West,GO,iaciara,4,1098.31,0.01
+city,Southeast,SP,vargem grande do sul,13,1096.15,0.01
+city,South,PR,cambara,10,1096.06,0.01
+city,Southeast,MG,tres marias,13,1095.9,0.01
+city,Southeast,SP,cardoso,6,1095.32,0.01
+city,Southeast,SP,potirendaba,9,1095.1,0.01
+city,South,SC,benedito novo,6,1093.77,0.01
+city,Southeast,MG,virginopolis,8,1092.22,0.01
+city,Southeast,MG,pecanha,5,1091.8,0.01
+city,Southeast,SP,cosmorama,6,1091.55,0.01
+city,Southeast,SP,estiva gerbi,7,1090.98,0.01
+city,Southeast,MG,candeias,10,1090.18,0.01
+city,Southeast,SP,regente feijo,10,1088.31,0.01
+city,Northeast,BA,ipiau,8,1088.03,0.01
+city,Central-West,MT,matupa,7,1087.87,0.01
+city,South,SC,itapoa,9,1087.75,0.01
+city,South,PR,prudentopolis,7,1085.17,0.01
+city,South,SC,urussanga,10,1083.08,0.01
+city,Northeast,SE,simao dias,7,1082.91,0.01
+city,Southeast,SP,pradopolis,10,1081.31,0.01
+city,Central-West,GO,planaltina,12,1080.95,0.01
+city,Southeast,MG,fronteira,6,1079.53,0.01
+city,South,SC,porto belo,9,1079.32,0.01
+city,Northeast,AL,inhapi,2,1075.1,0.01
+city,Southeast,SP,oriente,3,1075.02,0.01
+city,Northeast,PE,lagoa dos gatos,3,1073.47,0.01
+city,Northeast,BA,barra da estiva,7,1072.68,0.01
+city,Northeast,SE,sao francisco,3,1072.06,0.01
+city,Southeast,MG,eugenopolis,5,1071.39,0.01
+city,Northeast,PE,condado,4,1071.11,0.01
+city,Southeast,MG,bom jardim de minas,8,1068.38,0.01
+city,North,TO,cristalandia,3,1067.93,0.01
+city,Northeast,PE,dormentes,2,1067.73,0.01
+city,Southeast,MG,paraopeba,9,1066.74,0.01
+city,South,PR,palotina,10,1065.77,0.01
+city,South,RS,nova santa rita,5,1064.0,0.01
+city,Southeast,MG,conceicao da aparecida,5,1063.65,0.01
+city,South,PR,sao joao,11,1062.61,0.01
+city,Southeast,MG,borda da mata,6,1062.25,0.01
+city,South,RS,nao-me-toque,7,1062.1,0.01
+city,Northeast,CE,sao benedito,4,1058.76,0.01
+city,South,PR,coronel vivida,11,1058.59,0.01
+city,Central-West,GO,goianira,8,1057.77,0.01
+city,Northeast,AL,sao miguel dos campos,2,1054.11,0.01
+city,Southeast,ES,alfredo chaves,7,1052.61,0.01
+city,Southeast,MG,jordania,5,1047.2,0.01
+city,South,RS,cacapava do sul,5,1044.83,0.01
+city,South,RS,balneario pinhal,7,1043.94,0.01
+city,Southeast,SP,icem,9,1043.64,0.01
+city,South,RS,serafina correa,9,1042.38,0.01
+city,South,PR,colonia castrolanda,3,1041.71,0.01
+city,Northeast,PI,regeneracao,6,1041.64,0.01
+city,Northeast,PE,aguas belas,6,1041.4,0.01
+city,Northeast,BA,jacaraci,4,1040.27,0.01
+city,South,SC,pinhalzinho,9,1040.2,0.01
+city,Northeast,MA,lago da pedra,5,1038.96,0.01
+city,South,PR,munhoz de melo,4,1037.26,0.01
+city,Southeast,RJ,varre-sai,4,1035.37,0.01
+city,South,PR,quedas do iguacu,8,1030.44,0.01
+city,Northeast,PE,pesqueira,9,1030.03,0.01
+city,Central-West,MT,campo verde,10,1029.69,0.01
+city,South,SC,capivari de baixo,5,1028.73,0.01
+city,South,PR,paicandu,9,1028.65,0.01
+city,Southeast,ES,sao domingos do norte,7,1028.5,0.01
+city,Southeast,MG,itaobim,6,1026.56,0.01
+city,Central-West,GO,abadiania,1,1025.52,0.01
+city,Northeast,CE,bela cruz,4,1024.47,0.01
+city,Southeast,MG,alvinopolis,11,1020.96,0.01
+city,South,PR,assai,5,1019.8,0.01
+city,Southeast,MG,monte santo de minas,9,1018.0,0.01
+city,Northeast,BA,canavieiras,6,1017.29,0.01
+city,Southeast,RJ,california da barra,6,1014.5,0.01
+city,Southeast,MG,sao goncalo do rio abaixo,6,1013.43,0.01
+city,Northeast,PI,paulistana,3,1013.26,0.01
+city,Southeast,SP,pedro de toledo,9,1013.09,0.01
+city,South,PR,figueira,4,1012.87,0.01
+city,Southeast,SP,holambra ii,5,1012.82,0.01
+city,South,SC,canelinha,4,1012.72,0.01
+city,Southeast,SP,boa esperanca do sul,11,1012.62,0.01
+city,South,SC,santa cecilia,6,1011.42,0.01
+city,South,SC,palma sola,4,1010.55,0.01
+city,Southeast,SP,taiuva,5,1010.13,0.01
+city,Southeast,ES,itarana,3,1010.02,0.01
+city,Southeast,SP,itaju,3,1008.37,0.01
+city,South,PR,sertanopolis,4,1008.14,0.01
+city,Central-West,GO,mozarlandia,7,1008.04,0.01
+city,Northeast,MA,paco do lumiar,7,1005.93,0.01
+city,South,RS,candido godoi,1,1005.84,0.01
+city,South,PR,santa fe,5,1005.44,0.01
+city,Northeast,RN,sao miguel,4,1004.52,0.01
+city,Southeast,SP,capela do alto,3,1004.25,0.01
+city,Central-West,GO,itapuranga,7,1003.26,0.01
+city,Central-West,GO,itaja,3,1001.9,0.01
+city,Southeast,MG,grao mogol,3,999.3,0.01
+city,Northeast,BA,cansancao,7,998.37,0.01
+city,Northeast,AL,campo alegre,2,997.96,0.01
+city,Southeast,RJ,conservatoria,4,997.17,0.01
+city,South,PR,faxinal,9,995.73,0.01
+city,Southeast,SP,guapiacu,6,995.55,0.01
+city,Northeast,BA,trancoso,6,995.19,0.01
+city,South,RS,sao marcos,9,994.76,0.01
+city,Southeast,MG,bom sucesso,4,994.7,0.01
+city,South,SC,bom jesus,2,993.16,0.01
+city,Central-West,GO,santo antonio do descoberto,5,992.88,0.01
+city,Southeast,SP,miracatu,5,991.81,0.01
+city,Northeast,CE,lavras da mangabeira,2,986.46,0.01
+city,South,SC,rodeio,7,985.95,0.01
+city,Southeast,SP,irapuru,6,985.29,0.01
+city,Southeast,SP,julio mesquita,2,984.59,0.01
+city,South,RS,julio de castilhos,10,983.04,0.01
+city,Southeast,SP,angatuba,8,983.03,0.01
+city,South,PR,cruzeiro do oeste,7,982.5,0.01
+city,Southeast,SP,urania,4,980.29,0.01
+city,South,PR,guaira,7,979.8,0.01
+city,Southeast,MG,sao goncalo do para,3,975.85,0.01
+city,Southeast,SP,borborema,9,975.55,0.01
+city,Northeast,BA,mairi,2,974.31,0.01
+city,Southeast,MG,guaranesia,9,972.83,0.01
+city,South,SC,nova trento,6,972.21,0.01
+city,Central-West,GO,santa rita do araguaia,7,972.03,0.01
+city,Southeast,MG,conceicao do rio verde,5,970.15,0.01
+city,Southeast,MG,alpinopolis,7,969.45,0.01
+city,Southeast,MG,novo cruzeiro,9,968.87,0.01
+city,Northeast,MA,grajau,5,965.51,0.01
+city,North,PA,goianesia do para,3,964.71,0.01
+city,Northeast,PE,moreno,5,960.09,0.01
+city,Southeast,MG,arinos,8,959.82,0.01
+city,South,RS,portao,10,959.46,0.01
+city,Northeast,RN,sao jose de mipibu,3,956.19,0.01
+city,Northeast,PI,amarante,1,953.84,0.01
+city,Southeast,SP,santa branca,9,953.35,0.01
+city,Central-West,GO,inaciolandia,3,952.92,0.01
+city,Southeast,SP,jacare,8,952.58,0.01
+city,Central-West,MS,alcinopolis,6,952.35,0.01
+city,North,RO,espigao do oeste,6,951.17,0.01
+city,Northeast,PE,paudalho,2,950.14,0.01
+city,South,PR,cidade gaucha,5,950.1,0.01
+city,Northeast,MA,alto parnaiba,5,948.1,0.01
+city,North,TO,tocantinopolis,7,947.28,0.01
+city,Northeast,CE,santana do cariri,3,946.68,0.01
+city,South,PR,nova londrina,9,946.56,0.01
+city,Southeast,SP,sao luiz do paraitinga,3,945.99,0.01
+city,Southeast,MG,resplendor,10,944.6,0.01
+city,Southeast,SP,areiopolis,3,944.24,0.01
+city,Southeast,MG,matozinhos,12,944.16,0.01
+city,Central-West,MT,barra do bugres,4,943.65,0.01
+city,Northeast,RN,santana do serido,2,943.37,0.01
+city,Southeast,MG,marilac,1,942.78,0.01
+city,Southeast,MG,rio manso,5,939.68,0.01
+city,Northeast,BA,queimadas,4,937.57,0.01
+city,Southeast,SP,aracariguama,10,937.07,0.01
+city,Southeast,SP,piquete,9,934.55,0.01
+city,Southeast,SP,nazare paulista,7,934.33,0.01
+city,South,RS,tapes,6,934.26,0.01
+city,South,PR,porecatu,9,930.71,0.01
+city,Northeast,MA,sao mateus do maranhao,3,930.7,0.01
+city,North,TO,lagoa da confusao,5,929.74,0.01
+city,Southeast,ES,barra de sao francisco,10,929.28,0.01
+city,Southeast,ES,mimoso do sul,10,928.89,0.01
+city,Southeast,MG,dores do indaia,7,928.86,0.01
+city,South,PR,mambore,8,928.47,0.01
+city,Central-West,GO,campos belos,7,927.53,0.01
+city,Northeast,MA,sao bernardo,3,923.39,0.01
+city,Southeast,MG,brasilia de minas,9,922.92,0.01
+city,Southeast,MG,lagoa formosa,7,921.92,0.01
+city,Central-West,GO,mambai,2,921.9,0.01
+city,Northeast,BA,ruy barbosa,7,921.15,0.01
+city,Southeast,MG,datas,1,920.94,0.01
+city,Southeast,MG,lima duarte,6,920.86,0.01
+city,South,RS,getulio vargas,8,919.94,0.01
+city,Northeast,PB,juru,1,919.38,0.01
+city,Northeast,MA,buriticupu,5,919.03,0.01
+city,Southeast,SP,guaicara,8,917.56,0.01
+city,Central-West,GO,itaguari,1,913.7,0.01
+city,South,PR,imbituva,8,913.66,0.01
+city,Southeast,RJ,trajano de moraes,8,913.04,0.01
+city,Southeast,RJ,arrozal,3,912.81,0.01
+city,Southeast,MG,tarumirim,4,912.25,0.01
+city,Central-West,GO,piranhas,4,911.81,0.01
+city,Southeast,ES,joao neiva,8,911.4,0.01
+city,Southeast,SP,ibira,7,911.03,0.01
+city,South,RS,tres coroas,6,910.48,0.01
+city,North,RO,jaru,6,910.26,0.01
+city,Southeast,MG,cachoeira do campo,2,909.84,0.01
+city,Northeast,BA,boninal,2,909.8,0.01
+city,Southeast,SP,lutecia,1,908.84,0.01
+city,South,RS,chui,5,908.16,0.01
+city,South,RS,cerro largo,7,907.81,0.01
+city,South,PR,mallet,6,907.63,0.01
+city,Southeast,SP,avanhandava,7,905.33,0.01
+city,Southeast,SP,joanopolis,6,904.51,0.01
+city,South,SC,sao joao do sul,2,902.37,0.01
+city,Northeast,CE,acopiara,7,901.67,0.01
+city,South,PR,carlopolis,6,901.18,0.01
+city,Northeast,CE,varjota,4,901.18,0.01
+city,Northeast,SE,sao cristovao,7,900.43,0.01
+city,South,PR,salto do lontra,4,900.11,0.01
+city,South,RS,candiota,4,899.6,0.01
+city,Southeast,SP,igarapava,7,897.02,0.01
+city,Southeast,SP,nuporanga,3,895.41,0.01
+city,Northeast,MA,icatu,1,892.9,0.01
+city,Northeast,MA,santa helena,3,892.14,0.01
+city,Central-West,MS,amambai,6,890.69,0.01
+city,Central-West,MS,dois irmaos do buriti,3,890.15,0.01
+city,Northeast,SE,capela,3,889.17,0.01
+city,Southeast,SP,jacupiranga,5,885.57,0.01
+city,Northeast,BA,ubaira,6,884.91,0.01
+city,Southeast,MG,santa rita de caldas,6,882.22,0.01
+city,Southeast,SP,bilac,8,881.91,0.01
+city,Northeast,BA,conde,2,881.52,0.01
+city,Southeast,MG,rio paranaiba,9,881.48,0.01
+city,Northeast,PE,lagoa do carro,2,880.78,0.01
+city,Southeast,SP,juquia,9,880.09,0.01
+city,Northeast,MA,ze doca,5,878.92,0.01
+city,Northeast,BA,barra do choca,3,877.49,0.01
+city,South,SC,ilhota,4,877.22,0.01
+city,Northeast,BA,maracas,5,877.09,0.01
+city,South,RS,campos borges,3,877.04,0.01
+city,South,SC,papanduva,8,876.65,0.01
+city,Southeast,MG,serro,2,876.62,0.01
+city,Central-West,GO,cidade ocidental,8,876.57,0.01
+city,Southeast,MG,sao pedro dos ferros,4,875.73,0.01
+city,Central-West,MT,colniza,3,875.49,0.01
+city,Southeast,SP,taguai,10,873.56,0.01
+city,South,SC,seara,6,873.34,0.01
+city,Southeast,MG,campina verde,10,868.85,0.01
+city,Central-West,GO,guapo,6,868.7,0.01
+city,Southeast,MG,bicas,7,868.55,0.01
+city,Southeast,MG,formoso,2,867.1,0.01
+city,Northeast,BA,arataca,1,865.78,0.01
+city,Southeast,MG,virgem da lapa,3,864.44,0.01
+city,South,SC,laurentino,5,863.27,0.01
+city,South,PR,marmeleiro,7,862.98,0.01
+city,Northeast,CE,jaguaribe,5,861.8,0.01
+city,North,TO,araguatins,5,859.9,0.01
+city,Southeast,RJ,vila muriqui,7,856.45,0.01
+city,Southeast,SP,murutinga do sul,2,855.71,0.01
+city,Southeast,SP,bananal,6,855.71,0.01
+city,Central-West,MT,chapada dos guimaraes,4,854.78,0.01
+city,Northeast,PE,goiana,9,853.96,0.01
+city,Northeast,BA,itajuipe,3,852.28,0.01
+city,South,PR,morretes,4,848.92,0.01
+city,Southeast,SP,paraiso,5,848.74,0.01
+city,Southeast,SP,echapora,2,847.25,0.01
+city,Southeast,SP,cafelandia,8,846.2,0.01
+city,South,SC,presidente getulio,6,846.13,0.01
+city,Southeast,SP,ribeirao bonito,7,846.12,0.01
+city,Northeast,BA,itirucu,3,845.37,0.01
+city,Northeast,MA,viana,5,845.14,0.01
+city,Central-West,GO,sao joao dalianca,3,844.86,0.01
+city,South,SC,alfredo wagner,2,844.67,0.01
+city,Southeast,MG,pedralva,3,844.33,0.01
+city,South,PR,floresta,5,844.09,0.01
+city,Southeast,SP,igarata,5,843.87,0.01
+city,Northeast,PI,matias olimpio,1,841.4,0.01
+city,North,TO,sandolandia,1,841.28,0.01
+city,Southeast,MG,carbonita,4,841.12,0.01
+city,Southeast,MG,muzambinho,9,840.63,0.01
+city,Northeast,RN,jucurutu,4,839.83,0.01
+city,Southeast,SP,cananeia,8,838.89,0.01
+city,South,SC,catanduvas,6,834.99,0.01
+city,Southeast,SP,cabreuva,6,834.12,0.01
+city,Southeast,MG,belo oriente,5,833.02,0.01
+city,Central-West,GO,firminopolis,7,832.5,0.01
+city,Northeast,BA,morro de sao paulo,1,832.0,0.01
+city,South,RS,tres cachoeiras,7,831.42,0.01
+city,Southeast,SP,santa albertina,7,830.42,0.01
+city,South,RS,pejucara,4,830.35,0.01
+city,Northeast,MA,arari,2,828.79,0.01
+city,Northeast,PI,piripiri,7,828.56,0.01
+city,Northeast,BA,sao felipe,2,827.01,0.01
+city,Northeast,BA,madre de deus,7,826.74,0.01
+city,South,SC,vargem bonita,5,826.27,0.01
+city,Southeast,RJ,avelar,4,824.24,0.01
+city,South,SC,rio do campo,4,822.25,0.01
+city,Central-West,MT,alto taquari,3,821.17,0.01
+city,South,SC,cunha pora,5,820.95,0.01
+city,Northeast,PI,urucui,4,820.26,0.01
+city,South,PR,vere,3,818.22,0.01
+city,Northeast,BA,coribe,8,816.78,0.01
+city,South,RS,estacao,5,815.22,0.01
+city,Northeast,CE,caninde,6,814.2,0.01
+city,Northeast,MA,joao lisboa,5,810.71,0.01
+city,Southeast,MG,nepomuceno,9,810.68,0.01
+city,Central-West,GO,anicuns,8,809.19,0.01
+city,Southeast,MG,jaboticatubas,1,808.87,0.01
+city,Northeast,PE,iati,3,807.24,0.01
+city,South,PR,capanema,9,805.98,0.01
+city,Southeast,MG,caetanopolis,8,805.62,0.01
+city,North,RO,alta floresta doeste,3,805.5,0.01
+city,Northeast,PE,timbauba,7,804.45,0.01
+city,Northeast,PI,oeiras,6,803.91,0.01
+city,South,PR,santa helena,9,803.75,0.01
+city,North,RO,nova mamore,2,803.16,0.01
+city,Northeast,BA,conceicao da feira,2,802.95,0.01
+city,Southeast,SP,sabino,3,802.87,0.01
+city,Northeast,MA,maracacume,4,802.42,0.01
+city,South,RS,cacequi,4,801.37,0.01
+city,Northeast,CE,alto santo,3,801.01,0.01
+city,South,RS,barros cassal,3,800.36,0.01
+city,Southeast,MG,piedade de caratinga,7,799.83,0.01
+city,Southeast,MG,jaiba,6,799.04,0.01
+city,Northeast,BA,andorinha,5,797.61,0.01
+city,South,SC,abelardo luz,6,797.58,0.01
+city,Northeast,BA,medeiros neto,7,797.29,0.01
+city,Northeast,PB,cuite,3,796.51,0.01
+city,South,PR,peabiru,5,793.96,0.01
+city,South,PR,santa cruz de monte castelo,4,793.05,0.01
+city,South,RS,rio pardo,5,791.45,0.0
+city,South,PR,jaguapita,1,790.68,0.0
+city,Southeast,RJ,sapucaia,5,790.1,0.0
+city,Southeast,MG,divisa nova,1,788.71,0.0
+city,Southeast,SP,catigua,6,788.52,0.0
+city,Southeast,SP,sao bento do sapucai,7,788.06,0.0
+city,Northeast,BA,miguel calmon,5,787.81,0.0
+city,South,SC,guabiruba,5,786.81,0.0
+city,Southeast,SP,cajuru,9,786.74,0.0
+city,Southeast,RJ,carapebus,5,786.52,0.0
+city,Southeast,MG,campanha,7,786.27,0.0
+city,Northeast,CE,solonopole,2,785.74,0.0
+city,South,PR,corbelia,3,785.22,0.0
+city,Northeast,BA,sobradinho,5,783.74,0.0
+city,South,SC,sao joao do itaperiu,1,782.74,0.0
+city,Northeast,BA,ribeira do pombal,8,782.36,0.0
+city,Southeast,ES,bom jesus do norte,4,781.85,0.0
+city,Central-West,GO,santa cruz de goias,2,779.69,0.0
+city,Southeast,SP,dumont,4,779.64,0.0
+city,Southeast,MG,tocantins,6,778.49,0.0
+city,Northeast,MA,maioba,3,778.07,0.0
+city,Northeast,BA,livramento de nossa senhora,5,777.57,0.0
+city,South,PR,terra boa,4,773.42,0.0
+city,Northeast,MA,matoes do norte,2,772.28,0.0
+city,Northeast,MA,esperantinopolis,3,771.41,0.0
+city,Northeast,PE,belem do sao francisco,2,771.02,0.0
+city,South,PR,terra rica,7,769.63,0.0
+city,Northeast,CE,barro,4,769.02,0.0
+city,South,RS,cidreira,5,769.02,0.0
+city,Northeast,BA,urandi,2,767.81,0.0
+city,Southeast,SP,guaracai,5,767.11,0.0
+city,South,RS,santo cristo,7,766.18,0.0
+city,Central-West,MT,jauru,5,762.86,0.0
+city,Southeast,SP,colina,9,762.25,0.0
+city,Northeast,CE,guaiuba,2,762.05,0.0
+city,North,PA,garrafao do norte,3,762.0,0.0
+city,Southeast,RJ,santa isabel do rio preto,1,761.82,0.0
+city,Northeast,RN,itau,2,761.37,0.0
+city,South,SC,palmitos,5,760.98,0.0
+city,Southeast,SP,nova europa,8,760.89,0.0
+city,Southeast,SP,paranapanema,11,759.71,0.0
+city,Northeast,RN,macaiba,5,757.17,0.0
+city,Northeast,CE,marco,3,756.76,0.0
+city,South,RS,nova hartz,3,755.22,0.0
+city,Central-West,GO,jaragua,7,755.07,0.0
+city,Northeast,MA,cururupu,3,754.67,0.0
+city,Central-West,GO,bela vista de goias,7,753.35,0.0
+city,South,RS,pedro osorio,3,752.98,0.0
+city,Northeast,PE,custodia,5,752.17,0.0
+city,Southeast,MG,perdoes,9,752.01,0.0
+city,South,PR,ubirata,7,751.43,0.0
+city,Southeast,SP,lindoia,9,751.34,0.0
+city,Northeast,RN,acu,3,749.59,0.0
+city,Southeast,MG,conceicao do para,3,749.55,0.0
+city,North,RO,rolim de moura,7,748.15,0.0
+city,Southeast,MG,mateus leme,9,746.6,0.0
+city,Southeast,RJ,comendador levy gasparian,7,746.56,0.0
+city,South,SC,sao ludgero,3,746.51,0.0
+city,North,PA,capanema,4,746.26,0.0
+city,Central-West,MS,mundo novo,3,745.76,0.0
+city,Southeast,SP,nhandeara,8,745.32,0.0
+city,South,RS,barra do ribeiro,5,742.89,0.0
+city,South,PR,manoel ribas,4,742.32,0.0
+city,South,RS,morro reuter,3,741.4,0.0
+city,South,PR,pirai do sul,6,740.98,0.0
+city,Northeast,SE,propria,4,740.75,0.0
+city,Southeast,SP,taquarivai,3,738.9,0.0
+city,Northeast,CE,guaraciaba do norte,4,738.15,0.0
+city,Northeast,BA,morro do chapeu,7,737.84,0.0
+city,Southeast,SP,santa cruz das palmeiras,9,736.51,0.0
+city,Northeast,MA,cantanhede,1,735.85,0.0
+city,South,RS,horizontina,7,735.55,0.0
+city,Northeast,RN,santa cruz,4,734.7,0.0
+city,Central-West,MS,camapua,6,734.34,0.0
+city,Southeast,MG,frei inocencio,5,733.89,0.0
+city,Northeast,PE,tracunhaem,2,733.7,0.0
+city,North,TO,miranorte,2,733.42,0.0
+city,Central-West,MS,bataguassu,5,732.92,0.0
+city,Southeast,SP,maristela,4,731.42,0.0
+city,South,SC,passo de torres,7,731.26,0.0
+city,Northeast,BA,rio do pires,4,731.25,0.0
+city,Southeast,MG,morada nova de minas,3,730.37,0.0
+city,Southeast,MG,monte azul,5,729.88,0.0
+city,South,RS,sao jeronimo,7,729.34,0.0
+city,Southeast,MG,itambacuri,6,727.89,0.0
+city,Northeast,SE,graccho cardoso,1,723.72,0.0
+city,North,PA,hidreletrica tucurui,3,721.48,0.0
+city,Northeast,PE,sirinhaem,5,720.23,0.0
+city,Northeast,PB,sao bento,3,720.21,0.0
+city,Central-West,MS,juti,4,719.48,0.0
+city,North,RO,ouro preto do oeste,4,718.48,0.0
+city,Northeast,CE,senador pompeu,4,718.11,0.0
+city,Central-West,MT,nova mutum,5,715.67,0.0
+city,Southeast,SP,guaranta,5,715.01,0.0
+city,Southeast,SP,apiai,6,714.94,0.0
+city,Southeast,MG,conceicao dos ouros,4,714.92,0.0
+city,South,RS,pinheiro machado,5,713.31,0.0
+city,South,SC,petrolandia,5,712.05,0.0
+city,Northeast,PE,surubim,5,711.22,0.0
+city,Southeast,MG,santa cruz de minas,5,710.39,0.0
+city,North,PA,breves,1,710.19,0.0
+city,Northeast,BA,itororo,2,709.37,0.0
+city,Southeast,MG,rio acima,8,709.23,0.0
+city,Southeast,MG,rio pardo de minas,5,708.49,0.0
+city,Southeast,SP,morungaba,7,708.32,0.0
+city,South,PR,paulo frontin,5,707.4,0.0
+city,Southeast,MG,lagoa dourada,5,707.3,0.0
+city,South,PR,itaperucu,4,707.2,0.0
+city,Northeast,CE,paraipaba,5,706.54,0.0
+city,Northeast,CE,paracuru,4,705.92,0.0
+city,Southeast,SP,bady bassitt,7,705.7,0.0
+city,Northeast,CE,itaitinga,4,704.17,0.0
+city,Northeast,MA,urbano santos,5,703.99,0.0
+city,Southeast,MG,jequitiba,2,703.86,0.0
+city,Northeast,MA,itapecuru mirim,4,702.95,0.0
+city,South,PR,guaraci,2,701.96,0.0
+city,South,RS,sao jose do norte,7,701.78,0.0
+city,Northeast,PE,limoeiro,7,701.21,0.0
+city,Northeast,CE,granja,5,700.3,0.0
+city,Southeast,MG,carmo de minas,3,699.53,0.0
+city,Southeast,MG,juatuba,4,699.33,0.0
+city,Southeast,MG,baldim,2,699.04,0.0
+city,South,SC,campo ere,7,697.99,0.0
+city,Southeast,SP,fernando prestes,6,696.58,0.0
+city,Central-West,MS,sao gabriel do oeste,7,695.94,0.0
+city,South,RS,sao sepe,6,695.71,0.0
+city,Northeast,PE,floresta,6,694.69,0.0
+city,Southeast,MG,medina,6,694.4,0.0
+city,Southeast,MG,santo antonio do jacinto,8,693.56,0.0
+city,Northeast,AL,rio largo,6,693.04,0.0
+city,Southeast,MG,aguas vermelhas,3,692.89,0.0
+city,Southeast,RJ,silva jardim,4,691.27,0.0
+city,Southeast,MG,mario campos,3,690.9,0.0
+city,South,RS,porto xavier,5,690.18,0.0
+city,Southeast,MG,ibiai,3,689.95,0.0
+city,Northeast,BA,coronel joao sa,3,689.71,0.0
+city,Northeast,SE,poco verde,4,689.31,0.0
+city,Northeast,AL,mar vermelho,2,689.02,0.0
+city,South,SC,sao carlos,5,688.57,0.0
+city,Central-West,GO,castelandia,5,688.41,0.0
+city,South,SC,maravilha,9,686.6,0.0
+city,Southeast,MG,jeceaba,6,683.51,0.0
+city,Southeast,ES,marechal floriano,5,681.38,0.0
+city,Southeast,MG,campos gerais,5,679.17,0.0
+city,Northeast,PE,jaqueira,3,679.17,0.0
+city,Northeast,PE,arcoverde,5,677.4,0.0
+city,Southeast,MG,jequeri,1,676.84,0.0
+city,South,RS,vera cruz,4,676.1,0.0
+city,Northeast,PI,canto do buriti,1,674.83,0.0
+city,Southeast,SP,salto grande,1,674.34,0.0
+city,South,RS,candelaria,4,673.1,0.0
+city,South,PR,perola doeste,2,672.75,0.0
+city,South,RS,soledade,5,671.66,0.0
+city,Southeast,SP,lagoinha,3,668.73,0.0
+city,Northeast,BA,ubaitaba,4,667.93,0.0
+city,South,RS,antonio prado,5,667.57,0.0
+city,Northeast,PE,jupi,2,666.86,0.0
+city,South,SC,palmeira,3,665.88,0.0
+city,Southeast,RJ,rio das flores,6,665.69,0.0
+city,Central-West,MT,nova bandeirantes,4,665.53,0.0
+city,South,PR,ribeirao claro,5,663.8,0.0
+city,South,PR,nova aurora,3,661.97,0.0
+city,Northeast,MA,fortuna,3,661.92,0.0
+city,Northeast,MA,sao bento,2,661.03,0.0
+city,Northeast,BA,capim grosso,5,660.78,0.0
+city,Southeast,SP,rafard,5,659.46,0.0
+city,South,PR,iguaracu,2,659.2,0.0
+city,South,PR,bela vista do paraiso,3,658.49,0.0
+city,Southeast,SP,valparaiso,8,658.49,0.0
+city,Southeast,ES,conceicao do castelo,5,658.0,0.0
+city,South,PR,teixeira soares,1,657.92,0.0
+city,Southeast,RJ,ipiabas,4,657.72,0.0
+city,Central-West,GO,orizona,6,657.08,0.0
+city,Southeast,SP,paulo de faria,5,656.48,0.0
+city,Northeast,AL,belem,3,656.47,0.0
+city,South,RS,catuipe,4,655.72,0.0
+city,Central-West,MT,porto dos gauchos,1,655.67,0.0
+city,South,SC,pouso redondo,3,655.27,0.0
+city,South,RS,anta gorda,4,655.25,0.0
+city,Southeast,SP,eldorado,6,654.06,0.0
+city,Southeast,MG,tiradentes,4,653.58,0.0
+city,Central-West,MT,pedra preta,4,653.5,0.0
+city,Southeast,ES,rio novo do sul,6,651.89,0.0
+city,Southeast,MG,mato verde,3,651.31,0.0
+city,Southeast,RJ,raposo,3,650.84,0.0
+city,Northeast,PE,feira nova,5,649.77,0.0
+city,Southeast,SP,ariranha,5,647.27,0.0
+city,Southeast,MG,sapucai-mirim,4,647.16,0.0
+city,North,PA,carajas,4,646.56,0.0
+city,South,RS,lavras do sul,3,646.56,0.0
+city,South,PR,ivai,2,645.77,0.0
+city,South,PR,senges,5,645.5,0.0
+city,Central-West,MT,araputanga,4,645.25,0.0
+city,Northeast,BA,potiragua,7,644.7,0.0
+city,South,RS,roque gonzales,5,643.61,0.0
+city,Northeast,PI,sao jose do divino,1,643.33,0.0
+city,North,TO,colinas do tocantins,3,643.08,0.0
+city,South,PR,jesuitas,4,642.93,0.0
+city,South,SC,anitapolis,2,642.38,0.0
+city,Southeast,SP,uchoa,3,641.29,0.0
+city,South,PR,ivaipora,7,640.86,0.0
+city,Southeast,MG,pirapetinga,7,640.39,0.0
+city,Northeast,PB,desterro,1,639.98,0.0
+city,Northeast,CE,horizonte,5,639.41,0.0
+city,Northeast,BA,uibai,4,639.36,0.0
+city,Southeast,RJ,tangua,6,636.04,0.0
+city,South,RS,dom feliciano,5,635.95,0.0
+city,Southeast,SP,palestina,10,634.57,0.0
+city,Northeast,PE,ilha de itamaraca,4,632.15,0.0
+city,Northeast,PE,jatoba,4,631.27,0.0
+city,South,RS,cristal,3,631.04,0.0
+city,Northeast,BA,piritiba,6,630.22,0.0
+city,Northeast,PE,sao jose do egito,4,630.2,0.0
+city,Southeast,SP,orindiuva,5,629.59,0.0
+city,Northeast,SE,barra dos coqueiros,3,629.46,0.0
+city,Northeast,AL,barra de santo antonio,2,629.12,0.0
+city,South,PR,terra roxa,3,629.03,0.0
+city,Southeast,SP,sales oliveira,6,627.74,0.0
+city,Southeast,MG,carai,6,626.69,0.0
+city,Northeast,BA,euclides da cunha,5,625.62,0.0
+city,Southeast,SP,presidente bernardes,6,624.07,0.0
+city,South,RS,sao francisco de paula,5,622.68,0.0
+city,North,RO,sao miguel do guapore,4,622.23,0.0
+city,Southeast,MG,caldas,5,621.94,0.0
+city,Southeast,SP,lavrinhas,1,621.35,0.0
+city,Northeast,BA,posto da mata,4,620.13,0.0
+city,Northeast,CE,carius,3,618.69,0.0
+city,Northeast,PI,sao miguel do tapuio,3,618.51,0.0
+city,Northeast,BA,uaua,4,618.18,0.0
+city,Southeast,RJ,quatis,5,617.87,0.0
+city,Southeast,MG,cachoeira de minas,7,616.92,0.0
+city,Southeast,RJ,cardoso moreira,6,616.88,0.0
+city,Central-West,GO,vianopolis,3,616.76,0.0
+city,Southeast,MG,alfredo vasconcelos,3,616.74,0.0
+city,Southeast,RJ,sao sebastiao do alto,4,616.7,0.0
+city,South,SC,ipora do oeste,6,615.23,0.0
+city,Northeast,BA,cacule,3,615.05,0.0
+city,Northeast,MA,paulino neves,1,614.63,0.0
+city,Southeast,MG,martins soares,6,613.9,0.0
+city,Southeast,MG,rio novo,4,613.25,0.0
+city,Northeast,CE,icapui,5,611.59,0.0
+city,Northeast,AL,tanque darca,2,611.54,0.0
+city,Northeast,BA,una,5,610.34,0.0
+city,Central-West,GO,parauna,4,610.16,0.0
+city,Northeast,BA,tanhacu,4,609.8,0.0
+city,South,RS,sao valentim,3,609.47,0.0
+city,Southeast,MG,guimarania,4,609.33,0.0
+city,South,PR,pitanga,3,607.71,0.0
+city,Southeast,MG,teixeiras,6,607.65,0.0
+city,Central-West,GO,cachoeira alta,6,605.48,0.0
+city,Northeast,BA,santa cruz cabralia,5,605.18,0.0
+city,Southeast,MG,canapolis,5,604.68,0.0
+city,North,PA,curuca,3,604.45,0.0
+city,South,RS,tenente portela,3,604.05,0.0
+city,Southeast,MG,conquista,6,602.42,0.0
+city,North,PA,itupiranga,1,602.38,0.0
+city,Southeast,SP,cristais paulista,4,600.64,0.0
+city,South,RS,nova petropolis,8,600.06,0.0
+city,Southeast,MG,francisco sa,3,599.75,0.0
+city,South,SC,sao jose do cedro,5,598.77,0.0
+city,South,RS,irai,2,598.26,0.0
+city,South,PR,bituruna,5,598.23,0.0
+city,Northeast,SE,nossa senhora das dores,1,598.23,0.0
+city,Southeast,SP,rifaina,2,597.77,0.0
+city,South,PR,campina da lagoa,2,593.82,0.0
+city,South,RS,campo novo,2,593.01,0.0
+city,Northeast,CE,aracoiaba,3,592.44,0.0
+city,Southeast,SP,itobi,7,591.42,0.0
+city,North,PA,santa isabel do para,5,591.22,0.0
+city,Southeast,RJ,engenheiro paulo de frontin,6,590.89,0.0
+city,Southeast,MG,caputira,2,590.66,0.0
+city,Southeast,MG,capitolio,5,590.12,0.0
+city,Northeast,PE,gloria do goita,2,587.92,0.0
+city,Southeast,SP,general salgado,6,587.28,0.0
+city,Northeast,BA,iguai,2,587.14,0.0
+city,Northeast,BA,utinga,5,586.45,0.0
+city,Southeast,MG,sao tiago,5,586.45,0.0
+city,Northeast,MA,pindare mirim,3,586.2,0.0
+city,South,RS,sananduva,6,585.57,0.0
+city,Northeast,RN,nova cruz,3,583.25,0.0
+city,Southeast,MG,padre carvalho,1,582.94,0.0
+city,Central-West,MT,alto boa vista,5,581.99,0.0
+city,Southeast,MG,ibiraci,4,581.14,0.0
+city,Southeast,MG,rio piracicaba,4,580.14,0.0
+city,Northeast,BA,mutuipe,4,580.09,0.0
+city,Southeast,MG,carmo da mata,6,578.61,0.0
+city,Northeast,PI,castelo do piaui,2,577.67,0.0
+city,Southeast,MG,pote,3,577.53,0.0
+city,Southeast,SP,tupi paulista,6,577.2,0.0
+city,Central-West,MT,cocalinho,4,576.56,0.0
+city,South,PR,florestopolis,3,575.77,0.0
+city,Southeast,SP,analandia,4,575.7,0.0
+city,North,PA,breu branco,3,575.7,0.0
+city,Northeast,BA,itarantim,3,574.72,0.0
+city,Southeast,ES,muqui,4,574.38,0.0
+city,Northeast,BA,cachoeira,4,573.71,0.0
+city,North,RO,machadinho doeste,3,572.96,0.0
+city,Southeast,RJ,sao sebastiao do paraiba,1,571.16,0.0
+city,Southeast,MG,santa maria de itabira,4,570.49,0.0
+city,Northeast,PI,esperantina,4,569.46,0.0
+city,South,PR,areia branca dos assis,3,569.43,0.0
+city,Northeast,PB,soledade,3,568.75,0.0
+city,Southeast,SP,areias,3,568.63,0.0
+city,South,SC,corupa,4,568.43,0.0
+city,Central-West,GO,alexania,5,568.25,0.0
+city,Southeast,MG,congonhal,4,568.19,0.0
+city,Southeast,MG,lajinha,3,567.69,0.0
+city,Central-West,MT,denise,2,566.63,0.0
+city,Northeast,PE,barra de guabiraba,2,565.8,0.0
+city,Southeast,MG,inhapim,7,565.35,0.0
+city,South,PR,kalore,2,563.96,0.0
+city,Northeast,BA,milagres,2,563.44,0.0
+city,South,PR,lobato,3,562.77,0.0
+city,South,PR,barbosa ferraz,3,562.57,0.0
+city,Central-West,GO,edeia,4,560.91,0.0
+city,Northeast,BA,ibicarai,5,559.6,0.0
+city,Northeast,CE,penaforte,2,559.03,0.0
+city,Southeast,MG,presidente olegario,6,557.41,0.0
+city,South,PR,altonia,3,557.18,0.0
+city,Northeast,MA,tutoia,2,556.87,0.0
+city,Southeast,SP,severinia,5,556.45,0.0
+city,South,PR,astorga,7,556.28,0.0
+city,Northeast,RN,jardim do serido,3,555.81,0.0
+city,Northeast,BA,paramirim,5,555.47,0.0
+city,South,PR,araruna,4,555.07,0.0
+city,South,PR,paula freitas,1,553.46,0.0
+city,Southeast,MG,pedrinopolis,3,553.3,0.0
+city,Northeast,MA,pinheiro,4,553.23,0.0
+city,South,RS,entre-ijuis,3,552.52,0.0
+city,Southeast,MG,matipo,4,552.35,0.0
+city,Northeast,CE,baturite,3,551.09,0.0
+city,Northeast,BA,sao sebastiao do passe,5,550.53,0.0
+city,South,RS,jaquirana,1,547.98,0.0
+city,Southeast,MG,sao geraldo,4,547.81,0.0
+city,South,PR,xambre,2,547.74,0.0
+city,North,AC,senador guiomard,2,547.09,0.0
+city,Northeast,SE,poco redondo,1,546.78,0.0
+city,Northeast,CE,boa viagem,3,546.76,0.0
+city,South,PR,sao pedro do ivai,3,546.72,0.0
+city,Southeast,MG,guarara,2,546.57,0.0
+city,Northeast,MA,pio xii,1,546.03,0.0
+city,Northeast,PE,bom jardim,2,545.35,0.0
+city,Northeast,CE,ipu,4,545.2,0.0
+city,Northeast,PB,bananeiras,5,544.74,0.0
+city,Southeast,RJ,sao jose de uba,3,544.52,0.0
+city,Southeast,MG,pedra azul,5,543.8,0.0
+city,Northeast,CE,trairi,2,543.53,0.0
+city,Northeast,PI,eliseu martins,4,543.06,0.0
+city,Northeast,AL,pindoba,2,542.52,0.0
+city,Northeast,BA,curaca,3,542.24,0.0
+city,North,PA,capitao poco,3,540.89,0.0
+city,Southeast,SP,cedral,6,540.35,0.0
+city,South,PR,rio azul,5,538.54,0.0
+city,Northeast,CE,pacuja,1,538.4,0.0
+city,Southeast,MG,sao joao do manteninha,3,537.22,0.0
+city,Southeast,MG,irai de minas,2,536.94,0.0
+city,South,SC,praia grande,4,536.92,0.0
+city,South,PR,rio bonito do iguacu,4,536.22,0.0
+city,Southeast,ES,apiaca,6,534.42,0.0
+city,Southeast,MG,ipiacu,3,534.09,0.0
+city,Northeast,AL,colonia leopoldina,2,531.85,0.0
+city,Northeast,BA,itabela,4,529.97,0.0
+city,Southeast,MG,gameleiras,3,529.94,0.0
+city,Northeast,MA,cidelandia,1,528.8,0.0
+city,Southeast,MG,chapada gaucha,4,528.01,0.0
+city,South,SC,rio fortuna,3,527.47,0.0
+city,Central-West,MT,diamantino,7,527.42,0.0
+city,South,PR,rio branco do sul,6,526.72,0.0
+city,Southeast,ES,dores do rio preto,4,526.33,0.0
+city,Northeast,BA,ipupiara,1,525.85,0.0
+city,Northeast,PE,ipubi,3,525.79,0.0
+city,Northeast,PE,itambe,4,525.5,0.0
+city,Northeast,PB,paulista,1,525.46,0.0
+city,South,PR,ceu azul,7,525.29,0.0
+city,Southeast,SP,terra roxa,3,525.06,0.0
+city,Southeast,MG,sao romao,5,524.06,0.0
+city,South,PR,cruz machado,3,523.23,0.0
+city,Central-West,MS,bela vista,3,522.88,0.0
+city,Northeast,BA,fatima,2,522.28,0.0
+city,Southeast,MG,alto caparao,2,522.08,0.0
+city,Northeast,PE,amaraji,2,521.89,0.0
+city,North,PA,cameta,4,521.85,0.0
+city,South,PR,japura,5,521.54,0.0
+city,Northeast,CE,sao goncalo do amarante,5,520.94,0.0
+city,South,SC,vargeao,1,520.65,0.0
+city,Northeast,BA,pintadas,2,520.5,0.0
+city,Central-West,MT,dom aquino,3,520.36,0.0
+city,Southeast,ES,itaipava,4,520.02,0.0
+city,Northeast,BA,jiquirica,1,519.93,0.0
+city,Southeast,SP,torrinha,6,519.42,0.0
+city,South,PR,cambira,2,519.35,0.0
+city,Northeast,PB,solanea,1,519.29,0.0
+city,Southeast,MG,cabo verde,3,519.17,0.0
+city,Northeast,CE,caririacu,2,519.14,0.0
+city,South,RS,palmares do sul,5,518.4,0.0
+city,Southeast,MG,santa maria do suacui,2,517.75,0.0
+city,Southeast,SP,pedra bela,3,517.33,0.0
+city,Southeast,MG,cristalia,3,517.31,0.0
+city,North,PA,nova ipixuna,1,517.03,0.0
+city,Southeast,MG,maravilhas,4,516.36,0.0
+city,Southeast,SP,ribeirao branco,2,515.49,0.0
+city,South,PR,diamante do norte,5,515.27,0.0
+city,North,PA,dom eliseu,5,515.08,0.0
+city,South,RS,montauri,2,514.42,0.0
+city,Southeast,SP,itapirapua paulista,2,514.07,0.0
+city,Northeast,RN,portalegre,2,513.01,0.0
+city,Northeast,PE,brejo da madre de deus,4,512.73,0.0
+city,Central-West,GO,nova aurora,1,512.62,0.0
+city,Central-West,GO,bonfinopolis,2,512.6,0.0
+city,South,PR,capitao leonidas marques,5,512.09,0.0
+city,Southeast,SP,guaraci,2,511.57,0.0
+city,Northeast,BA,iraquara,5,510.63,0.0
+city,Central-West,GO,sanclerlandia,4,510.34,0.0
+city,Central-West,MT,guaranta do norte,5,509.29,0.0
+city,Southeast,MG,itueta,2,508.94,0.0
+city,Southeast,SP,dobrada,2,508.9,0.0
+city,Northeast,RN,santo antonio,1,507.98,0.0
+city,Southeast,MG,perdigao,7,507.58,0.0
+city,Northeast,BA,gandu,4,507.45,0.0
+city,Southeast,MG,minas novas,4,507.14,0.0
+city,South,RS,sao jose do ouro,5,507.09,0.0
+city,North,PA,bom jesus do tocantins,3,506.46,0.0
+city,Northeast,BA,nazare,3,504.82,0.0
+city,North,RO,seringueiras,2,504.64,0.0
+city,Southeast,MG,palma,4,504.05,0.0
+city,Southeast,MG,cachoeira de pajeu,3,504.03,0.0
+city,Southeast,ES,mantenopolis,4,503.02,0.0
+city,Central-West,MT,juara,5,502.95,0.0
+city,Southeast,MG,limeira do oeste,2,502.43,0.0
+city,Southeast,SP,quadra,3,501.88,0.0
+city,Northeast,MA,carolina,2,500.69,0.0
+city,South,SC,dionisio cerqueira,3,500.54,0.0
+city,Northeast,BA,iacu,4,499.85,0.0
+city,Central-West,MT,terra nova do norte,3,499.35,0.0
+city,Southeast,MG,campos altos,5,498.61,0.0
+city,South,PR,general carneiro,5,498.52,0.0
+city,Southeast,SP,ibirarema,5,498.19,0.0
+city,Southeast,MG,iapu,4,497.93,0.0
+city,Southeast,ES,itaoca,2,497.2,0.0
+city,South,SC,salto veloso,4,497.07,0.0
+city,Southeast,MG,sao joao da ponte,1,496.76,0.0
+city,South,PR,nova santa rosa,4,496.62,0.0
+city,Northeast,CE,altaneira,2,496.26,0.0
+city,Southeast,SP,magda,2,496.07,0.0
+city,Central-West,MS,bodoquena,2,495.53,0.0
+city,Central-West,GO,itapirapua,2,495.34,0.0
+city,South,RS,santo antonio das missoes,4,495.32,0.0
+city,South,PR,reboucas,6,493.38,0.0
+city,Northeast,BA,baianopolis,2,493.28,0.0
+city,Northeast,RN,apodi,3,492.07,0.0
+city,Central-West,MT,peixoto de azevedo,4,491.56,0.0
+city,Southeast,ES,arace,4,491.18,0.0
+city,Northeast,MA,barreirinhas,4,490.73,0.0
+city,Northeast,PB,rio tinto,2,490.25,0.0
+city,Southeast,SP,roseira,5,490.14,0.0
+city,South,SC,sao martinho,2,489.99,0.0
+city,Central-West,GO,pontalina,2,488.72,0.0
+city,Northeast,PE,santa maria da boa vista,2,488.57,0.0
+city,South,PR,vera cruz do oeste,3,488.34,0.0
+city,Northeast,BA,remanso,5,487.99,0.0
+city,Southeast,MG,bom repouso,4,487.95,0.0
+city,Northeast,PE,caraiba,2,487.15,0.0
+city,Southeast,SP,tabatinga,5,487.11,0.0
+city,Northeast,CE,sucesso,3,485.92,0.0
+city,Southeast,SP,pedrinhas paulista,4,485.48,0.0
+city,Southeast,MG,dom silverio,4,484.12,0.0
+city,Northeast,PI,bertolinia,1,483.87,0.0
+city,South,SC,ponte serrada,3,483.78,0.0
+city,Northeast,PE,serrita,2,483.72,0.0
+city,South,SC,balneario barra do sul,4,482.62,0.0
+city,Southeast,SP,brauna,5,482.35,0.0
+city,Southeast,MG,rodeiro,3,482.21,0.0
+city,Southeast,SP,elias fausto,5,481.48,0.0
+city,Northeast,BA,rio real,3,480.6,0.0
+city,Southeast,MG,tumiritinga,1,480.31,0.0
+city,Southeast,RJ,glicerio,2,480.25,0.0
+city,Northeast,PE,sertania,4,479.92,0.0
+city,Southeast,SP,joao ramalho,3,479.57,0.0
+city,South,SC,massaranduba,3,479.34,0.0
+city,Southeast,MG,tombos,5,479.11,0.0
+city,Northeast,BA,itambe,3,478.76,0.0
+city,Northeast,CE,aquiraz,2,478.65,0.0
+city,South,PR,santa isabel do ivai,3,478.6,0.0
+city,Northeast,BA,jucurucu,2,478.31,0.0
+city,Northeast,BA,ituacu,3,478.07,0.0
+city,Southeast,MG,mendes pimentel,5,477.73,0.0
+city,Northeast,CE,forquilha,4,477.45,0.0
+city,Southeast,MG,munhoz,4,477.12,0.0
+city,Southeast,MG,santo antonio do amparo,4,477.03,0.0
+city,Central-West,MS,nova alvorada do sul,3,476.88,0.0
+city,Southeast,ES,pedro canario,5,476.55,0.0
+city,Northeast,PE,sao joao,1,476.52,0.0
+city,Southeast,SP,santa cruz da conceicao,4,476.27,0.0
+city,North,TO,sitio novo do tocantins,2,476.27,0.0
+city,Southeast,MG,jacui,4,475.87,0.0
+city,Northeast,AL,paulo jacinto,2,475.58,0.0
+city,Central-West,MS,ladario,5,475.57,0.0
+city,Southeast,SP,panorama,5,474.64,0.0
+city,Southeast,SP,silveiras,3,474.25,0.0
+city,Southeast,MG,martinho campos,2,473.7,0.0
+city,Southeast,ES,muniz freire,3,473.61,0.0
+city,Northeast,CE,jardim,2,473.44,0.0
+city,Northeast,RN,sao miguel do gostoso,2,473.04,0.0
+city,Southeast,SP,clementina,4,472.98,0.0
+city,Northeast,BA,candido sales,3,472.52,0.0
+city,Northeast,PB,barra de santa rosa,2,472.32,0.0
+city,North,RO,nova brasilandia doeste,2,472.14,0.0
+city,Central-West,MS,bataypora,3,472.12,0.0
+city,Central-West,GO,joviania,5,472.11,0.0
+city,Northeast,PB,imaculada,3,471.91,0.0
+city,South,RS,nova bassano,4,471.77,0.0
+city,South,SC,nova veneza,3,470.9,0.0
+city,Southeast,MG,juruaia,6,470.59,0.0
+city,Southeast,SP,riolandia,3,470.31,0.0
+city,Northeast,RN,almino afonso,1,470.01,0.0
+city,South,RS,tupancireta,4,469.51,0.0
+city,Northeast,SE,pinhao,1,469.47,0.0
+city,Northeast,AL,mata grande,2,469.35,0.0
+city,Southeast,MG,luminarias,3,468.68,0.0
+city,Southeast,MG,piedade do rio grande,3,466.9,0.0
+city,Northeast,BA,caravelas,3,466.78,0.0
+city,South,RS,nova palma,2,466.62,0.0
+city,Southeast,MG,bandeira do sul,2,466.3,0.0
+city,South,PR,centenario do sul,4,465.35,0.0
+city,South,RS,boa vista do cadeado,1,464.98,0.0
+city,Northeast,MA,alcantara,1,464.86,0.0
+city,Northeast,BA,rodelas,3,464.75,0.0
+city,Northeast,AL,junqueiro,2,464.41,0.0
+city,South,PR,guaraniacu,5,463.62,0.0
+city,Southeast,ES,agua doce do norte,4,463.52,0.0
+city,Southeast,MG,monte verde,3,463.45,0.0
+city,South,SC,governador celso ramos,3,463.36,0.0
+city,Northeast,AL,anadia,2,462.6,0.0
+city,Northeast,CE,arneiroz,2,462.53,0.0
+city,South,RS,vila flores,3,462.5,0.0
+city,Northeast,PE,passira,1,461.72,0.0
+city,Southeast,SP,palmeira doeste,6,461.33,0.0
+city,Southeast,MG,jesuania,5,461.09,0.0
+city,Northeast,MA,capinzal do norte,2,460.6,0.0
+city,Northeast,PB,santa luzia,5,460.49,0.0
+city,South,SC,ibiam,4,460.34,0.0
+city,Southeast,MG,itau de minas,5,460.03,0.0
+city,Northeast,BA,lagoa real,1,459.92,0.0
+city,Southeast,ES,itapemirim,4,459.34,0.0
+city,South,RS,sao paulo das missoes,2,459.26,0.0
+city,South,SC,mondai,2,458.31,0.0
+city,South,RS,arroio grande,3,457.84,0.0
+city,Southeast,SP,colombia,5,457.24,0.0
+city,Northeast,PE,nossa senhora do o,2,457.19,0.0
+city,Southeast,ES,sooretama,5,456.35,0.0
+city,South,PR,carambei,3,456.25,0.0
+city,Southeast,SP,arandu,4,455.65,0.0
+city,South,SC,lontras,3,455.59,0.0
+city,Northeast,PB,pitimbu,1,455.11,0.0
+city,Northeast,RN,goianinha,3,454.71,0.0
+city,North,TO,taguatinga,3,454.45,0.0
+city,Southeast,SP,santa lucia,3,454.26,0.0
+city,Northeast,CE,ipaporanga,2,453.81,0.0
+city,Northeast,CE,milagres,2,452.89,0.0
+city,South,PR,japira,3,451.94,0.0
+city,South,PR,alto parana,2,451.84,0.0
+city,Southeast,MG,sao pedro da uniao,3,451.64,0.0
+city,South,RS,aurea,2,451.5,0.0
+city,Northeast,BA,carinhanha,2,451.5,0.0
+city,South,SC,balneario arroio do silva,4,450.67,0.0
+city,Northeast,PE,altinho,2,449.82,0.0
+city,Central-West,GO,indiara,4,449.47,0.0
+city,Southeast,MG,sao joao do paraiso,4,449.43,0.0
+city,South,RS,redentora,3,449.34,0.0
+city,South,RS,sao martinho,1,448.32,0.0
+city,Northeast,PE,afranio,2,448.04,0.0
+city,Southeast,SP,sud mennucci,5,448.01,0.0
+city,North,AM,humaita,4,447.71,0.0
+city,Northeast,BA,tanque novo,3,447.39,0.0
+city,South,PR,ribeirao do pinhal,5,447.33,0.0
+city,Southeast,MG,cruzilia,4,447.26,0.0
+city,South,SC,jacinto machado,4,447.17,0.0
+city,North,AC,xapuri,2,445.89,0.0
+city,Southeast,MG,manga,3,445.79,0.0
+city,Southeast,RJ,werneck,2,445.61,0.0
+city,Southeast,MG,iguatama,4,445.56,0.0
+city,Central-West,MT,porto alegre do norte,1,445.32,0.0
+city,Northeast,CE,aurora,3,444.7,0.0
+city,Southeast,RJ,rio claro,3,444.48,0.0
+city,South,SC,balneario rincao,3,444.3,0.0
+city,Southeast,MG,confins,1,444.25,0.0
+city,Southeast,MG,cambuquira,5,444.24,0.0
+city,Northeast,MA,bacuri,3,444.21,0.0
+city,Southeast,MG,serra dos aimores,5,443.08,0.0
+city,Southeast,SP,adolfo,5,441.59,0.0
+city,Central-West,MT,reserva do cabacal,2,440.88,0.0
+city,Central-West,GO,sao simao,4,440.52,0.0
+city,Southeast,MG,piedade dos gerais,3,440.16,0.0
+city,Northeast,PI,pedro ii,2,440.15,0.0
+city,North,PA,augusto correa,3,440.0,0.0
+city,South,PR,candido de abreu,4,439.92,0.0
+city,Northeast,BA,antonio cardoso,2,439.92,0.0
+city,Southeast,RJ,santanesia,4,439.58,0.0
+city,South,PR,planalto,4,439.03,0.0
+city,Northeast,MA,dom pedro,3,438.68,0.0
+city,Northeast,AL,satuba,2,438.32,0.0
+city,Northeast,PE,tuparetama,3,437.69,0.0
+city,South,RS,tucunduva,3,437.36,0.0
+city,Southeast,MG,sao joao batista do gloria,3,436.83,0.0
+city,Southeast,SP,narandiba,2,436.66,0.0
+city,Southeast,ES,sao roque do canaa,5,436.01,0.0
+city,Southeast,SP,quintana,4,435.85,0.0
+city,Southeast,MG,francisco badaro,3,435.81,0.0
+city,North,PA,rio maria,3,435.57,0.0
+city,North,TO,natividade,1,435.27,0.0
+city,Northeast,BA,bonito,2,435.25,0.0
+city,Southeast,MG,itinga,3,434.67,0.0
+city,Northeast,PE,ribeirao,4,434.53,0.0
+city,North,TO,conceicao do tocantins,3,433.97,0.0
+city,South,SC,rio do oeste,3,433.84,0.0
+city,South,PR,moreira sales,3,433.48,0.0
+city,Southeast,MG,rio casca,5,433.47,0.0
+city,Southeast,SP,sales,5,433.12,0.0
+city,South,RS,erval grande,2,432.74,0.0
+city,South,PR,maripa,3,432.73,0.0
+city,South,PR,alto piquiri,1,432.5,0.0
+city,Northeast,PE,inaja,2,432.33,0.0
+city,North,TO,bandeirantes do tocantins,2,432.2,0.0
+city,Northeast,PE,canhotinho,2,430.49,0.0
+city,North,RO,alvorada doeste,1,430.1,0.0
+city,Northeast,BA,amelia rodrigues,3,430.02,0.0
+city,Southeast,RJ,governador portela,4,430.01,0.0
+city,North,TO,xambioa,3,429.76,0.0
+city,Northeast,CE,aratuba,2,429.74,0.0
+city,Northeast,RN,carnaubais,2,429.65,0.0
+city,Southeast,SP,irape,2,429.3,0.0
+city,Southeast,SP,pongai,4,429.05,0.0
+city,Central-West,GO,caiaponia,4,428.97,0.0
+city,South,SC,saudades,4,428.95,0.0
+city,Southeast,MG,santa rita de minas,3,428.77,0.0
+city,Southeast,SP,iacanga,6,427.95,0.0
+city,Northeast,MA,estreito,3,427.65,0.0
+city,Northeast,BA,serrolandia,3,427.35,0.0
+city,Southeast,SP,itapura,6,426.6,0.0
+city,North,AP,laranjal do jari,2,426.18,0.0
+city,South,SC,aurora,2,425.47,0.0
+city,Southeast,SP,tres fronteiras,5,425.25,0.0
+city,North,AP,oiapoque,1,425.24,0.0
+city,Southeast,MG,sao domingos do prata,4,424.99,0.0
+city,Northeast,AL,feliz deserto,2,423.75,0.0
+city,South,PR,florai,2,422.95,0.0
+city,Northeast,MA,paraibano,3,422.91,0.0
+city,South,RS,maximiliano de almeida,3,422.55,0.0
+city,Southeast,MG,montalvania,3,422.43,0.0
+city,Southeast,MG,madre de deus de minas,3,422.11,0.0
+city,Northeast,CE,apuiares,2,421.56,0.0
+city,South,RS,jari,4,421.21,0.0
+city,Northeast,BA,ibitira,1,421.03,0.0
+city,South,PR,santa tereza do oeste,3,420.59,0.0
+city,Central-West,GO,vicentinopolis,2,420.55,0.0
+city,Southeast,SP,taciba,2,419.6,0.0
+city,Northeast,CE,amanari,1,419.39,0.0
+city,Southeast,MG,bandeira,3,419.21,0.0
+city,Northeast,PE,camocim de sao felix,2,419.02,0.0
+city,Central-West,GO,nova veneza,4,419.0,0.0
+city,Southeast,SP,valentim gentil,3,418.87,0.0
+city,Northeast,MA,coelho neto,3,418.6,0.0
+city,Central-West,MT,claudia,4,418.38,0.0
+city,South,RS,mata,1,418.35,0.0
+city,South,RS,capela de santana,2,417.53,0.0
+city,Northeast,MA,governador eugenio barros,1,417.45,0.0
+city,Northeast,BA,caldeirao grande,3,417.25,0.0
+city,Central-West,GO,agua limpa,1,416.8,0.0
+city,Southeast,SP,florida paulista,4,416.53,0.0
+city,Southeast,ES,mucurici,1,415.66,0.0
+city,Southeast,SP,ribeirao do sul,3,415.45,0.0
+city,Southeast,SP,embauba,1,414.81,0.0
+city,South,SC,ascurra,4,414.25,0.0
+city,Southeast,SP,estrela doeste,2,413.78,0.0
+city,Southeast,MG,abadia dos dourados,3,413.5,0.0
+city,Southeast,MG,virgolandia,2,413.44,0.0
+city,Central-West,GO,campos verdes,1,413.04,0.0
+city,Southeast,MG,pingo-d agua,1,413.02,0.0
+city,Northeast,RN,acari,1,412.43,0.0
+city,Southeast,MG,sabinopolis,5,412.4,0.0
+city,Northeast,CE,monsenhor tabosa,3,412.32,0.0
+city,Southeast,MG,conceicao das pedras,4,412.05,0.0
+city,Southeast,MG,chapada do norte,2,411.87,0.0
+city,South,PR,tomazina,3,411.31,0.0
+city,South,RS,sertao,3,410.35,0.0
+city,South,RS,caibate,2,410.32,0.0
+city,Northeast,RN,pendencias,2,410.02,0.0
+city,Southeast,MG,sao felix de minas,1,409.5,0.0
+city,Southeast,SP,jumirim,3,408.24,0.0
+city,Central-West,GO,fazenda nova,4,407.77,0.0
+city,Central-West,GO,palmeiras de goias,3,407.33,0.0
+city,Southeast,MG,pains,3,406.77,0.0
+city,Northeast,BA,serra do ramalho,4,406.72,0.0
+city,North,RO,sao francisco do guapore,2,405.61,0.0
+city,Southeast,SP,pindorama,2,405.52,0.0
+city,South,PR,pien,4,405.37,0.0
+city,South,PR,quitandinha,2,405.09,0.0
+city,Southeast,MG,goncalves,3,405.07,0.0
+city,Northeast,MA,sucupira do norte,2,404.2,0.0
+city,Southeast,SP,indiapora,3,404.14,0.0
+city,North,RO,urupa,3,403.21,0.0
+city,South,RS,sobradinho,3,403.11,0.0
+city,Central-West,GO,ouvidor,1,401.07,0.0
+city,South,RS,capao do cipo,3,400.99,0.0
+city,Southeast,MG,senador cortes,1,400.66,0.0
+city,South,RS,cambara do sul,1,400.64,0.0
+city,Northeast,BA,itatim,3,400.46,0.0
+city,Southeast,MG,piranga,4,400.39,0.0
+city,Southeast,MG,santa margarida,2,400.35,0.0
+city,Southeast,MG,guidoval,2,400.11,0.0
+city,Northeast,PE,cumaru,2,399.98,0.0
+city,Southeast,MG,itacarambi,3,399.58,0.0
+city,Northeast,BA,pocoes,2,399.2,0.0
+city,Southeast,SP,alvaro de carvalho,2,399.0,0.0
+city,Southeast,ES,conceicao da barra,3,398.59,0.0
+city,Northeast,CE,chorozinho,1,398.42,0.0
+city,Central-West,GO,itapaci,4,398.11,0.0
+city,Northeast,AL,porto calvo,2,397.93,0.0
+city,Southeast,MG,sao goncalo do rio preto,3,397.9,0.0
+city,Northeast,BA,ibipitanga,2,396.72,0.0
+city,Central-West,MT,arenapolis,2,396.46,0.0
+city,North,PA,brasil novo,3,396.1,0.0
+city,South,PR,sao jorge do ivai,1,395.96,0.0
+city,South,SC,guaruja do sul,4,395.63,0.0
+city,Southeast,SP,jambeiro,4,395.04,0.0
+city,Northeast,AL,igaci,2,395.0,0.0
+city,Southeast,MG,soledade de minas,5,394.78,0.0
+city,Central-West,MT,juruena,3,394.38,0.0
+city,South,RS,santa clara do sul,2,394.12,0.0
+city,South,PR,angulo,3,394.06,0.0
+city,Northeast,BA,morpara,2,393.73,0.0
+city,Northeast,PI,uniao,1,393.32,0.0
+city,South,PR,tapejara,2,393.24,0.0
+city,Northeast,PB,frei martinho,2,393.21,0.0
+city,Southeast,MG,taquaracu de minas,2,392.66,0.0
+city,North,PA,itaituba,3,392.63,0.0
+city,South,PR,joaquim tavora,3,392.01,0.0
+city,Southeast,SP,timburi,3,390.86,0.0
+city,Southeast,SP,lavinia,4,390.41,0.0
+city,Southeast,ES,iconha,5,390.13,0.0
+city,Northeast,PE,oroco,3,389.46,0.0
+city,Southeast,SP,indiana,3,389.33,0.0
+city,Central-West,MS,itaquirai,2,388.72,0.0
+city,Southeast,SP,macedonia,4,388.43,0.0
+city,Southeast,MG,serra azul de minas,2,388.01,0.0
+city,Northeast,BA,itiuba,4,387.5,0.0
+city,Central-West,MT,campinapolis,3,387.09,0.0
+city,Northeast,MA,bequimao,1,386.15,0.0
+city,Southeast,MG,itapeva,5,386.1,0.0
+city,South,PR,tibagi,4,386.07,0.0
+city,South,SC,anita garibaldi,5,385.93,0.0
+city,Northeast,PE,camutanga,3,385.34,0.0
+city,South,PR,santa monica,2,384.83,0.0
+city,Southeast,MG,prudente de morais,3,384.76,0.0
+city,Southeast,MG,campestre,3,384.32,0.0
+city,South,PR,jundiai do sul,3,384.01,0.0
+city,Northeast,BA,barra do mendes,3,383.28,0.0
+city,Northeast,PB,belem,1,383.03,0.0
+city,Southeast,MG,tabuleiro,2,382.78,0.0
+city,Southeast,MG,sao tomas de aquino,3,382.56,0.0
+city,Southeast,MG,florestal,3,382.47,0.0
+city,Southeast,SP,tejupa,3,382.4,0.0
+city,Southeast,MG,serrania,2,382.17,0.0
+city,Southeast,RJ,tocos,2,381.47,0.0
+city,Central-West,MT,nova lacerda,1,380.75,0.0
+city,South,SC,tres barras,5,380.56,0.0
+city,Southeast,SP,barra do turvo,3,380.5,0.0
+city,Southeast,MG,volta grande,4,379.96,0.0
+city,Northeast,CE,pereiro,3,379.74,0.0
+city,Northeast,AL,paripueira,1,379.2,0.0
+city,Northeast,AL,marechal deodoro,1,379.2,0.0
+city,Southeast,SP,moncoes,2,379.13,0.0
+city,Southeast,SP,sao jose da bela vista,3,379.07,0.0
+city,South,SC,urubici,3,378.58,0.0
+city,South,PR,santa terezinha de itaipu,3,378.11,0.0
+city,South,SC,ipumirim,5,377.52,0.0
+city,Northeast,AL,canapi,1,377.32,0.0
+city,Northeast,BA,ponto novo,1,377.0,0.0
+city,Southeast,RJ,monnerat,2,376.86,0.0
+city,Northeast,RN,sao vicente,2,376.41,0.0
+city,Southeast,MG,inimutaba,2,376.39,0.0
+city,Southeast,MG,itanhomi,4,375.53,0.0
+city,Southeast,MG,coroaci,2,374.99,0.0
+city,Southeast,MG,belo vale,3,374.48,0.0
+city,South,SC,tangara,1,373.82,0.0
+city,Northeast,PE,lagoa do ouro,2,373.35,0.0
+city,South,PR,santa mariana,4,373.35,0.0
+city,South,RS,sao jose do hortencio,2,373.23,0.0
+city,North,PA,moju,4,372.88,0.0
+city,South,SC,monte carlo,3,372.87,0.0
+city,Southeast,ES,vargem alta,5,372.35,0.0
+city,Southeast,SP,nipoa,2,372.35,0.0
+city,South,SC,irani,4,372.32,0.0
+city,South,RS,hulha negra,1,372.06,0.0
+city,Northeast,PE,ibimirim,3,372.03,0.0
+city,Northeast,PE,itapetim,2,371.99,0.0
+city,South,PR,reserva,3,371.55,0.0
+city,Southeast,SP,bento de abreu,2,371.48,0.0
+city,South,SC,sideropolis,4,371.11,0.0
+city,Northeast,MA,olho dagua das cunhas,2,370.97,0.0
+city,Northeast,PE,itapissuma,3,370.86,0.0
+city,Southeast,MG,carmo da cachoeira,4,370.64,0.0
+city,North,TO,pedro afonso,3,368.9,0.0
+city,South,RS,nova esperanca do sul,2,368.64,0.0
+city,Southeast,SP,iepe,5,368.51,0.0
+city,South,SC,ita,3,368.03,0.0
+city,Southeast,MG,papagaios,4,367.66,0.0
+city,Northeast,PB,coremas,3,367.59,0.0
+city,South,RS,boa vista das missoes,1,367.56,0.0
+city,Northeast,BA,sao francisco do conde,3,367.33,0.0
+city,Southeast,MG,abre campo,5,367.29,0.0
+city,Southeast,SP,glicerio,2,366.88,0.0
+city,Southeast,MG,vargem grande do rio pardo,1,365.98,0.0
+city,Southeast,MG,maria da fe,3,365.65,0.0
+city,Southeast,MG,aiuruoca,4,365.03,0.0
+city,Northeast,BA,pilao arcado,4,364.68,0.0
+city,South,PR,curiuva,4,364.52,0.0
+city,Southeast,MG,cassia,6,364.41,0.0
+city,Northeast,PB,sume,3,364.39,0.0
+city,Northeast,CE,jucas,1,363.96,0.0
+city,Northeast,BA,cordeiros,1,363.64,0.0
+city,Central-West,MT,novo sao joaquim,3,362.64,0.0
+city,Northeast,PE,santa cruz,2,362.46,0.0
+city,Northeast,RN,montanhas,1,361.07,0.0
+city,South,RS,tupandi,3,361.04,0.0
+city,Northeast,BA,humildes,1,360.81,0.0
+city,Southeast,MG,ubaporanga,3,360.71,0.0
+city,Northeast,BA,monte gordo,2,360.43,0.0
+city,South,RS,palmitinho,5,359.99,0.0
+city,Northeast,BA,barra do tarrachil,3,359.94,0.0
+city,Northeast,BA,ibicoara,3,359.84,0.0
+city,Northeast,SE,caninde de sao francisco,2,359.83,0.0
+city,South,PR,ivate,3,358.34,0.0
+city,Northeast,BA,araci,3,358.24,0.0
+city,Southeast,MG,porteirinha,5,358.05,0.0
+city,Central-West,MT,ribeiraozinho,2,358.01,0.0
+city,North,PA,bonito,2,357.6,0.0
+city,South,SC,anchieta,3,357.53,0.0
+city,South,RS,imigrante,3,357.35,0.0
+city,Northeast,PI,buriti dos lopes,2,356.82,0.0
+city,Northeast,BA,vereda,2,356.65,0.0
+city,South,RS,gaurama,3,356.61,0.0
+city,Northeast,PI,gilbues,1,356.51,0.0
+city,South,PR,santa izabel do oeste,2,356.35,0.0
+city,Northeast,CE,cedro,1,356.11,0.0
+city,Southeast,SP,ouro verde,3,356.04,0.0
+city,Central-West,GO,pirenopolis,4,355.74,0.0
+city,North,PA,curralinho,1,355.29,0.0
+city,Southeast,SP,pardinho,1,355.06,0.0
+city,Southeast,MG,dona euzebia,2,354.94,0.0
+city,North,TO,cariri do tocantins,2,354.26,0.0
+city,North,TO,formoso do araguaia,4,354.12,0.0
+city,Southeast,SP,arapei,2,353.71,0.0
+city,Southeast,MG,santana da vargem,4,353.6,0.0
+city,Southeast,MG,verissimo,3,353.01,0.0
+city,Northeast,MA,centro novo do maranhao,1,352.81,0.0
+city,North,PA,vigia,3,352.65,0.0
+city,Southeast,MG,ribeirao vermelho,2,352.53,0.0
+city,South,PR,renascenca,4,352.23,0.0
+city,Northeast,PB,pocinhos,3,351.92,0.0
+city,Northeast,BA,santa ines,3,351.77,0.0
+city,Northeast,AL,sao luis do quitunde,2,351.55,0.0
+city,Northeast,AL,jequia da praia,2,351.24,0.0
+city,Central-West,MT,sao jose do rio claro,2,351.05,0.0
+city,Northeast,RN,ceara-mirim,2,351.02,0.0
+city,South,SC,atalanta,1,351.0,0.0
+city,Northeast,PE,joaquim nabuco,4,350.45,0.0
+city,Northeast,PI,jose de freitas,3,350.42,0.0
+city,Northeast,PB,itaporanga,2,349.92,0.0
+city,Northeast,PE,pedra,3,349.79,0.0
+city,South,PR,mariluz,2,349.65,0.0
+city,Northeast,MA,porto franco,2,349.14,0.0
+city,South,RS,pantano grande,3,348.93,0.0
+city,South,RS,constantina,1,348.77,0.0
+city,Southeast,MG,cabeceira grande,3,348.75,0.0
+city,Southeast,SP,cruzalia,3,348.25,0.0
+city,Northeast,PI,piracuruca,2,347.44,0.0
+city,Southeast,SP,santo antonio do jardim,5,347.13,0.0
+city,Northeast,BA,botupora,1,346.51,0.0
+city,Central-West,GO,americano do brasil,3,346.29,0.0
+city,South,SC,campo alegre,3,346.29,0.0
+city,Northeast,AL,olho dagua das flores,3,346.07,0.0
+city,Northeast,CE,maranguape,3,345.53,0.0
+city,Southeast,MG,vieiras,1,345.15,0.0
+city,Southeast,MG,carneirinho,3,345.03,0.0
+city,South,SC,nova itaberaba,2,344.77,0.0
+city,Southeast,SP,inubia paulista,3,344.7,0.0
+city,Northeast,PB,princesa isabel,1,344.62,0.0
+city,Southeast,MG,coluna,3,344.56,0.0
+city,South,SC,rancho queimado,2,343.99,0.0
+city,Northeast,BA,pedrao,1,343.71,0.0
+city,South,SC,tunapolis,1,343.68,0.0
+city,South,PR,sao joao do triunfo,3,343.4,0.0
+city,Central-West,MS,miranda,4,343.16,0.0
+city,North,PA,benevides,2,343.03,0.0
+city,Northeast,PB,mari,3,342.8,0.0
+city,Central-West,GO,rialma,3,342.48,0.0
+city,Southeast,MG,itapagipe,5,341.5,0.0
+city,South,PR,quatigua,5,341.35,0.0
+city,Northeast,MA,campestre do maranhao,2,340.95,0.0
+city,South,SC,nossa senhora de caravaggio,2,340.34,0.0
+city,Central-West,GO,mundo novo,2,340.15,0.0
+city,South,RS,dona francisca,2,340.15,0.0
+city,Central-West,MT,alto garcas,2,340.06,0.0
+city,North,PA,viseu,1,340.02,0.0
+city,Southeast,SP,oscar bressane,3,339.93,0.0
+city,Southeast,SP,arealva,4,339.88,0.0
+city,Northeast,PB,alagoinha,2,339.52,0.0
+city,South,PR,congonhinhas,2,338.86,0.0
+city,North,RO,candeias do jamari,1,338.74,0.0
+city,Northeast,BA,santa teresinha,2,338.1,0.0
+city,South,RS,planalto,3,337.81,0.0
+city,Central-West,MS,rio negro,1,336.89,0.0
+city,Northeast,MA,sao pedro da agua branca,1,336.56,0.0
+city,Southeast,MG,igaratinga,1,336.38,0.0
+city,Central-West,MT,vera,3,336.24,0.0
+city,South,SC,agua doce,1,336.05,0.0
+city,North,RO,buritis,2,335.58,0.0
+city,Central-West,MT,vila rica,3,335.36,0.0
+city,Central-West,MS,jardim,3,334.97,0.0
+city,North,RO,colorado do oeste,3,334.64,0.0
+city,Central-West,GO,maurilandia,4,334.51,0.0
+city,South,PR,urai,3,334.39,0.0
+city,Southeast,MG,antonio prado de minas,3,334.21,0.0
+city,Southeast,MG,recreio,3,334.19,0.0
+city,Northeast,BA,santaluz,3,333.97,0.0
+city,Southeast,MG,divinesia,1,333.51,0.0
+city,Northeast,SE,tomar do geru,2,333.47,0.0
+city,South,SC,sao jose do cerrito,3,333.34,0.0
+city,Northeast,BA,wanderley,2,333.11,0.0
+city,Southeast,MG,sao sebastiao do rio verde,1,332.58,0.0
+city,Southeast,ES,rio bananal,4,332.32,0.0
+city,Northeast,CE,abaiara,2,332.15,0.0
+city,Northeast,CE,potengi,2,331.95,0.0
+city,South,RS,nova alvorada,3,331.88,0.0
+city,South,PR,inacio martins,5,331.28,0.0
+city,South,SC,maracaja,2,331.25,0.0
+city,Southeast,MG,riacho dos machados,3,331.25,0.0
+city,Central-West,MT,nova monte verde,3,330.93,0.0
+city,Northeast,BA,ibiraja,2,330.14,0.0
+city,South,SC,balneario gaivota,3,329.12,0.0
+city,South,SC,major vieira,3,329.03,0.0
+city,Southeast,SP,bernardino de campos,4,328.87,0.0
+city,South,RS,arvorezinha,4,328.79,0.0
+city,Southeast,MG,setubinha,3,328.77,0.0
+city,South,PR,indianopolis,4,328.55,0.0
+city,South,PR,saudade do iguacu,4,328.37,0.0
+city,North,PA,americano,1,328.35,0.0
+city,Northeast,RN,serra de sao bento,2,328.15,0.0
+city,Southeast,SP,vista alegre do alto,3,327.67,0.0
+city,Southeast,ES,alto rio novo,2,327.23,0.0
+city,South,PR,nova fatima,4,326.79,0.0
+city,South,PR,itambaraca,2,326.27,0.0
+city,Northeast,BA,presidente tancredo neves,4,325.58,0.0
+city,Northeast,PE,vicencia,2,325.48,0.0
+city,Northeast,BA,nova soure,3,325.43,0.0
+city,Northeast,BA,itamari,3,324.99,0.0
+city,South,RS,restinga seca,3,324.33,0.0
+city,Northeast,MA,magalhaes de almeida,1,323.52,0.0
+city,Northeast,CE,araripe,2,323.37,0.0
+city,Northeast,PE,mirandiba,3,323.16,0.0
+city,Southeast,SP,rechan,2,322.37,0.0
+city,Northeast,BA,bom jesus da serra,2,322.29,0.0
+city,Southeast,SP,motuca,3,322.25,0.0
+city,Northeast,PB,ibiara,1,321.98,0.0
+city,South,SC,chapadao do lageado,1,321.9,0.0
+city,Northeast,CE,novo oriente,3,321.4,0.0
+city,Southeast,ES,jeronimo monteiro,2,321.11,0.0
+city,South,RS,ibiaca,2,320.87,0.0
+city,Southeast,SP,ocaucu,5,320.77,0.0
+city,Northeast,AL,piacabucu,2,320.4,0.0
+city,Northeast,RN,sao paulo do potengi,2,319.78,0.0
+city,North,TO,novo alegre,1,319.09,0.0
+city,South,RS,arroio do tigre,2,319.0,0.0
+city,South,SC,aguas frias,1,318.98,0.0
+city,South,PR,porto rico,1,318.92,0.0
+city,South,PR,rondon,2,318.86,0.0
+city,North,PA,placas,2,318.58,0.0
+city,Northeast,PE,pocao,1,318.53,0.0
+city,Northeast,PB,junco do serido,2,318.42,0.0
+city,Southeast,MG,sao joao do oriente,2,318.11,0.0
+city,Southeast,MG,delfinopolis,3,318.02,0.0
+city,Southeast,SP,canitar,2,317.92,0.0
+city,Southeast,MG,medeiros,2,317.7,0.0
+city,Northeast,PE,flores,1,317.51,0.0
+city,Northeast,MA,candido mendes,1,316.58,0.0
+city,Northeast,MA,cajari,1,316.3,0.0
+city,Southeast,MG,laranjal,1,316.3,0.0
+city,South,SC,sangao,3,316.25,0.0
+city,South,PR,janiopolis,3,316.22,0.0
+city,Northeast,BA,pau brasil,1,315.92,0.0
+city,Northeast,AL,igreja nova,2,315.91,0.0
+city,Northeast,PB,agua branca,2,315.59,0.0
+city,Northeast,SE,umbauba,3,315.39,0.0
+city,Southeast,MG,luisburgo,2,314.57,0.0
+city,Southeast,MG,cantagalo,2,314.4,0.0
+city,Northeast,MA,sao vicente ferrer,1,314.37,0.0
+city,Southeast,MG,dom vicoso,2,313.8,0.0
+city,Northeast,MA,santa luzia,2,313.52,0.0
+city,South,PR,perola,2,313.31,0.0
+city,Southeast,MG,campanario,2,313.29,0.0
+city,Southeast,MG,icarai de minas,2,313.03,0.0
+city,Northeast,RN,areia branca,3,312.99,0.0
+city,South,SC,sao pedro de alcantara,2,312.91,0.0
+city,Southeast,MG,divinolandia de minas,5,312.82,0.0
+city,South,PR,borrazopolis,2,312.23,0.0
+city,Central-West,MT,sao jose dos quatro marcos,2,312.23,0.0
+city,Central-West,GO,doverlandia,2,311.87,0.0
+city,Northeast,PE,buenos aires,2,311.83,0.0
+city,Northeast,MA,mirinzal,3,311.65,0.0
+city,South,RS,formigueiro,2,311.27,0.0
+city,Southeast,MG,romaria,2,310.46,0.0
+city,South,SC,ouro,1,310.25,0.0
+city,Central-West,MS,paranhos,1,309.99,0.0
+city,South,PR,cafeara,2,309.82,0.0
+city,Northeast,BA,quixabeira,3,309.42,0.0
+city,Northeast,AL,uniao dos palmares,1,309.25,0.0
+city,Southeast,MG,campo do meio,4,309.08,0.0
+city,Southeast,MG,carvalhopolis,3,308.84,0.0
+city,Central-West,MS,ivinhema,3,308.82,0.0
+city,Northeast,CE,iracema,2,308.77,0.0
+city,Southeast,MG,alterosa,3,308.64,0.0
+city,Southeast,MG,bonfim,4,308.55,0.0
+city,Northeast,AL,batalha,3,308.1,0.0
+city,South,PR,diamante doeste,1,307.69,0.0
+city,Southeast,MG,pirauba,3,307.69,0.0
+city,Northeast,BA,lencois,1,307.68,0.0
+city,Northeast,RN,sao jose do campestre,1,307.46,0.0
+city,South,PR,altamira do parana,2,307.11,0.0
+city,Northeast,CE,ipaumirim,1,307.11,0.0
+city,South,SC,nova erechim,3,306.78,0.0
+city,Northeast,BA,coracao de maria,1,306.06,0.0
+city,Northeast,SE,pirambu,1,305.77,0.0
+city,South,PR,serranopolis do iguacu,2,305.73,0.0
+city,North,PA,sao joao de pirabas,2,305.33,0.0
+city,Northeast,PE,cortes,2,305.32,0.0
+city,Southeast,MG,araponga,2,305.13,0.0
+city,Southeast,SP,aguas de sao pedro,2,304.03,0.0
+city,Southeast,MG,santa helena de minas,2,303.63,0.0
+city,Northeast,BA,sapeacu,2,303.47,0.0
+city,Southeast,MG,monte alegre de minas,4,302.91,0.0
+city,Northeast,RN,patu,3,302.87,0.0
+city,Southeast,MG,pouso alto,3,302.81,0.0
+city,South,SC,jabora,2,302.79,0.0
+city,South,SC,riqueza,3,302.68,0.0
+city,South,PR,santo antonio do caiua,1,302.55,0.0
+city,Southeast,SP,sete barras,4,302.52,0.0
+city,Northeast,MA,presidente juscelino,1,302.46,0.0
+city,Southeast,MG,goiabeira,2,302.27,0.0
+city,South,RS,salto do jacui,4,301.94,0.0
+city,Northeast,BA,rio do antonio,2,301.75,0.0
+city,South,RS,condor,4,301.47,0.0
+city,Northeast,MA,bom jesus das selvas,2,301.42,0.0
+city,Central-West,GO,leopoldo de bulhoes,1,300.76,0.0
+city,North,PA,porto trombetas,2,300.29,0.0
+city,South,RS,boqueirao do leao,2,300.14,0.0
+city,Northeast,PE,joao alfredo,3,300.07,0.0
+city,Northeast,PE,sao jose do belmonte,2,299.84,0.0
+city,Northeast,CE,pentecoste,2,299.21,0.0
+city,Northeast,AL,boca da mata,2,298.03,0.0
+city,Northeast,AL,maravilha,2,297.54,0.0
+city,Northeast,PE,triunfo,2,296.53,0.0
+city,Southeast,MG,santana dos montes,2,296.46,0.0
+city,Northeast,AL,sao jose da laje,2,296.36,0.0
+city,Northeast,PB,livramento,1,295.99,0.0
+city,Northeast,CE,uruoca,2,295.57,0.0
+city,Northeast,PE,santa terezinha,1,295.52,0.0
+city,Southeast,SP,rosana,4,295.31,0.0
+city,Northeast,CE,catarina,3,295.29,0.0
+city,Northeast,PE,moreilandia,2,295.12,0.0
+city,South,PR,itaipulandia,6,294.6,0.0
+city,Northeast,RN,japi,1,294.19,0.0
+city,Northeast,BA,crisopolis,4,293.57,0.0
+city,Northeast,BA,angical,1,293.5,0.0
+city,Southeast,SP,santo expedito,1,293.46,0.0
+city,Southeast,SP,americo de campos,1,293.36,0.0
+city,Central-West,GO,paranaiguara,3,293.35,0.0
+city,Northeast,BA,palmeiras,2,292.3,0.0
+city,South,PR,itambe,1,292.28,0.0
+city,Southeast,SP,campina do monte alegre,2,291.99,0.0
+city,Northeast,PI,barras,3,291.68,0.0
+city,Southeast,RJ,anta,3,291.53,0.0
+city,Northeast,CE,miraima,2,291.3,0.0
+city,Southeast,RJ,engenheiro passos,2,291.24,0.0
+city,South,RS,tuparendi,2,291.12,0.0
+city,Northeast,BA,rio de contas,3,290.72,0.0
+city,South,RS,parai,3,290.6,0.0
+city,Northeast,PE,sao jose da coroa grande,2,289.79,0.0
+city,Southeast,MG,rubim,3,289.48,0.0
+city,Southeast,MG,santo antonio do itambe,3,289.47,0.0
+city,South,SC,armazem,2,289.35,0.0
+city,Northeast,CE,ibiapina,3,289.34,0.0
+city,Northeast,SE,itabaianinha,2,289.33,0.0
+city,Southeast,SP,mendonca,4,289.08,0.0
+city,Northeast,RN,barauna,1,288.37,0.0
+city,Northeast,CE,milha,2,288.3,0.0
+city,Southeast,SP,ipigua,2,287.66,0.0
+city,Southeast,ES,irupi,2,287.63,0.0
+city,Southeast,SP,manduri,3,287.21,0.0
+city,Northeast,MA,chapadinha,3,287.06,0.0
+city,Northeast,BA,buritirama,2,286.11,0.0
+city,Central-West,MT,tabapora,2,286.07,0.0
+city,Southeast,MG,merces,4,285.82,0.0
+city,Northeast,BA,mucuge,1,285.74,0.0
+city,Southeast,MG,caiana,3,285.61,0.0
+city,Northeast,AL,santana do ipanema,1,285.45,0.0
+city,Southeast,RJ,sao jose do turvo,3,285.36,0.0
+city,Northeast,PB,uirauna,1,285.36,0.0
+city,Central-West,GO,alto horizonte,2,285.15,0.0
+city,South,PR,guamiranga,1,284.89,0.0
+city,Northeast,BA,olindina,3,284.41,0.0
+city,Southeast,SP,gastao vidigal,3,283.72,0.0
+city,South,RS,glorinha,2,283.3,0.0
+city,Southeast,MG,vargem alegre,2,283.15,0.0
+city,South,RS,acegua,2,282.39,0.0
+city,Southeast,ES,presidente kennedy,2,282.31,0.0
+city,South,RS,monte alverne,1,282.01,0.0
+city,South,SC,agronomica,2,281.5,0.0
+city,Southeast,MG,santana do manhuacu,3,281.44,0.0
+city,Northeast,PE,sao vicente ferrer,2,281.39,0.0
+city,Southeast,MG,cocais,1,281.3,0.0
+city,Southeast,MG,novo oriente de minas,1,281.0,0.0
+city,Southeast,SP,sarapui,2,280.89,0.0
+city,South,RS,minas do leao,1,280.72,0.0
+city,Southeast,MG,carmesia,1,280.63,0.0
+city,Southeast,SP,santa ernestina,2,280.13,0.0
+city,Southeast,SP,trabiju,1,279.91,0.0
+city,South,SC,irineopolis,4,279.87,0.0
+city,Southeast,SP,potim,2,279.84,0.0
+city,Southeast,MG,cristiano otoni,2,279.38,0.0
+city,Central-West,MT,feliz natal,1,279.38,0.0
+city,Central-West,MT,porto esperidiao,2,278.83,0.0
+city,Northeast,BA,itanhem,1,278.66,0.0
+city,Southeast,MG,alto rio doce,4,278.55,0.0
+city,Southeast,MG,varzelandia,3,277.9,0.0
+city,Southeast,MG,chaveslandia,2,277.51,0.0
+city,South,PR,salto do itarare,1,276.47,0.0
+city,Southeast,MG,resende costa,3,276.09,0.0
+city,South,RS,ametista do sul,2,275.51,0.0
+city,Northeast,RN,galinhos,1,275.48,0.0
+city,Southeast,MG,ipuiuna,2,275.44,0.0
+city,Southeast,MG,alto jequitiba,3,275.43,0.0
+city,Southeast,MG,santo antonio do grama,2,275.36,0.0
+city,Northeast,SE,nossa senhora da gloria,2,274.72,0.0
+city,Central-West,GO,nazario,2,274.39,0.0
+city,Northeast,RN,tenente ananias,1,273.92,0.0
+city,North,TO,silvanopolis,1,273.88,0.0
+city,South,RS,tavares,1,273.62,0.0
+city,Northeast,PI,luzilandia,3,273.01,0.0
+city,Northeast,PE,quipapa,1,272.99,0.0
+city,Central-West,MT,nova olimpia,2,272.04,0.0
+city,South,SC,paulo lopes,2,271.66,0.0
+city,South,PR,sao tome,2,271.55,0.0
+city,Southeast,MG,pimenta,2,271.26,0.0
+city,Northeast,PB,puxinana,1,271.03,0.0
+city,Northeast,BA,nova vicosa,1,271.01,0.0
+city,North,PA,sao domingos do araguaia,1,270.65,0.0
+city,South,RS,muliterno,1,270.45,0.0
+city,Southeast,SP,luiziania,3,270.23,0.0
+city,South,SC,grao para,3,269.93,0.0
+city,Southeast,SP,santa mercedes,2,269.57,0.0
+city,Northeast,CE,parambu,4,269.22,0.0
+city,Southeast,MG,itamogi,2,269.03,0.0
+city,Northeast,PE,bodoco,2,269.03,0.0
+city,Northeast,PE,rio formoso,2,268.93,0.0
+city,Northeast,SE,brejo grande,1,268.84,0.0
+city,Southeast,SP,espirito santo do turvo,2,268.84,0.0
+city,Northeast,PE,riacho das almas,2,268.77,0.0
+city,Southeast,SP,irapua,4,268.14,0.0
+city,Central-West,MS,aquidauana,4,268.09,0.0
+city,South,PR,santo antonio do sudoeste,3,268.07,0.0
+city,Northeast,BA,quijingue,2,268.06,0.0
+city,Northeast,PE,terra nova,1,267.93,0.0
+city,Northeast,BA,itaguacu da bahia,1,267.89,0.0
+city,South,RS,ibiraiaras,2,267.71,0.0
+city,Central-West,GO,diorama,2,266.92,0.0
+city,South,PR,mercedes,2,266.38,0.0
+city,Northeast,BA,sao felix do coribe,1,266.06,0.0
+city,Northeast,CE,carnaubal,2,265.88,0.0
+city,Southeast,MG,luizlandia do oeste,2,265.31,0.0
+city,Southeast,SP,botelho,1,265.04,0.0
+city,South,PR,boa vista da aparecida,4,264.63,0.0
+city,North,PA,sao sebastiao da boa vista,2,264.6,0.0
+city,Northeast,SE,tobias barreto,2,264.52,0.0
+city,South,RS,rodeio bonito,2,264.44,0.0
+city,South,RS,vale real,3,264.34,0.0
+city,Northeast,BA,itapitanga,3,264.09,0.0
+city,Southeast,MG,descoberto,3,264.02,0.0
+city,North,TO,alianca do tocantins,2,264.0,0.0
+city,Northeast,PI,campo alegre do fidalgo,1,263.94,0.0
+city,Central-West,GO,padre bernardo,4,263.69,0.0
+city,Northeast,PE,tacaratu,2,263.65,0.0
+city,Southeast,SP,cabralia paulista,4,263.31,0.0
+city,Northeast,SE,itaporanga dajuda,1,263.24,0.0
+city,South,SC,timbe do sul,3,262.92,0.0
+city,Southeast,MG,jampruca,1,262.83,0.0
+city,South,SC,meleiro,3,262.79,0.0
+city,Central-West,MS,corguinho,2,262.67,0.0
+city,South,RS,osvaldo kroeff,1,262.16,0.0
+city,South,SC,ibicare,2,262.09,0.0
+city,Southeast,MG,santa cruz de salinas,2,261.72,0.0
+city,Northeast,MA,mata roma,2,260.91,0.0
+city,Southeast,SP,sao jose do barreiro,3,260.89,0.0
+city,Northeast,BA,teolandia,4,260.77,0.0
+city,Southeast,MG,alpercata,2,260.77,0.0
+city,South,RS,sarandi,5,260.38,0.0
+city,South,RS,manoel viana,3,260.36,0.0
+city,Southeast,MG,frei lagonegro,1,260.34,0.0
+city,North,PA,novo repartimento,2,260.16,0.0
+city,Southeast,RJ,santo eduardo,2,260.06,0.0
+city,South,RS,colorado,3,259.8,0.0
+city,Northeast,MA,alto alegre do pindare,1,259.56,0.0
+city,Central-West,MS,agua clara,2,259.17,0.0
+city,Northeast,SE,macambira,1,259.15,0.0
+city,Northeast,BA,santana,3,258.77,0.0
+city,Northeast,CE,sao luis do curu,2,258.71,0.0
+city,South,PR,paraiso do norte,3,258.69,0.0
+city,Northeast,BA,itape,1,258.56,0.0
+city,South,SC,turvo,4,258.53,0.0
+city,Northeast,PB,sao jose dos cordeiros,1,258.03,0.0
+city,Northeast,BA,belo campo,3,257.64,0.0
+city,Northeast,PI,redencao do gurgueia,1,257.56,0.0
+city,Southeast,SP,mineiros do tiete,3,257.34,0.0
+city,Northeast,BA,urucuca,2,257.27,0.0
+city,Northeast,SE,neopolis,1,257.1,0.0
+city,Southeast,SP,aparecida de sao manuel,2,256.79,0.0
+city,Central-West,GO,corumbaiba,4,256.47,0.0
+city,Southeast,MG,coronel murta,1,255.84,0.0
+city,Southeast,MG,sao sebastiao do maranhao,3,255.21,0.0
+city,Southeast,SP,ilha comprida,3,254.85,0.0
+city,Northeast,BA,planaltino,1,254.44,0.0
+city,South,PR,ipora,2,254.26,0.0
+city,North,TO,arraias,2,254.23,0.0
+city,Southeast,MG,sao miguel do anta,1,254.09,0.0
+city,North,TO,pequizeiro,1,253.98,0.0
+city,Southeast,MG,sericita,2,253.62,0.0
+city,Northeast,PE,buique,1,253.09,0.0
+city,Central-West,MT,jaciara,3,252.88,0.0
+city,South,RS,ciriaco,1,252.74,0.0
+city,South,RS,nonoai,2,252.67,0.0
+city,Northeast,PI,novo oriente do piaui,2,252.57,0.0
+city,Northeast,MA,guimaraes,1,252.11,0.0
+city,South,RS,boa vista do burica,1,252.09,0.0
+city,South,RS,ararica,2,252.0,0.0
+city,Southeast,SP,guapiara,3,251.95,0.0
+city,South,PR,nova laranjeiras,1,251.59,0.0
+city,Northeast,MA,carutapera,2,251.23,0.0
+city,Southeast,MG,prados,3,250.95,0.0
+city,South,SC,trombudo central,4,250.86,0.0
+city,Central-West,DF,sobradinho,3,250.58,0.0
+city,South,PR,wenceslau braz,2,250.51,0.0
+city,Northeast,RN,martins,2,250.31,0.0
+city,South,PR,cerro azul,4,250.18,0.0
+city,Southeast,SP,rubiacea,2,250.15,0.0
+city,South,PR,lunardelli,2,250.08,0.0
+city,Southeast,SP,santo antonio da alegria,3,250.03,0.0
+city,Southeast,SP,queluz,2,249.9,0.0
+city,Northeast,BA,caraibas,1,249.8,0.0
+city,Southeast,MG,cristais,3,249.61,0.0
+city,Central-West,MT,uniao do sul,1,249.2,0.0
+city,South,PR,lupionopolis,2,248.77,0.0
+city,North,AC,manoel urbano,1,248.71,0.0
+city,Central-West,MS,itapora,3,248.44,0.0
+city,Southeast,MG,leandro ferreira,2,248.1,0.0
+city,South,SC,passos maia,2,248.1,0.0
+city,Southeast,SP,ribeira,3,248.03,0.0
+city,Northeast,CE,mombaca,1,247.98,0.0
+city,Northeast,BA,riachao das neves,2,247.77,0.0
+city,Southeast,MG,sao jose do goiabal,2,247.67,0.0
+city,Central-West,GO,aragarcas,3,247.6,0.0
+city,North,PA,oeiras do para,2,247.46,0.0
+city,Northeast,BA,conceicao do jacuipe,3,247.08,0.0
+city,Southeast,MG,guaraciaba,2,246.93,0.0
+city,Northeast,BA,presidente dutra,3,246.62,0.0
+city,Southeast,MG,mamonas,1,246.36,0.0
+city,Southeast,RJ,portela,1,246.26,0.0
+city,South,SC,antonio carlos,2,245.94,0.0
+city,Southeast,MG,imbe de minas,2,245.81,0.0
+city,Central-West,MT,carlinda,2,245.67,0.0
+city,North,PA,santa barbara do para,1,245.45,0.0
+city,South,RS,ajuricaba,2,245.37,0.0
+city,Southeast,MG,alvarenga,2,245.11,0.0
+city,South,PR,bom jesus do sul,1,245.1,0.0
+city,Southeast,RJ,ibitioca,1,244.91,0.0
+city,Southeast,MG,diogo de vasconcelos,2,244.71,0.0
+city,Northeast,CE,iraucuba,2,244.13,0.0
+city,Central-West,MT,curvelandia,1,243.78,0.0
+city,Northeast,BA,pindobacu,3,243.72,0.0
+city,Southeast,MG,jequitai,2,243.3,0.0
+city,North,PA,ipixuna do para,2,242.99,0.0
+city,North,AM,urucurituba,2,242.94,0.0
+city,Northeast,RN,guamare,2,242.64,0.0
+city,North,TO,couto de magalhaes,2,242.63,0.0
+city,South,RS,progresso,1,242.59,0.0
+city,Southeast,SP,mirante do paranapanema,3,242.49,0.0
+city,South,SC,quilombo,4,240.79,0.0
+city,Northeast,RN,ielmo marinho,2,240.32,0.0
+city,Central-West,GO,campo alegre de goias,2,240.27,0.0
+city,Northeast,BA,sao domingos,3,239.44,0.0
+city,Southeast,MG,capetinga,2,239.37,0.0
+city,Southeast,SP,coroados,2,239.34,0.0
+city,Northeast,CE,deputado irapuan pinheiro,2,239.0,0.0
+city,Southeast,MG,bueno brandao,4,238.33,0.0
+city,Central-West,DF,guara,2,237.96,0.0
+city,Central-West,GO,palminopolis,1,237.94,0.0
+city,South,RS,herval,2,237.65,0.0
+city,Central-West,MT,santo antonio do leste,1,237.55,0.0
+city,South,RS,gramado dos loureiros,1,237.54,0.0
+city,South,RS,santo expedito do sul,1,237.54,0.0
+city,Southeast,SP,flora rica,1,237.26,0.0
+city,South,RS,roca sales,2,237.16,0.0
+city,South,PR,eneas marques,4,237.15,0.0
+city,Northeast,BA,jaguaquara,2,237.14,0.0
+city,Northeast,BA,teofilandia,3,236.92,0.0
+city,South,RS,tres arroios,3,236.8,0.0
+city,Northeast,CE,carire,3,236.28,0.0
+city,Southeast,RJ,laje do muriae,1,235.28,0.0
+city,North,RO,cabixi,1,234.5,0.0
+city,South,PR,nova cantu,2,234.31,0.0
+city,Northeast,BA,serra dourada,2,234.2,0.0
+city,Northeast,RN,lagoa de velhos,1,234.19,0.0
+city,South,RS,morro redondo,1,233.66,0.0
+city,Northeast,PB,areia,2,233.46,0.0
+city,South,PR,tunas do parana,2,233.3,0.0
+city,Southeast,MG,rio preto,4,233.2,0.0
+city,Northeast,BA,canudos,1,232.89,0.0
+city,Southeast,MG,serra bonita,1,232.82,0.0
+city,South,SC,santa rosa de lima,3,232.79,0.0
+city,Southeast,MG,divisa alegre,2,232.35,0.0
+city,South,PR,flor da serra do sul,2,232.06,0.0
+city,South,RS,novo barreiro,2,232.03,0.0
+city,South,RS,ilopolis,3,231.58,0.0
+city,South,PR,doutor camargo,1,230.63,0.0
+city,Northeast,BA,xique-xique,3,230.56,0.0
+city,South,SC,witmarsum,3,230.35,0.0
+city,Northeast,BA,cipo,1,230.12,0.0
+city,Northeast,MA,satubinha,2,229.97,0.0
+city,Northeast,MA,buriti,1,229.91,0.0
+city,Southeast,SP,zacarias,2,229.85,0.0
+city,Northeast,SE,telha,1,229.65,0.0
+city,South,PR,sao joao do ivai,2,229.56,0.0
+city,Central-West,GO,cumari,2,229.51,0.0
+city,North,TO,goianorte,2,229.5,0.0
+city,South,RS,ipe,2,229.22,0.0
+city,Southeast,MG,ressaquinha,1,229.07,0.0
+city,Southeast,SP,alambari,3,228.94,0.0
+city,Northeast,BA,saubara,1,228.6,0.0
+city,Northeast,RN,ipueira,1,228.57,0.0
+city,Southeast,MG,sao joao da mata,2,228.39,0.0
+city,Central-West,GO,cavalcante,2,228.07,0.0
+city,Southeast,MG,senador amaral,2,228.0,0.0
+city,Southeast,SP,avai,1,227.96,0.0
+city,South,RS,agua santa,2,227.59,0.0
+city,South,PR,alto alegre do iguacu,2,227.25,0.0
+city,Southeast,SP,alvares florence,2,227.23,0.0
+city,Central-West,MT,nova canaa do norte,3,227.15,0.0
+city,Southeast,MG,morro da garca,1,227.14,0.0
+city,Northeast,AL,barra de sao miguel,2,226.64,0.0
+city,South,RS,mato leitao,2,226.59,0.0
+city,Southeast,MG,chacara,2,226.28,0.0
+city,Northeast,CE,erere,1,226.23,0.0
+city,Northeast,BA,sao jose da vitoria,2,225.76,0.0
+city,Northeast,PB,picui,2,225.61,0.0
+city,Northeast,BA,dario meira,2,225.26,0.0
+city,Southeast,SP,floreal,2,225.0,0.0
+city,Northeast,RN,francisco dantas,1,224.78,0.0
+city,Northeast,BA,abare,2,224.73,0.0
+city,Northeast,MA,araguana,1,224.07,0.0
+city,Southeast,SP,lourdes,2,223.84,0.0
+city,Northeast,PE,calcado,1,223.54,0.0
+city,Southeast,MG,pocrane,3,223.12,0.0
+city,Northeast,BA,irara,2,222.82,0.0
+city,South,RS,david canabarro,2,222.77,0.0
+city,Northeast,BA,muritiba,1,222.63,0.0
+city,South,PR,paranacity,3,222.6,0.0
+city,Northeast,BA,aramari,2,222.56,0.0
+city,Southeast,SP,poloni,3,222.41,0.0
+city,South,RS,cerro grande do sul,2,222.36,0.0
+city,Northeast,CE,pacoti,2,222.29,0.0
+city,Southeast,MG,berizal,1,221.98,0.0
+city,Northeast,RN,alexandria,2,221.92,0.0
+city,Northeast,SE,boquim,1,221.82,0.0
+city,Central-West,GO,alvorada do norte,3,221.72,0.0
+city,Northeast,PE,correntes,1,221.59,0.0
+city,South,RS,santo antonio do planalto,1,221.07,0.0
+city,Northeast,BA,sao miguel das matas,1,221.0,0.0
+city,Southeast,MG,azurita,3,220.85,0.0
+city,Northeast,PB,fagundes,1,220.74,0.0
+city,Southeast,SP,herculandia,3,220.64,0.0
+city,Northeast,SE,japoata,1,220.6,0.0
+city,Central-West,MT,cotriguacu,2,220.48,0.0
+city,Southeast,MG,montezuma,2,220.35,0.0
+city,South,PR,abatia,3,220.19,0.0
+city,South,PR,salgado filho,3,219.94,0.0
+city,Southeast,SP,santa rita doeste,3,219.73,0.0
+city,Northeast,MA,sao domingos do maranhao,2,219.51,0.0
+city,Central-West,GO,hidrolina,2,218.96,0.0
+city,Southeast,MG,tiros,3,218.66,0.0
+city,Northeast,CE,dourado,1,218.58,0.0
+city,Southeast,MG,bom jesus do amparo,1,218.54,0.0
+city,Northeast,BA,ibiassuce,2,218.42,0.0
+city,South,SC,santa rosa do sul,1,218.27,0.0
+city,South,PR,clevelandia,3,218.19,0.0
+city,Central-West,GO,mara rosa,2,218.17,0.0
+city,Northeast,BA,america dourada,1,217.92,0.0
+city,Northeast,SE,general maynard,1,217.85,0.0
+city,Northeast,MA,parnarama,1,217.82,0.0
+city,South,SC,xavantina,2,217.71,0.0
+city,Southeast,SP,galia,1,217.64,0.0
+city,Southeast,MG,santa rita do ibitipoca,2,216.81,0.0
+city,Southeast,MG,sao goncalo do abaete,2,216.48,0.0
+city,Central-West,MS,vicentina,1,216.07,0.0
+city,Northeast,CE,tururu,1,215.6,0.0
+city,Northeast,MA,sambaiba,1,215.47,0.0
+city,Southeast,MG,conceicao do formoso,1,215.24,0.0
+city,South,SC,botuvera,2,215.17,0.0
+city,Southeast,MG,macuco de minas,1,215.14,0.0
+city,Southeast,MG,andrequice,1,215.14,0.0
+city,South,RS,capao da porteira,2,215.13,0.0
+city,Central-West,MT,gaucha do norte,2,214.94,0.0
+city,Southeast,MG,cachoeira da prata,2,214.43,0.0
+city,South,RS,fontoura xavier,1,214.16,0.0
+city,Southeast,MG,moema,1,214.12,0.0
+city,Northeast,MA,pocao de pedras,1,214.05,0.0
+city,Southeast,SP,pinheiros,1,213.83,0.0
+city,South,SC,rio das antas,2,213.78,0.0
+city,Northeast,CE,frecheirinha,2,213.71,0.0
+city,Southeast,SP,mira estrela,1,213.56,0.0
+city,Northeast,PI,baixa grande do ribeiro,1,213.47,0.0
+city,Northeast,PI,agua branca,2,213.41,0.0
+city,Southeast,SP,sao joao de iracema,3,213.38,0.0
+city,South,RS,bossoroca,1,213.34,0.0
+city,Northeast,BA,jussari,2,213.19,0.0
+city,Southeast,MG,ritapolis,3,212.33,0.0
+city,Southeast,MG,fruta de leite,2,212.16,0.0
+city,Northeast,PE,jatauba,2,212.12,0.0
+city,Southeast,MG,cachoeira do brumado,1,211.17,0.0
+city,South,PR,chopinzinho,4,211.14,0.0
+city,South,RS,campina das missoes,2,211.0,0.0
+city,Southeast,SP,estrela do norte,3,210.77,0.0
+city,Central-West,MT,nortelandia,1,210.64,0.0
+city,Southeast,MG,sao roque de minas,2,210.54,0.0
+city,Southeast,SP,rinopolis,3,210.49,0.0
+city,Northeast,PE,panelas,2,210.49,0.0
+city,Southeast,MG,guape,1,210.48,0.0
+city,Northeast,MA,pastos bons,2,210.22,0.0
+city,Southeast,MG,ladainha,2,210.21,0.0
+city,Northeast,BA,ubata,1,210.18,0.0
+city,Northeast,BA,nova canaa,2,210.08,0.0
+city,South,PR,ventania,3,209.88,0.0
+city,Southeast,SP,nova campina,2,209.52,0.0
+city,Northeast,PI,isaias coelho,1,209.46,0.0
+city,South,RS,jaguari,3,209.34,0.0
+city,South,PR,espigao alto do iguacu,2,209.32,0.0
+city,Southeast,MG,bugre,1,209.3,0.0
+city,Central-West,MT,rio branco,4,209.17,0.0
+city,Southeast,MG,inconfidentes,2,208.97,0.0
+city,Northeast,PE,macaparana,2,208.71,0.0
+city,South,SC,sao bernardino,1,208.48,0.0
+city,Southeast,ES,celina,2,208.23,0.0
+city,Southeast,MG,acaiaca,2,207.9,0.0
+city,South,RS,maquine,1,207.4,0.0
+city,Southeast,MG,sao francisco do humaita,1,207.32,0.0
+city,Central-West,GO,matrincha,2,207.18,0.0
+city,South,RS,salvador do sul,1,206.99,0.0
+city,Southeast,MG,santana do deserto,1,206.99,0.0
+city,Central-West,GO,carmo do rio verde,2,206.32,0.0
+city,South,RS,macambara,2,205.72,0.0
+city,Southeast,SP,engenheiro balduino,1,205.54,0.0
+city,Northeast,CE,fortim,1,205.53,0.0
+city,Northeast,RN,lagoa nova,2,205.2,0.0
+city,Northeast,PB,pedras de fogo,2,204.63,0.0
+city,Northeast,AL,lagoa da canoa,1,204.53,0.0
+city,Southeast,MG,arantina,1,204.41,0.0
+city,Northeast,BA,apuarema,1,204.38,0.0
+city,North,PA,mae do rio,2,203.61,0.0
+city,Northeast,AL,monteiropolis,1,203.43,0.0
+city,Northeast,RN,sao jose do serido,1,203.31,0.0
+city,Central-West,GO,cocalzinho de goias,1,203.08,0.0
+city,Northeast,BA,abaira,2,203.0,0.0
+city,North,RO,guajara-mirim,3,202.85,0.0
+city,South,SC,belmonte,1,202.5,0.0
+city,Southeast,SP,aguas de santa barbara,3,202.03,0.0
+city,Northeast,CE,saboeiro,1,201.83,0.0
+city,South,PR,palmital,1,201.75,0.0
+city,Southeast,MG,ataleia,2,200.69,0.0
+city,South,PR,alto alegre,2,200.69,0.0
+city,Southeast,MG,luz,2,200.53,0.0
+city,Northeast,AL,porto de pedras,1,200.35,0.0
+city,Southeast,MG,ribeiro junqueira,1,200.33,0.0
+city,Southeast,MG,urucania,1,200.33,0.0
+city,Northeast,CE,quixelo,2,200.25,0.0
+city,Southeast,SP,lucianopolis,2,199.97,0.0
+city,Northeast,BA,tabocas do brejo velho,3,199.96,0.0
+city,Southeast,ES,aguia branca,2,199.94,0.0
+city,Northeast,BA,iramaia,2,199.37,0.0
+city,Southeast,SP,aparecida de monte alto,1,199.26,0.0
+city,Southeast,MG,sao joao do manhuacu,2,199.26,0.0
+city,Northeast,PB,curral de cima,1,199.0,0.0
+city,Southeast,MG,capitao andrade,1,199.0,0.0
+city,Southeast,ES,pancas,1,198.9,0.0
+city,Northeast,CE,varzea alegre,2,198.65,0.0
+city,Northeast,PI,bocaina,1,198.62,0.0
+city,Northeast,PB,triunfo,1,198.57,0.0
+city,Southeast,SP,emilianopolis,2,198.49,0.0
+city,Southeast,MG,carlos chagas,3,198.46,0.0
+city,South,PR,lindoeste,2,198.25,0.0
+city,South,RS,capivari do sul,1,197.95,0.0
+city,Northeast,BA,ichu,2,197.92,0.0
+city,Southeast,MG,pequi,1,197.5,0.0
+city,Central-West,GO,apore,1,197.38,0.0
+city,Southeast,MG,claraval,1,197.04,0.0
+city,South,PR,jaboti,2,196.96,0.0
+city,South,SC,jaguaruna,2,196.89,0.0
+city,Southeast,MG,sao goncalo do rio das pedras,1,196.5,0.0
+city,Northeast,RN,jose da penha,1,196.43,0.0
+city,Northeast,BA,itabata,2,196.4,0.0
+city,Southeast,MG,desembargador otoni,1,196.02,0.0
+city,Central-West,GO,campinacu,1,195.91,0.0
+city,Southeast,SP,porangaba,2,195.63,0.0
+city,Central-West,GO,jesupolis,2,195.34,0.0
+city,North,TO,parana,2,195.25,0.0
+city,Northeast,BA,maragogipe,2,195.04,0.0
+city,Southeast,ES,santo antonio do canaa,1,194.88,0.0
+city,Northeast,BA,barra,2,194.84,0.0
+city,Northeast,PB,areial,1,194.82,0.0
+city,Northeast,RN,governador dix-sept rosado,1,194.82,0.0
+city,South,SC,ipira,2,194.74,0.0
+city,Southeast,RJ,purilandia,1,194.48,0.0
+city,Northeast,RN,lagoa danta,1,194.34,0.0
+city,South,RS,sao vendelino,2,194.28,0.0
+city,South,PR,sapopema,2,193.31,0.0
+city,Northeast,PI,pimenteiras,2,193.21,0.0
+city,Northeast,BA,itagimirim,1,193.06,0.0
+city,Northeast,PB,caldas brandao,1,192.32,0.0
+city,South,RS,fazenda vilanova,2,192.21,0.0
+city,Central-West,GO,rianapolis,1,191.99,0.0
+city,South,RS,vila langaro,3,191.91,0.0
+city,South,PR,roncador,2,191.73,0.0
+city,Southeast,MG,felicio dos santos,1,191.58,0.0
+city,South,RS,coxilha,2,191.5,0.0
+city,Northeast,PI,sao lourenco do piaui,1,191.11,0.0
+city,Northeast,PI,campo grande do piaui,1,190.88,0.0
+city,Northeast,RN,severiano melo,1,190.83,0.0
+city,Northeast,RN,poco de pedra,1,190.66,0.0
+city,Northeast,PE,capoeiras,1,190.53,0.0
+city,Northeast,AL,taquarana,1,190.43,0.0
+city,Southeast,MG,nazareno,2,190.26,0.0
+city,Southeast,MG,orizania,1,190.09,0.0
+city,South,PR,jardim olinda,1,189.84,0.0
+city,Central-West,MT,castanheira,3,189.39,0.0
+city,Southeast,SP,marinopolis,2,188.98,0.0
+city,Southeast,RJ,sao joao do paraiso,1,188.65,0.0
+city,Southeast,RJ,bom jesus do querendo,1,188.55,0.0
+city,Northeast,BA,itaparica,1,188.36,0.0
+city,North,RO,presidente medici,2,188.33,0.0
+city,Northeast,BA,nova fatima,1,188.29,0.0
+city,Northeast,BA,correntina,2,188.11,0.0
+city,Southeast,RJ,visconde de maua,3,188.05,0.0
+city,Central-West,GO,sao joao da parauna,1,187.84,0.0
+city,Northeast,BA,cravolandia,1,187.83,0.0
+city,Northeast,PB,cubati,2,187.59,0.0
+city,Southeast,MG,capim branco,2,187.17,0.0
+city,North,PA,floresta do araguaia,1,186.79,0.0
+city,Southeast,MG,silvianopolis,3,186.76,0.0
+city,South,PR,luiziana,2,186.57,0.0
+city,Northeast,PE,cha grande,1,186.49,0.0
+city,Northeast,PE,santa filomena,1,186.4,0.0
+city,Southeast,SP,euclides da cunha paulista,2,186.39,0.0
+city,Northeast,MA,jatoba,1,186.36,0.0
+city,Northeast,BA,oliveira dos brejinhos,2,185.84,0.0
+city,South,SC,arroio trinta,1,185.84,0.0
+city,Southeast,MG,sao joao da serra negra,2,185.7,0.0
+city,Northeast,BA,brotas de macaubas,1,185.62,0.0
+city,Central-West,GO,cachoeira dourada,2,185.02,0.0
+city,Northeast,PI,pio ix,1,184.84,0.0
+city,Central-West,GO,urutai,3,184.79,0.0
+city,South,RS,miraguai,1,183.29,0.0
+city,Southeast,MG,sao jose do divino,1,182.84,0.0
+city,Northeast,CE,massape,2,182.79,0.0
+city,South,RS,putinga,2,182.56,0.0
+city,South,PR,pranchita,1,182.36,0.0
+city,Southeast,MG,perpetuo socorro,2,182.3,0.0
+city,South,SC,sao domingos,2,182.18,0.0
+city,Northeast,PI,conceicao do caninde,1,181.81,0.0
+city,Southeast,MG,sao geraldo da piedade,1,181.76,0.0
+city,Southeast,MG,paiva,2,181.74,0.0
+city,Northeast,AL,luziapolis,1,181.62,0.0
+city,Northeast,BA,itapicuru,2,181.54,0.0
+city,South,RS,victor graeff,2,181.25,0.0
+city,Northeast,BA,itubera,3,181.22,0.0
+city,Southeast,MG,ibertioga,1,181.21,0.0
+city,North,PA,mojui dos campos,2,180.87,0.0
+city,Northeast,PB,lagoa,1,180.76,0.0
+city,Northeast,PI,caldeirao grande do piaui,1,180.76,0.0
+city,North,TO,colmeia,2,180.69,0.0
+city,South,PR,amapora,2,180.65,0.0
+city,Southeast,MG,carrancas,3,180.62,0.0
+city,Southeast,MG,senador firmino,2,180.44,0.0
+city,South,SC,caibi,3,180.41,0.0
+city,Central-West,GO,aruana,2,180.31,0.0
+city,South,RS,santa barbara do sul,2,180.09,0.0
+city,South,PR,boa esperanca,1,179.77,0.0
+city,Northeast,CE,chaval,1,179.45,0.0
+city,Southeast,MG,mendonca,1,179.35,0.0
+city,Southeast,SP,itirapina,2,179.21,0.0
+city,Central-West,GO,mimoso de goias,1,179.12,0.0
+city,South,PR,quinta do sol,3,178.66,0.0
+city,Northeast,PB,alagoa grande,1,178.52,0.0
+city,Northeast,CE,groairas,1,178.5,0.0
+city,Southeast,MG,santa fe de minas,1,178.27,0.0
+city,South,PR,marilandia do sul,1,178.27,0.0
+city,South,PR,rio verde,1,178.27,0.0
+city,Southeast,MG,santo antonio dos campos,1,177.99,0.0
+city,Northeast,BA,jaua,1,177.38,0.0
+city,Northeast,RN,riacho da cruz,1,177.34,0.0
+city,South,SC,romelandia,1,176.87,0.0
+city,Northeast,BA,candeal,1,176.65,0.0
+city,Southeast,MG,rio espera,1,176.45,0.0
+city,Southeast,ES,iuna,2,176.27,0.0
+city,Northeast,CE,madalena,1,176.24,0.0
+city,Central-West,GO,aurilandia,1,176.2,0.0
+city,Central-West,GO,nova crixas,1,176.18,0.0
+city,Southeast,MG,turvolandia,2,176.09,0.0
+city,South,PR,santa amelia,1,175.87,0.0
+city,South,RS,ivora,1,175.79,0.0
+city,Central-West,MT,salto do ceu,2,175.61,0.0
+city,South,RS,lagoao,1,175.43,0.0
+city,Southeast,MG,simao pereira,1,175.41,0.0
+city,Northeast,PB,conceicao,2,175.24,0.0
+city,Southeast,MG,machacalis,2,175.17,0.0
+city,Southeast,ES,jacigua,2,175.11,0.0
+city,North,TO,lajeado,1,175.1,0.0
+city,Northeast,PI,ilha grande,1,174.68,0.0
+city,North,TO,pindorama do tocantins,2,174.18,0.0
+city,South,PR,mariopolis,1,173.95,0.0
+city,South,PR,ibema,1,173.89,0.0
+city,Northeast,PE,quixada,1,173.89,0.0
+city,Northeast,PI,alegrete do piaui,1,173.88,0.0
+city,Northeast,BA,presidente janio quadros,1,173.88,0.0
+city,Northeast,PI,sao jose do piaui,1,173.88,0.0
+city,Northeast,PI,itaueira,2,173.62,0.0
+city,Southeast,MG,coracao de jesus,3,173.38,0.0
+city,Central-West,GO,sao patricio,1,172.96,0.0
+city,Northeast,BA,dom basilio,3,172.71,0.0
+city,Central-West,MT,poxoreu,2,172.59,0.0
+city,North,TO,aparecida do rio negro,1,172.58,0.0
+city,Southeast,SP,lupercio,3,172.11,0.0
+city,North,RR,bonfim,1,171.69,0.0
+city,South,PR,sao jorge doeste,2,171.55,0.0
+city,Northeast,BA,pindai,2,171.54,0.0
+city,Southeast,SP,sao sebastiao da serra,1,171.35,0.0
+city,Southeast,RJ,tres irmaos,1,171.2,0.0
+city,Southeast,SP,caiua,2,170.99,0.0
+city,Central-West,MS,tacuru,1,170.71,0.0
+city,Northeast,RN,sitio novo,1,170.14,0.0
+city,Northeast,PE,sao domingos,1,170.01,0.0
+city,Northeast,PB,inga,1,169.99,0.0
+city,Northeast,BA,saude,2,169.98,0.0
+city,Southeast,MG,senhora de oliveira,2,169.94,0.0
+city,Northeast,CE,guassusse,1,169.92,0.0
+city,Northeast,PB,remigio,1,169.92,0.0
+city,Central-West,GO,simolandia,2,169.73,0.0
+city,South,RS,seberi,2,169.67,0.0
+city,Southeast,MG,careacu,2,169.59,0.0
+city,Southeast,SP,santa maria da serra,2,169.42,0.0
+city,Northeast,BA,heliopolis,1,169.28,0.0
+city,Southeast,SP,alfredo marcondes,1,169.23,0.0
+city,Southeast,MG,andrelandia,3,169.07,0.0
+city,Northeast,RN,marcelino vieira,1,169.02,0.0
+city,South,PR,itaguaje,2,168.96,0.0
+city,Northeast,RN,carnauba dos dantas,1,168.45,0.0
+city,Northeast,AL,pilar,3,168.36,0.0
+city,Southeast,MG,urucuia,1,168.29,0.0
+city,Southeast,MG,paula candido,1,168.19,0.0
+city,Northeast,RN,rodolfo fernandes,2,168.19,0.0
+city,Southeast,ES,vila nelita,2,167.98,0.0
+city,South,RS,ibarama,1,167.92,0.0
+city,Central-West,GO,agua fria de goias,1,167.81,0.0
+city,South,PR,ourizona,1,167.8,0.0
+city,South,PR,quatro pontes,1,167.66,0.0
+city,Southeast,MG,matutina,2,167.66,0.0
+city,Northeast,PB,aroeiras,1,167.48,0.0
+city,North,TO,carmolandia,1,167.45,0.0
+city,Southeast,MG,itatiaiucu,2,167.15,0.0
+city,South,PR,maua da serra,2,167.12,0.0
+city,Central-West,MT,juscimeira,2,167.0,0.0
+city,Southeast,SP,sao francisco,2,166.72,0.0
+city,Northeast,PB,santa cecilia,1,166.71,0.0
+city,Southeast,MG,piracema,1,166.59,0.0
+city,Northeast,PE,santo antonio das queimadas,2,166.46,0.0
+city,Southeast,SP,jaborandi,3,166.38,0.0
+city,Southeast,MG,angustura,1,166.29,0.0
+city,South,PR,adhemar de barros,1,166.29,0.0
+city,Northeast,PE,caetes,1,166.04,0.0
+city,Northeast,BA,itamira,3,165.9,0.0
+city,South,RS,alto alegre,1,165.72,0.0
+city,South,SC,paial,1,165.71,0.0
+city,North,RO,mirante da serra,1,165.6,0.0
+city,Southeast,MG,sao joao das missoes,2,165.15,0.0
+city,Southeast,SP,tecainda,1,165.13,0.0
+city,South,RS,protasio alves,2,165.06,0.0
+city,South,SC,jose boiteux,1,165.0,0.0
+city,North,PA,santa maria do para,2,164.89,0.0
+city,Northeast,BA,itagi,2,164.64,0.0
+city,Northeast,PB,alagoa nova,1,164.29,0.0
+city,Northeast,MA,vitoria do mearim,2,164.0,0.0
+city,Northeast,SE,carmopolis,2,163.45,0.0
+city,Southeast,MG,dom joaquim,1,163.38,0.0
+city,Southeast,SP,nossa senhora do remedio,2,163.29,0.0
+city,Central-West,GO,corumba de goias,2,163.28,0.0
+city,South,RS,vespasiano correa,1,163.25,0.0
+city,North,TO,araguacu,1,162.86,0.0
+city,Northeast,PB,bonito de santa fe,1,162.85,0.0
+city,Northeast,CE,ocara,2,162.69,0.0
+city,North,TO,centenario,1,162.47,0.0
+city,North,PA,murucupi,1,162.13,0.0
+city,Southeast,MG,guiricema,1,161.56,0.0
+city,South,PR,jardim alegre,2,161.44,0.0
+city,Southeast,MG,piau,2,161.44,0.0
+city,North,RO,cerejeiras,1,161.23,0.0
+city,Southeast,MG,inhauma,2,161.21,0.0
+city,Northeast,BA,sao desiderio,1,161.19,0.0
+city,South,PR,ipiranga,3,161.09,0.0
+city,Central-West,GO,araguapaz,2,160.89,0.0
+city,Northeast,CE,meruoca,2,160.85,0.0
+city,South,PR,tamarana,2,160.84,0.0
+city,South,RS,esmeralda,1,160.76,0.0
+city,Northeast,CE,oros,2,160.71,0.0
+city,Central-West,MT,itiquira,1,160.66,0.0
+city,Northeast,RN,sao fernando,1,160.58,0.0
+city,Northeast,RN,extremoz,2,160.14,0.0
+city,Northeast,PB,araruna,1,159.85,0.0
+city,Northeast,PB,riacho de santo antonio,1,159.6,0.0
+city,Northeast,BA,mascote,2,158.99,0.0
+city,North,TO,duere,1,158.77,0.0
+city,Southeast,MG,central de santa helena,1,158.76,0.0
+city,Southeast,MG,santa cruz do prata,2,158.72,0.0
+city,South,PR,doutor ulysses,1,158.61,0.0
+city,South,SC,morro grande,1,158.58,0.0
+city,Northeast,PI,santa cruz do piaui,1,158.38,0.0
+city,Northeast,PB,juripiranga,1,157.99,0.0
+city,South,PR,grandes rios,2,157.75,0.0
+city,Southeast,SP,igaracu do tiete,4,157.66,0.0
+city,Northeast,RN,felipe guerra,1,157.65,0.0
+city,Southeast,MG,itabirinha,1,157.41,0.0
+city,Northeast,BA,mundo novo,1,157.28,0.0
+city,Northeast,BA,ibitiara,1,157.28,0.0
+city,Southeast,MG,aracitaba,2,156.74,0.0
+city,Central-West,MT,porto estrela,1,156.72,0.0
+city,South,SC,abdon batista,1,156.7,0.0
+city,Northeast,BA,paripiranga,2,156.65,0.0
+city,South,RS,sao joao da urtiga,1,156.64,0.0
+city,Southeast,MG,chale,2,156.22,0.0
+city,Southeast,MG,presidente kubitschek,2,156.06,0.0
+city,Northeast,MA,formosa da serra negra,1,155.5,0.0
+city,South,RS,silveira martins,1,155.14,0.0
+city,Northeast,PB,nova floresta,1,155.0,0.0
+city,South,PR,sede alvorada,1,154.9,0.0
+city,South,PR,imbau,2,154.87,0.0
+city,South,PR,sao clemente,1,154.86,0.0
+city,Northeast,PB,pitanga de estrada,1,154.83,0.0
+city,Northeast,MA,boa vista do gurupi,2,154.75,0.0
+city,South,RS,barao de cotegipe,2,154.71,0.0
+city,Northeast,MA,miranda do norte,1,154.64,0.0
+city,Southeast,MG,dionisio,2,154.42,0.0
+city,Southeast,MG,morro do ferro,1,154.38,0.0
+city,Southeast,SP,neves paulista,3,154.32,0.0
+city,Central-West,MT,conquista doeste,1,154.04,0.0
+city,Southeast,MG,brejo bonito,1,153.9,0.0
+city,South,PR,cantagalo,2,153.84,0.0
+city,Northeast,PI,luis correia,1,153.36,0.0
+city,Central-West,MS,anastacio,2,153.35,0.0
+city,South,SC,cerro negro,1,153.32,0.0
+city,Southeast,MG,senador modestino goncalves,2,153.17,0.0
+city,South,PR,iguatu,1,153.04,0.0
+city,Northeast,CE,missi,1,152.95,0.0
+city,Northeast,AL,ibateguara,2,152.86,0.0
+city,South,PR,farol,1,152.72,0.0
+city,South,RS,caseiros,1,152.66,0.0
+city,Southeast,MG,pirajuba,1,152.61,0.0
+city,Northeast,AL,dois riachos,1,152.25,0.0
+city,South,SC,coronel martins,2,152.14,0.0
+city,Southeast,MG,salto da divisa,2,151.66,0.0
+city,Southeast,MG,planura,2,151.1,0.0
+city,South,PR,mandirituba,2,151.08,0.0
+city,Northeast,AL,vila sao francisco,1,150.98,0.0
+city,Southeast,MG,liberdade,3,150.9,0.0
+city,Northeast,PB,varzea,1,150.18,0.0
+city,Northeast,CE,flores,1,149.9,0.0
+city,Central-West,GO,mairipotaba,1,149.65,0.0
+city,Northeast,PI,lagoinha do piaui,1,149.61,0.0
+city,Central-West,GO,domiciano ribeiro,2,149.38,0.0
+city,South,PR,rancho alegre doeste,1,149.29,0.0
+city,North,PA,monte alegre,1,149.26,0.0
+city,Southeast,ES,divino de sao lourenco,1,149.16,0.0
+city,Northeast,MA,cajapio,1,149.16,0.0
+city,Northeast,CE,mucambo,1,149.14,0.0
+city,Northeast,MA,sao joao batista,1,149.11,0.0
+city,Southeast,RJ,sacra familia do tingua,1,149.04,0.0
+city,Central-West,GO,santo antonio de goias,1,149.02,0.0
+city,Southeast,MG,grupiara,1,148.94,0.0
+city,South,RS,barra do rio azul,1,148.71,0.0
+city,South,PR,entre rios do oeste,3,148.58,0.0
+city,Central-West,GO,sao luiz do norte,1,148.33,0.0
+city,Northeast,RN,jandaira,1,148.22,0.0
+city,South,PR,cruzeiro do iguacu,1,148.15,0.0
+city,North,TO,pugmil,1,148.15,0.0
+city,South,RS,chiapetta,1,148.15,0.0
+city,Southeast,MG,ibiracatu,1,148.15,0.0
+city,Northeast,BA,wagner,1,147.69,0.0
+city,Northeast,BA,biritinga,1,147.57,0.0
+city,Southeast,MG,estrela do indaia,2,147.5,0.0
+city,Northeast,PB,manaira,1,147.4,0.0
+city,Northeast,CE,aiuaba,1,147.38,0.0
+city,Southeast,MG,ferros,2,147.36,0.0
+city,Northeast,PE,agua preta,1,147.34,0.0
+city,Northeast,BA,barro preto,1,146.58,0.0
+city,South,RS,capitao,1,146.5,0.0
+city,Southeast,MG,passa tempo,1,146.46,0.0
+city,Southeast,MG,durande,2,146.19,0.0
+city,South,RS,andre da rocha,1,146.13,0.0
+city,Southeast,MG,pocoes de paineiras,1,145.95,0.0
+city,South,RS,sao francisco de assis,2,145.39,0.0
+city,Northeast,SE,cristinapolis,1,145.37,0.0
+city,Central-West,MT,tapurah,1,145.11,0.0
+city,South,SC,lajeado grande,1,145.08,0.0
+city,Northeast,BA,anguera,1,144.99,0.0
+city,North,TO,augustinopolis,1,144.89,0.0
+city,Northeast,BA,itagiba,2,144.86,0.0
+city,Northeast,RN,tibau do sul,1,144.79,0.0
+city,South,SC,peritiba,2,144.71,0.0
+city,Southeast,MG,corrego fundo,1,144.65,0.0
+city,Southeast,MG,comercinho,1,144.65,0.0
+city,Southeast,SP,jeriquara,1,144.65,0.0
+city,Southeast,ES,brejetuba,1,144.54,0.0
+city,Southeast,SP,mombuca,3,144.47,0.0
+city,Northeast,AL,sao jose da tapera,1,144.47,0.0
+city,Southeast,MG,jacinto,2,144.46,0.0
+city,South,SC,luiz alves,2,144.4,0.0
+city,Southeast,MG,cruzeiro da fortaleza,2,144.3,0.0
+city,Northeast,MA,presidente medici,1,143.99,0.0
+city,South,RS,augusto pestana,2,143.95,0.0
+city,Southeast,SP,jaci,2,143.41,0.0
+city,Northeast,MA,moncao,1,143.36,0.0
+city,Northeast,BA,brejoes,1,143.34,0.0
+city,Southeast,SP,guzolandia,1,143.31,0.0
+city,South,PR,sao pedro do iguacu,1,142.96,0.0
+city,Southeast,MG,sao geraldo do baguari,1,142.96,0.0
+city,Northeast,BA,central,1,142.89,0.0
+city,Northeast,PI,avelino lopes,2,142.72,0.0
+city,South,PR,turvo,2,142.68,0.0
+city,Southeast,MG,cachoeira dourada,1,142.67,0.0
+city,Northeast,PE,machados,1,142.66,0.0
+city,Northeast,PE,orobo,1,142.63,0.0
+city,Northeast,PB,serra branca,1,142.26,0.0
+city,South,SC,angelina,1,142.05,0.0
+city,Southeast,SP,gaviao peixoto,2,142.04,0.0
+city,Northeast,CE,barreira,1,142.01,0.0
+city,Southeast,MG,francisco dumont,2,141.87,0.0
+city,Northeast,PB,sao francisco,1,141.75,0.0
+city,South,RS,charrua,1,141.63,0.0
+city,Northeast,BA,ibirapua,1,141.42,0.0
+city,Northeast,SE,itabi,1,141.03,0.0
+city,Southeast,SP,mariapolis,2,140.98,0.0
+city,Southeast,MG,agua comprida,2,140.65,0.0
+city,Southeast,SP,tapirai,2,140.53,0.0
+city,South,PR,paranapoema,1,140.49,0.0
+city,Southeast,SP,meridiano,1,140.47,0.0
+city,Southeast,SP,presidente alves,2,140.42,0.0
+city,Central-West,GO,ipiranga de goias,1,139.98,0.0
+city,Southeast,SP,bora,1,139.71,0.0
+city,Northeast,CE,banabuiu,1,139.61,0.0
+city,South,PR,iretama,1,139.59,0.0
+city,North,AC,brasileia,1,139.53,0.0
+city,North,AC,epitaciolandia,1,139.52,0.0
+city,Northeast,BA,maiquinique,1,139.48,0.0
+city,South,RS,erebango,1,139.42,0.0
+city,North,TO,divinopolis do tocantins,1,139.27,0.0
+city,Southeast,SP,nova canaa paulista,2,139.15,0.0
+city,Southeast,ES,braco do rio,2,138.93,0.0
+city,Southeast,SP,natividade da serra,1,138.89,0.0
+city,South,PR,santana,1,138.6,0.0
+city,South,RS,sao nicolau,1,138.6,0.0
+city,Northeast,SE,japaratuba,1,138.24,0.0
+city,Northeast,MA,brejo,1,138.24,0.0
+city,Northeast,AL,cajueiro,1,138.15,0.0
+city,South,PR,manfrinopolis,1,138.08,0.0
+city,Southeast,MG,sardoa,1,137.99,0.0
+city,Northeast,RN,vila flor,1,137.98,0.0
+city,Southeast,MG,campo alegre de minas,1,137.93,0.0
+city,Northeast,AL,atalaia,1,137.65,0.0
+city,South,SC,zortea,2,137.57,0.0
+city,Northeast,BA,wenceslau guimaraes,1,137.5,0.0
+city,Southeast,MG,sao domingos das dores,2,137.4,0.0
+city,North,AP,vitoria do jari,1,137.27,0.0
+city,South,RS,mariano moro,1,137.26,0.0
+city,Southeast,MG,goiana,3,137.25,0.0
+city,Northeast,PB,arara,1,137.14,0.0
+city,Northeast,PB,sao mamede,1,137.1,0.0
+city,South,SC,sao cristovao do sul,1,137.07,0.0
+city,South,PR,sao jose da boa vista,1,137.07,0.0
+city,Northeast,MA,vargem grande,1,137.01,0.0
+city,South,SC,treviso,1,136.98,0.0
+city,South,RS,alpestre,1,136.98,0.0
+city,Northeast,CE,palhano,1,136.6,0.0
+city,South,RS,nova araca,1,136.59,0.0
+city,Southeast,MG,serranopolis de minas,1,136.5,0.0
+city,Southeast,ES,governador lindenberg,2,136.28,0.0
+city,Northeast,CE,independencia,1,136.05,0.0
+city,Southeast,MG,antunes,1,135.39,0.0
+city,Southeast,SP,pontes gestal,1,135.08,0.0
+city,Southeast,SP,tapinas,1,135.08,0.0
+city,Southeast,SP,venda branca,1,134.83,0.0
+city,Southeast,MG,umburatiba,1,134.7,0.0
+city,Central-West,MT,sao felix do araguaia,1,134.64,0.0
+city,Southeast,MG,bela vista de minas,1,134.51,0.0
+city,Southeast,MG,patrocinio do muriae,2,134.38,0.0
+city,Southeast,SP,candido rodrigues,4,134.3,0.0
+city,Southeast,MG,crisolita,2,134.24,0.0
+city,Northeast,MA,benedito leite,1,134.12,0.0
+city,Northeast,MA,lago verde,1,134.01,0.0
+city,South,PR,california,2,133.95,0.0
+city,Northeast,PE,ferreiros,1,133.94,0.0
+city,South,RS,ipiranga do sul,1,133.25,0.0
+city,Northeast,MA,sao benedito do rio preto,1,133.22,0.0
+city,North,PA,nova timboteua,1,133.05,0.0
+city,North,RO,cujubim,1,132.94,0.0
+city,Northeast,PB,assuncao,1,132.69,0.0
+city,Southeast,MG,japaraiba,1,132.46,0.0
+city,Central-West,MS,pedro gomes,1,132.38,0.0
+city,South,RS,barracao,2,132.2,0.0
+city,Northeast,BA,barro alto,2,132.18,0.0
+city,Northeast,AL,agua branca,1,132.1,0.0
+city,Southeast,MG,varjao de minas,2,131.9,0.0
+city,South,RS,quevedos,2,131.69,0.0
+city,Northeast,BA,sitio do quinto,2,131.65,0.0
+city,Northeast,PE,pombos,1,131.43,0.0
+city,Northeast,BA,piata,2,131.35,0.0
+city,Southeast,SP,getulina,2,131.02,0.0
+city,Central-West,GO,jussara,3,130.91,0.0
+city,South,RS,lindolfo collor,1,130.65,0.0
+city,Central-West,GO,portelandia,2,130.63,0.0
+city,Northeast,BA,canarana,1,130.59,0.0
+city,Northeast,CE,antonina do norte,1,130.58,0.0
+city,South,PR,nova santa barbara,1,130.53,0.0
+city,Southeast,MG,alexandrita,1,130.0,0.0
+city,Southeast,MG,sao bras do suacui,2,129.71,0.0
+city,Central-West,GO,arenopolis,1,128.9,0.0
+city,Southeast,MG,uniao de minas,3,128.71,0.0
+city,Northeast,SE,monte alegre de sergipe,1,128.0,0.0
+city,Northeast,PE,itaquitinga,2,127.79,0.0
+city,South,RS,cotipora,1,127.53,0.0
+city,Northeast,BA,banzae,1,127.42,0.0
+city,Northeast,PB,lucena,1,127.17,0.0
+city,Northeast,PE,xexeu,1,126.16,0.0
+city,Southeast,RJ,conrado,1,126.12,0.0
+city,Northeast,PB,brejo dos santos,1,125.94,0.0
+city,South,RS,herveiras,1,125.52,0.0
+city,Northeast,CE,jaguaribara,1,125.23,0.0
+city,Northeast,BA,campo alegre de lourdes,1,124.89,0.0
+city,South,PR,pato bragado,2,124.83,0.0
+city,North,TO,barrolandia,2,124.54,0.0
+city,Northeast,MA,senador la rocque,1,124.43,0.0
+city,Central-West,MT,santo antonio do leverger,1,124.41,0.0
+city,Northeast,MA,santa rita,1,124.33,0.0
+city,Northeast,RN,coronel joao pessoa,1,124.33,0.0
+city,Southeast,MG,riachinho,2,124.05,0.0
+city,Northeast,BA,umburanas,1,123.75,0.0
+city,Central-West,MT,nova ubirata,1,123.75,0.0
+city,South,PR,sao jorge do patrocinio,2,123.72,0.0
+city,Southeast,MG,claro dos pocoes,1,123.68,0.0
+city,Southeast,MG,porto firme,1,123.49,0.0
+city,Southeast,MG,felisburgo,1,123.47,0.0
+city,Central-West,GO,barro alto,1,123.33,0.0
+city,Northeast,MA,alto alegre do maranhao,1,123.32,0.0
+city,Southeast,MG,guarda-mor,2,123.11,0.0
+city,North,TO,ananas,1,122.76,0.0
+city,Northeast,BA,caturama,2,122.68,0.0
+city,North,TO,esperantina,1,122.58,0.0
+city,Southeast,MG,antonio pereira,2,122.32,0.0
+city,South,PR,novo itacolomi,1,122.22,0.0
+city,South,RS,sao pedro do sul,1,121.97,0.0
+city,Southeast,SP,macaubal,1,121.91,0.0
+city,South,RS,coqueiro baixo,2,121.76,0.0
+city,Southeast,MG,capela nova,1,121.27,0.0
+city,Northeast,BA,gentio do ouro,1,121.1,0.0
+city,Southeast,MG,sao vitor,1,121.09,0.0
+city,South,SC,frei rogerio,1,121.09,0.0
+city,Northeast,PB,montadas,1,120.9,0.0
+city,Southeast,MG,bom jesus da penha,2,120.84,0.0
+city,Northeast,PE,aracoiaba,2,120.71,0.0
+city,South,SC,lindoia do sul,1,120.22,0.0
+city,Northeast,BA,conceicao do almeida,1,120.14,0.0
+city,Southeast,SP,anhembi,1,120.09,0.0
+city,North,RO,ministro andreazza,1,120.05,0.0
+city,South,PR,sao carlos do ivai,1,119.95,0.0
+city,South,RS,fortaleza dos valos,1,119.95,0.0
+city,Southeast,MG,santo hipolito,1,119.88,0.0
+city,Southeast,MG,olhos dagua,1,119.84,0.0
+city,Northeast,RN,janduis,1,119.38,0.0
+city,Northeast,BA,elisio medrado,2,118.75,0.0
+city,South,PR,douradina,1,118.65,0.0
+city,Northeast,CE,assare,1,118.26,0.0
+city,Northeast,BA,barrocas,1,118.26,0.0
+city,Southeast,SP,coronel macedo,2,118.25,0.0
+city,Northeast,SE,nossa senhora de lourdes,1,118.1,0.0
+city,Southeast,SP,sao pedro do turvo,2,117.9,0.0
+city,Southeast,SP,nova guataporanga,1,117.76,0.0
+city,Central-West,GO,itaguaru,2,117.66,0.0
+city,Central-West,GO,turvania,2,117.35,0.0
+city,South,PR,vila nova,2,117.19,0.0
+city,North,TO,peixe,1,117.16,0.0
+city,Northeast,BA,retirolandia,1,117.0,0.0
+city,South,RS,aguas claras,1,116.96,0.0
+city,Southeast,SP,paulistania,1,116.94,0.0
+city,Southeast,MG,vermelho,1,116.79,0.0
+city,South,RS,monte belo do sul,1,116.74,0.0
+city,South,SC,sao bonifacio,1,116.46,0.0
+city,Northeast,BA,planalto,1,116.45,0.0
+city,Northeast,BA,governador mangabeira,1,116.26,0.0
+city,South,RS,sao pedro do butia,1,116.19,0.0
+city,Northeast,MA,sao joao do paraiso,1,115.92,0.0
+city,Northeast,RN,frutuoso gomes,1,115.87,0.0
+city,Southeast,RJ,sao jose do ribeirao,1,115.84,0.0
+city,South,RS,santana da boa vista,2,115.8,0.0
+city,Northeast,MA,santa luzia do parua,1,115.78,0.0
+city,North,PA,aurora do para,1,115.46,0.0
+city,Southeast,SP,santa clara doeste,1,115.44,0.0
+city,South,RS,santa maria do herval,1,115.44,0.0
+city,Southeast,MG,bonito de minas,1,115.44,0.0
+city,Southeast,MG,sao francisco de paula,2,115.42,0.0
+city,Northeast,SE,campo do brito,1,114.89,0.0
+city,Southeast,MG,quatituba,1,114.85,0.0
+city,Central-West,MT,ipiranga do norte,1,114.83,0.0
+city,Northeast,PE,nazare da mata,1,114.56,0.0
+city,Central-West,MT,figueiropolis doeste,2,114.42,0.0
+city,Northeast,AL,novo lino,1,114.26,0.0
+city,Southeast,MG,ouro verde de minas,2,114.19,0.0
+city,Central-West,GO,itaguacu,2,114.1,0.0
+city,Northeast,BA,cristopolis,2,113.95,0.0
+city,North,TO,almas,1,113.56,0.0
+city,Northeast,SE,aquidaba,1,113.55,0.0
+city,Southeast,MG,materlandia,2,113.46,0.0
+city,North,TO,praia norte,1,113.35,0.0
+city,Southeast,MG,palmopolis,1,113.2,0.0
+city,Central-West,GO,goiandira,1,113.13,0.0
+city,Northeast,PB,jerico,1,113.08,0.0
+city,Central-West,GO,aragoiania,1,112.9,0.0
+city,Southeast,MG,arapua,1,112.77,0.0
+city,Southeast,SP,piquerobi,1,112.45,0.0
+city,Northeast,PI,inhuma,1,112.35,0.0
+city,Southeast,SP,rubineia,1,112.2,0.0
+city,South,RS,sinimbu,2,112.11,0.0
+city,Southeast,SP,novais,1,111.99,0.0
+city,South,RS,eugenio de castro,1,111.76,0.0
+city,Southeast,SP,aramina,1,111.61,0.0
+city,Central-West,MS,deodapolis,2,111.21,0.0
+city,Central-West,MS,caracol,1,111.1,0.0
+city,Southeast,ES,vargem grande do soturno,1,111.02,0.0
+city,Northeast,AL,coite do noia,1,111.01,0.0
+city,Northeast,BA,piripa,2,110.84,0.0
+city,Central-West,MS,jaraguari,2,110.52,0.0
+city,Northeast,AL,passo de camaragibe,1,110.28,0.0
+city,Northeast,BA,andarai,1,109.5,0.0
+city,Southeast,MG,ingai,1,109.38,0.0
+city,Southeast,MG,vila pereira,1,109.21,0.0
+city,Northeast,MA,joselandia,1,109.18,0.0
+city,Southeast,MG,juvenilia,2,109.1,0.0
+city,Northeast,PE,cha de alegria,1,108.95,0.0
+city,North,RO,cacaulandia,1,108.73,0.0
+city,Southeast,MG,lamim,1,108.63,0.0
+city,Northeast,BA,varzea nova,1,108.53,0.0
+city,Southeast,SP,serra azul,1,108.52,0.0
+city,Southeast,MG,bias fortes,2,108.48,0.0
+city,Southeast,MG,bras pires,2,108.02,0.0
+city,Northeast,PE,sao joaquim do monte,1,107.95,0.0
+city,South,PR,marilena,1,107.87,0.0
+city,South,PR,bom sucesso,1,107.78,0.0
+city,Southeast,ES,atilio vivacqua,1,107.78,0.0
+city,Central-West,MS,bandeirantes,1,107.78,0.0
+city,South,PR,guapirama,1,107.78,0.0
+city,Southeast,ES,santa leopoldina,1,107.78,0.0
+city,Southeast,MG,fonseca,1,107.53,0.0
+city,Northeast,PI,lagoa de sao francisco,1,107.02,0.0
+city,Southeast,SP,monte castelo,1,106.89,0.0
+city,South,PR,coronel domingos soares,1,106.87,0.0
+city,South,RS,general camara,1,106.87,0.0
+city,South,RS,vanini,1,106.87,0.0
+city,Northeast,RN,messias targino,1,106.85,0.0
+city,South,RS,aratiba,1,106.49,0.0
+city,Northeast,PI,lagoa do piaui,1,106.38,0.0
+city,Northeast,MA,matoes,1,106.3,0.0
+city,Northeast,CE,itapiuna,2,106.24,0.0
+city,Central-West,MS,coronel sapucaia,1,106.23,0.0
+city,Southeast,SP,redencao da serra,1,106.23,0.0
+city,Southeast,MG,entre folhas,1,106.07,0.0
+city,Southeast,MG,vitorinos,1,105.37,0.0
+city,Central-West,GO,britania,1,105.37,0.0
+city,South,PR,campo bonito,1,105.3,0.0
+city,Southeast,MG,braunas,1,105.28,0.0
+city,Southeast,MG,ilicinea,1,105.28,0.0
+city,Central-West,GO,jaupaci,1,105.28,0.0
+city,South,RS,pedras altas,1,105.28,0.0
+city,Southeast,MG,estrela do sul,1,105.28,0.0
+city,Southeast,RJ,penedo,1,105.28,0.0
+city,Northeast,BA,santa brigida,1,104.73,0.0
+city,South,PR,contenda,1,104.61,0.0
+city,South,SC,aguas mornas,1,104.52,0.0
+city,South,PR,perola independente,1,104.46,0.0
+city,Southeast,MG,taparuba,1,104.37,0.0
+city,North,AC,porto acre,1,104.35,0.0
+city,Northeast,BA,muquem do sao francisco,2,104.21,0.0
+city,South,RS,santo antonio do palma,2,104.09,0.0
+city,Southeast,ES,novo brasil,1,103.75,0.0
+city,South,PR,engenheiro beltrao,2,103.36,0.0
+city,Southeast,MG,monte formoso,2,103.19,0.0
+city,Northeast,BA,cotegipe,1,103.15,0.0
+city,South,RS,guarani das missoes,2,102.94,0.0
+city,Southeast,SP,buritizal,2,102.88,0.0
+city,South,RS,dezesseis de novembro,1,102.75,0.0
+city,South,RS,rio dos indios,1,102.75,0.0
+city,South,RS,sao jose do inhacora,1,102.7,0.0
+city,South,PR,rancho alegre,1,102.66,0.0
+city,South,RS,senador salgado filho,1,102.49,0.0
+city,Northeast,BA,adustina,1,102.27,0.0
+city,Southeast,SP,riversul,1,102.03,0.0
+city,Northeast,RN,angicos,1,101.77,0.0
+city,Northeast,BA,castro alves,2,101.76,0.0
+city,Southeast,SP,vargem,2,101.5,0.0
+city,South,RS,vila nova do sul,1,101.34,0.0
+city,Southeast,MG,sapucaia,1,101.25,0.0
+city,Northeast,AL,maribondo,1,100.97,0.0
+city,Northeast,SE,ribeiropolis,1,100.77,0.0
+city,Northeast,RN,pedra preta,1,100.75,0.0
+city,Northeast,MA,santa quiteria do maranhao,1,100.75,0.0
+city,Southeast,SP,espigao,2,100.52,0.0
+city,South,PR,guairaca,1,100.44,0.0
+city,South,PR,nova esperanca do sudoeste,1,100.33,0.0
+city,Southeast,MG,major porto,1,100.33,0.0
+city,Northeast,CE,itarema,1,99.95,0.0
+city,Northeast,CE,caridade,1,99.9,0.0
+city,Southeast,MG,coronel pacheco,1,99.9,0.0
+city,South,SC,paraiso,1,99.65,0.0
+city,South,PR,querencia do norte,1,99.43,0.0
+city,Northeast,MA,goncalves dias,1,99.25,0.0
+city,Northeast,BA,filadelfia,1,99.16,0.0
+city,South,RS,barao do triunfo,1,99.14,0.0
+city,Northeast,RN,pedro velho,1,99.11,0.0
+city,Northeast,BA,carnaiba do sertao,1,99.1,0.0
+city,Southeast,MG,capitao eneas,1,98.84,0.0
+city,South,SC,coronel freitas,1,98.65,0.0
+city,North,TO,arapoema,1,98.57,0.0
+city,Southeast,ES,ponto belo,1,98.56,0.0
+city,Southeast,MG,brasilandia de minas,1,98.49,0.0
+city,Central-West,GO,ouro verde de goias,1,98.23,0.0
+city,Southeast,MG,ewbank da camara,1,98.16,0.0
+city,South,RS,tres forquilhas,1,98.13,0.0
+city,Northeast,RN,antonio martins,1,97.67,0.0
+city,Southeast,SP,rincao,1,97.63,0.0
+city,Northeast,BA,anage,1,97.38,0.0
+city,Southeast,RJ,passa tres,2,97.37,0.0
+city,Northeast,PB,pilar,1,96.95,0.0
+city,Central-West,GO,teresina de goias,1,96.8,0.0
+city,Southeast,RJ,santa rita da floresta,1,96.8,0.0
+city,South,SC,monte castelo,1,96.65,0.0
+city,South,PR,pirapo,1,96.29,0.0
+city,Southeast,MG,olaria,1,96.22,0.0
+city,Southeast,MG,campo azul,1,96.22,0.0
+city,Southeast,MG,rio doce,1,96.2,0.0
+city,Southeast,SP,ubirajara,1,96.09,0.0
+city,Southeast,MG,pedra do indaia,1,96.08,0.0
+city,Southeast,MG,itutinga,1,96.01,0.0
+city,Northeast,PB,pedra branca,1,95.84,0.0
+city,Northeast,BA,aracatu,1,95.76,0.0
+city,South,RS,ipiranga,1,95.74,0.0
+city,Northeast,BA,boquira,1,95.67,0.0
+city,North,TO,fatima,1,95.64,0.0
+city,South,PR,perobal,1,95.31,0.0
+city,Southeast,SP,santa salete,1,95.0,0.0
+city,North,PA,igarape-acu,1,94.76,0.0
+city,Central-West,GO,divinopolis de goias,1,94.3,0.0
+city,Southeast,MG,alagoa,1,93.98,0.0
+city,South,PR,palmeirinha,2,93.8,0.0
+city,South,PR,ilha dos valadares,1,93.59,0.0
+city,Southeast,SP,iaras,1,93.57,0.0
+city,South,RS,taquarucu do sul,1,93.29,0.0
+city,South,PR,porto amazonas,2,93.21,0.0
+city,Southeast,MG,dom cavati,1,93.08,0.0
+city,North,AM,itacoatiara,1,92.98,0.0
+city,South,SC,novo horizonte,1,92.67,0.0
+city,South,PR,mato rico,1,92.65,0.0
+city,Southeast,MG,nacip raydan,1,92.16,0.0
+city,Southeast,MG,campo florido,1,92.02,0.0
+city,Northeast,BA,ibirataia,2,91.72,0.0
+city,Central-West,MS,sonora,2,91.38,0.0
+city,Southeast,MG,sao francisco do gloria,1,91.35,0.0
+city,South,RS,lagoa dos tres cantos,1,91.18,0.0
+city,Southeast,SP,nantes,1,91.05,0.0
+city,Northeast,SE,riachuelo,1,90.97,0.0
+city,Northeast,PB,santo andre,1,90.9,0.0
+city,Northeast,PB,mae dagua,1,90.89,0.0
+city,Southeast,RJ,macuco,1,90.88,0.0
+city,South,PR,inaja,2,90.3,0.0
+city,Southeast,MG,felixlandia,1,90.28,0.0
+city,Southeast,SP,salmourao,2,90.27,0.0
+city,Southeast,SP,cassia dos coqueiros,1,90.17,0.0
+city,Northeast,PE,alianca,1,89.93,0.0
+city,Southeast,SP,onda verde,1,89.49,0.0
+city,Southeast,MG,glaura,1,89.36,0.0
+city,South,RS,nova padua,1,89.36,0.0
+city,Southeast,MG,frei gaspar,1,89.19,0.0
+city,South,PR,adrianopolis,1,89.17,0.0
+city,Northeast,BA,salobro,1,89.15,0.0
+city,Southeast,SP,suzanapolis,1,88.94,0.0
+city,Southeast,MG,santo antonio do aventureiro,1,88.92,0.0
+city,South,SC,bom retiro,1,88.37,0.0
+city,Northeast,CE,pedra branca,2,88.15,0.0
+city,Central-West,MT,itanhanga,1,88.05,0.0
+city,Southeast,SP,guatapara,1,87.97,0.0
+city,Northeast,PB,pedra lavrada,1,87.9,0.0
+city,Northeast,PI,alvorada do gurgueia,1,87.85,0.0
+city,Southeast,SP,paranapua,2,87.8,0.0
+city,Northeast,CE,uruburetama,1,87.8,0.0
+city,Northeast,CE,croata,1,87.8,0.0
+city,Northeast,MA,passagem franca,1,87.66,0.0
+city,South,RS,piratini,1,87.64,0.0
+city,Southeast,MG,morro do pilar,1,87.64,0.0
+city,South,PR,matelandia,2,87.6,0.0
+city,Northeast,BA,teodoro sampaio,1,87.28,0.0
+city,Southeast,SP,termas de ibira,1,87.15,0.0
+city,South,RS,sao jorge,1,87.02,0.0
+city,North,TO,buriti do tocantins,1,86.79,0.0
+city,Southeast,MG,ravena,1,86.73,0.0
+city,Northeast,RN,vicosa,1,86.58,0.0
+city,Southeast,RJ,valao do barro,1,86.54,0.0
+city,Northeast,BA,ibipeba,1,86.39,0.0
+city,Central-West,MS,anaurilandia,1,86.24,0.0
+city,South,PR,florida,1,86.15,0.0
+city,South,PR,vila reis,1,86.15,0.0
+city,South,PR,formosa do oeste,1,86.15,0.0
+city,North,PA,jacareacanga,1,86.04,0.0
+city,Southeast,MG,cascalho rico,1,85.92,0.0
+city,Southeast,ES,laranja da terra,1,85.6,0.0
+city,North,PA,mocajuba,1,85.6,0.0
+city,Southeast,MG,sao thome das letras,2,85.5,0.0
+city,Southeast,MG,moeda,1,85.46,0.0
+city,Central-West,MS,terenos,1,85.26,0.0
+city,Northeast,AL,matriz de camaragibe,1,84.9,0.0
+city,Southeast,SP,pontalinda,2,84.75,0.0
+city,Northeast,RN,bodo,1,84.57,0.0
+city,Central-West,GO,mossamedes,1,84.14,0.0
+city,Northeast,AL,murici,1,84.05,0.0
+city,South,PR,serra dos dourados,1,83.33,0.0
+city,Central-West,MS,anhandui,1,83.23,0.0
+city,Northeast,MA,bela vista do maranhao,1,83.15,0.0
+city,Southeast,SP,planalto,1,83.06,0.0
+city,North,PA,pau darco,1,83.05,0.0
+city,Southeast,MG,sao mateus de minas,1,82.88,0.0
+city,Northeast,BA,dom macedo costa,1,82.83,0.0
+city,Northeast,MA,sao francisco do brejao,1,82.75,0.0
+city,Northeast,RN,lagoa salgada,1,82.72,0.0
+city,Central-West,GO,brazabrantes,2,82.7,0.0
+city,Northeast,CE,taperuaba,1,82.42,0.0
+city,Southeast,MG,bertopolis,1,82.12,0.0
+city,Northeast,BA,salinas da margarida,1,82.12,0.0
+city,South,RS,rainha do mar,1,82.03,0.0
+city,Southeast,MG,paineiras,1,81.98,0.0
+city,Northeast,PB,jacarau,1,81.96,0.0
+city,South,RS,pouso novo,1,81.82,0.0
+city,Southeast,SP,iacri,2,81.62,0.0
+city,Northeast,CE,amontada,1,81.57,0.0
+city,Northeast,MA,humberto de campos,1,81.57,0.0
+city,South,PR,conselheiro mairinck,1,81.55,0.0
+city,Northeast,BA,lamarao,1,81.34,0.0
+city,Northeast,PI,angical do piaui,1,80.92,0.0
+city,Southeast,MG,camacho,1,80.9,0.0
+city,Southeast,MG,rubelita,1,80.88,0.0
+city,North,RO,castanheiras,1,80.8,0.0
+city,South,PR,nossa senhora das gracas,2,80.75,0.0
+city,Northeast,BA,caem,1,80.02,0.0
+city,South,PR,santo inacio,1,79.7,0.0
+city,South,PR,candoi,1,79.5,0.0
+city,South,RS,tapera,1,79.07,0.0
+city,Northeast,MA,rosario,1,79.04,0.0
+city,South,RS,garruchos,1,79.04,0.0
+city,Northeast,RN,sao tome,1,78.84,0.0
+city,Southeast,SP,cipo-guacu,1,78.71,0.0
+city,Northeast,BA,cairu,1,78.64,0.0
+city,Southeast,MG,berilo,1,78.22,0.0
+city,Northeast,CE,lages,1,78.1,0.0
+city,South,SC,galvao,1,78.02,0.0
+city,Southeast,SP,itaoca,1,78.01,0.0
+city,Northeast,BA,jandaira,1,77.98,0.0
+city,Northeast,RN,agua nova,1,77.67,0.0
+city,South,RS,novo machado,1,77.66,0.0
+city,South,RS,cerrito,1,77.57,0.0
+city,Southeast,MG,mesquita,1,77.57,0.0
+city,Southeast,MG,padre paraiso,1,77.57,0.0
+city,South,PR,agua boa,1,77.57,0.0
+city,Southeast,MG,santa rita do itueto,1,77.57,0.0
+city,South,PR,sao miguel do cambui,1,77.57,0.0
+city,Southeast,RJ,itacurussa,1,77.57,0.0
+city,Southeast,MG,pinhotiba,1,77.57,0.0
+city,South,RS,porto lucena,1,77.56,0.0
+city,Southeast,MG,queixada,1,77.29,0.0
+city,Central-West,MT,novo mundo,1,77.13,0.0
+city,Southeast,MG,sao domingos,1,77.06,0.0
+city,Northeast,PE,siriji,1,77.03,0.0
+city,Central-West,MS,angelica,1,76.86,0.0
+city,South,SC,rio rufino,1,76.66,0.0
+city,South,PR,nova america da colina,1,76.65,0.0
+city,Northeast,MA,maranhaozinho,1,76.57,0.0
+city,Northeast,BA,guaratinga,2,76.57,0.0
+city,Southeast,MG,itaguara,2,76.47,0.0
+city,Northeast,BA,aribice,1,76.15,0.0
+city,Northeast,BA,sento se,1,76.08,0.0
+city,Central-West,MS,gloria de dourados,1,76.0,0.0
+city,Northeast,PI,sebastiao leal,1,75.89,0.0
+city,South,RS,nova boa vista,1,75.85,0.0
+city,Northeast,PB,prata,1,75.73,0.0
+city,South,RS,sete de setembro,1,75.73,0.0
+city,Southeast,MG,pavao,1,75.63,0.0
+city,North,PA,juruti,1,75.53,0.0
+city,Southeast,SP,guarapua,1,75.17,0.0
+city,Southeast,ES,praia grande,1,75.08,0.0
+city,Central-West,MS,brasilandia,1,75.07,0.0
+city,Central-West,GO,hidrolandia,1,74.5,0.0
+city,Southeast,SP,pedranopolis,1,74.41,0.0
+city,Southeast,MG,tocos do moji,1,74.36,0.0
+city,Southeast,MG,ponto dos volantes,2,74.3,0.0
+city,South,RS,jacuizinho,1,74.26,0.0
+city,Northeast,RN,vera cruz,1,74.14,0.0
+city,Southeast,SP,corumbatai,2,74.13,0.0
+city,Southeast,SP,piacatu,1,74.13,0.0
+city,Northeast,AL,girau do ponciano,1,74.05,0.0
+city,Southeast,MG,lagoa dos patos,1,74.05,0.0
+city,Northeast,PE,tamandare,1,73.84,0.0
+city,Northeast,BA,condeuba,1,73.83,0.0
+city,Northeast,BA,varzea do poco,1,73.83,0.0
+city,Southeast,ES,sao joao do sobrado,1,73.56,0.0
+city,South,SC,guaraciaba,1,73.38,0.0
+city,Southeast,SP,oleo,1,73.34,0.0
+city,Northeast,BA,cocos,1,73.27,0.0
+city,South,PR,alto sao joao,1,73.25,0.0
+city,Northeast,BA,chorrocho,1,73.18,0.0
+city,South,RS,itaara,1,73.15,0.0
+city,South,PR,alto paraiso,1,73.15,0.0
+city,South,PR,bocaiuva do sul,2,72.7,0.0
+city,Central-West,MT,sao jose do xingu,1,72.52,0.0
+city,Southeast,RJ,bacaxa,1,72.51,0.0
+city,Southeast,MG,dores de guanhaes,1,72.48,0.0
+city,Southeast,SP,anhumas,1,72.42,0.0
+city,Northeast,CE,capistrano,1,72.16,0.0
+city,South,PR,santa cecilia do pavao,1,72.14,0.0
+city,Southeast,RJ,piao,1,72.14,0.0
+city,Southeast,MG,serra do salitre,1,72.05,0.0
+city,Northeast,CE,tabuleiro do norte,1,71.88,0.0
+city,Southeast,SP,jamaica,1,71.85,0.0
+city,Southeast,SP,sarutaia,1,71.82,0.0
+city,Northeast,BA,amargosa,1,71.81,0.0
+city,South,RS,pontao,1,71.79,0.0
+city,South,PR,santana do itarare,1,71.53,0.0
+city,Southeast,MG,cajuri,1,71.53,0.0
+city,South,PR,barra do jacare,1,71.43,0.0
+city,Southeast,SP,populina,1,71.3,0.0
+city,Central-West,MS,porto murtinho,1,71.15,0.0
+city,South,RS,novo cabrais,1,71.15,0.0
+city,Southeast,MG,jaguaracu,1,71.04,0.0
+city,South,PR,campo do tenente,1,71.04,0.0
+city,Southeast,SP,palmares paulista,1,70.93,0.0
+city,Northeast,SE,sao miguel do aleixo,1,70.86,0.0
+city,Southeast,MG,santana de pirapama,1,70.74,0.0
+city,South,SC,presidente nereu,1,70.61,0.0
+city,Southeast,SP,taiacu,1,70.51,0.0
+city,Northeast,CE,itaicaba,1,70.03,0.0
+city,South,PR,juranda,2,69.94,0.0
+city,Southeast,SP,pereiras,1,69.69,0.0
+city,Southeast,MG,canaa,1,69.54,0.0
+city,South,RS,padre gonzales,1,69.54,0.0
+city,Southeast,SP,balbinos,1,69.29,0.0
+city,Northeast,PB,sao bentinho,1,69.15,0.0
+city,Southeast,ES,pacotuba,1,69.14,0.0
+city,Southeast,MG,monsenhor paulo,1,69.12,0.0
+city,Northeast,PB,teixeira,1,69.05,0.0
+city,South,RS,gramado xavier,1,68.97,0.0
+city,Northeast,SE,indiaroba,1,68.8,0.0
+city,Southeast,MG,pratapolis,1,68.62,0.0
+city,South,PR,santa lucia,1,68.49,0.0
+city,South,PR,santa margarida,1,68.13,0.0
+city,South,RS,selbach,1,68.13,0.0
+city,South,RS,cerro grande,1,68.02,0.0
+city,South,PR,fenix,1,67.92,0.0
+city,South,SC,rio dos cedros,1,67.82,0.0
+city,South,PR,doce grande,1,67.72,0.0
+city,South,RS,tiradentes do sul,1,67.7,0.0
+city,Central-West,GO,nova roma,1,67.59,0.0
+city,South,SC,calmon,1,67.5,0.0
+city,Central-West,MT,ribeirao cascalheira,1,67.39,0.0
+city,Southeast,ES,araguaia,1,67.23,0.0
+city,South,PR,vitorino,1,67.23,0.0
+city,South,RS,nova brescia,1,66.82,0.0
+city,Northeast,BA,baixa grande,1,66.24,0.0
+city,Central-West,MS,ribas do rio pardo,1,66.13,0.0
+city,Central-West,GO,nova america,1,66.11,0.0
+city,Southeast,MG,amparo da serra,1,66.06,0.0
+city,North,PA,ourem,1,66.05,0.0
+city,Southeast,ES,quilometro 14 do mutum,1,66.01,0.0
+city,South,SC,santa terezinha,1,66.01,0.0
+city,Northeast,BA,ibiajara,1,65.8,0.0
+city,Northeast,BA,mansidao,1,65.79,0.0
+city,South,SC,lebon regis,1,65.67,0.0
+city,Northeast,PE,terezinha,1,65.62,0.0
+city,South,RS,machadinho,1,65.6,0.0
+city,Northeast,BA,varzedo,1,65.53,0.0
+city,Northeast,PE,cupira,1,65.53,0.0
+city,South,RS,jacutinga,1,65.5,0.0
+city,Southeast,SP,bandeirantes doeste,1,65.09,0.0
+city,North,PA,igarape-miri,1,65.03,0.0
+city,Southeast,MG,patis,1,65.0,0.0
+city,Southeast,RJ,pureza,1,65.0,0.0
+city,South,RS,pinto bandeira,1,65.0,0.0
+city,South,RS,almirante tamandare do sul,1,65.0,0.0
+city,Northeast,PE,sao benedito do sul,1,64.83,0.0
+city,South,PR,campo magro,1,64.76,0.0
+city,Northeast,PI,marcos parente,1,64.5,0.0
+city,South,RS,unistalda,1,64.47,0.0
+city,Southeast,MG,caparao,1,64.42,0.0
+city,Southeast,MG,miradouro,1,64.42,0.0
+city,North,PA,ulianopolis,1,64.4,0.0
+city,Northeast,MA,arame,1,64.14,0.0
+city,North,AP,porto grande,1,64.14,0.0
+city,Southeast,SP,elisiario,1,64.1,0.0
+city,South,PR,foz do jordao,1,64.1,0.0
+city,Southeast,MG,baguari,1,64.1,0.0
+city,South,RS,vitoria das missoes,1,64.0,0.0
+city,Central-West,GO,damianopolis,2,63.84,0.0
+city,Northeast,AL,traipu,1,63.79,0.0
+city,South,SC,iomere,1,63.79,0.0
+city,South,PR,guaraquecaba,1,63.37,0.0
+city,South,PR,sao sebastiao da amoreira,1,63.23,0.0
+city,Northeast,CE,pindoretama,1,63.18,0.0
+city,North,RO,mutum parana,1,62.57,0.0
+city,Northeast,SE,santo amaro das brotas,1,62.28,0.0
+city,Northeast,RN,sao rafael,1,62.28,0.0
+city,Central-West,GO,formoso,1,61.93,0.0
+city,Northeast,BA,ribeira do amparo,1,61.79,0.0
+city,Southeast,MG,ubai,1,61.73,0.0
+city,Northeast,CE,lagoa do mato,1,61.62,0.0
+city,Central-West,GO,crominia,1,61.0,0.0
+city,North,TO,novo jardim,1,60.98,0.0
+city,South,SC,agrolandia,1,60.91,0.0
+city,Southeast,SP,tuiuti,1,60.85,0.0
+city,Northeast,RN,florania,1,60.34,0.0
+city,South,RS,segredo,1,60.14,0.0
+city,Northeast,MA,bom jardim,1,60.05,0.0
+city,Northeast,BA,belmonte,1,60.05,0.0
+city,Central-West,MT,nobres,1,59.91,0.0
+city,Northeast,MA,peri mirim,1,59.83,0.0
+city,South,SC,ponte alta do norte,1,59.46,0.0
+city,Northeast,MA,sitio novo,1,59.14,0.0
+city,Southeast,SP,queiroz,1,58.9,0.0
+city,Central-West,GO,mutunopolis,1,58.56,0.0
+city,South,RS,mampituba,1,58.55,0.0
+city,South,RS,alegria,1,58.28,0.0
+city,Southeast,MG,desterro de entre rios,1,58.28,0.0
+city,Northeast,SE,malhador,1,58.14,0.0
+city,Southeast,MG,cedro do abaete,1,58.09,0.0
+city,North,PA,santo antonio do taua,1,57.74,0.0
+city,Southeast,MG,corrego danta,1,57.62,0.0
+city,Southeast,SP,florinia,1,57.61,0.0
+city,South,RS,barao,1,57.53,0.0
+city,Southeast,ES,ibiracu,1,57.5,0.0
+city,Southeast,MG,natercia,1,57.5,0.0
+city,Northeast,CE,mauriti,1,57.28,0.0
+city,North,TO,nova olinda,1,56.79,0.0
+city,Northeast,BA,igapora,1,56.78,0.0
+city,Northeast,BA,capela do alto alegre,1,56.78,0.0
+city,Northeast,BA,itaju do colonia,1,56.69,0.0
+city,Southeast,SP,agisse,1,56.37,0.0
+city,Northeast,AL,vicosa,1,56.05,0.0
+city,South,RS,itatiba do sul,1,55.95,0.0
+city,South,SC,macieira,1,55.56,0.0
+city,Southeast,MG,conceicao da ibitipoca,1,55.09,0.0
+city,Southeast,MG,coimbra,1,55.01,0.0
+city,Central-West,MS,inocencia,1,54.82,0.0
+city,Northeast,BA,santana do sobrado,1,54.82,0.0
+city,Northeast,CE,coreau,1,54.81,0.0
+city,Northeast,AL,sao bras,1,54.74,0.0
+city,North,TO,combinado,1,54.63,0.0
+city,Northeast,CE,ibicuitinga,1,54.62,0.0
+city,Southeast,MG,virginia,1,54.13,0.0
+city,Southeast,MG,acucena,1,54.11,0.0
+city,Northeast,RN,santa maria,1,53.98,0.0
+city,Northeast,PI,caxingo,1,53.84,0.0
+city,Northeast,BA,jussiape,1,53.79,0.0
+city,Central-West,MS,sanga puita,1,53.69,0.0
+city,Central-West,GO,jandaia,1,53.4,0.0
+city,Central-West,MS,paraiso das aguas,1,53.34,0.0
+city,Southeast,RJ,jaguarembe,1,53.31,0.0
+city,Northeast,AL,cacimbinhas,1,53.3,0.0
+city,Southeast,MG,martinesia,1,53.23,0.0
+city,Southeast,MG,joaima,1,53.0,0.0
+city,Northeast,BA,gongogi,1,52.13,0.0
+city,Southeast,MG,vermelho novo,1,52.1,0.0
+city,Northeast,BA,igrapiuna,1,52.05,0.0
+city,South,RS,guabiju,1,51.83,0.0
+city,Northeast,RN,sao joao do sabugi,1,51.74,0.0
+city,Northeast,BA,antonio goncalves,1,51.69,0.0
+city,South,PR,alexandra,1,51.31,0.0
+city,Central-West,MT,apiacas,1,51.12,0.0
+city,Southeast,MG,divino das laranjeiras,1,51.1,0.0
+city,South,PR,boa esperanca do iguacu,1,51.0,0.0
+city,Northeast,BA,acajutiba,1,50.95,0.0
+city,Northeast,PI,simplicio mendes,1,50.75,0.0
+city,Central-West,GO,morro agudo de goias,1,50.68,0.0
+city,North,PA,tome-acu,1,50.62,0.0
+city,Southeast,MG,santa maria do salto,1,50.48,0.0
+city,South,RS,monte bonito,1,50.34,0.0
+city,Southeast,MG,miravania,1,50.1,0.0
+city,Northeast,MA,amapa do maranhao,1,50.05,0.0
+city,Northeast,PE,vertentes,1,49.62,0.0
+city,South,RS,picada cafe,1,49.6,0.0
+city,Southeast,RJ,jamapara,1,49.6,0.0
+city,South,SC,arvoredo,1,49.4,0.0
+city,South,SC,santa cruz do timbo,1,49.31,0.0
+city,South,RS,coqueiros do sul,1,49.06,0.0
+city,Central-West,MS,prudencio thomaz,1,49.04,0.0
+city,Northeast,RN,jardim de piranhas,1,48.74,0.0
+city,Southeast,SP,gabriel monteiro,1,48.72,0.0
+city,Northeast,BA,cabaceiras do paraguacu,1,48.69,0.0
+city,Southeast,MG,indianopolis,1,48.31,0.0
+city,Central-West,GO,buriti alegre,1,48.22,0.0
+city,Central-West,MS,guia lopes da laguna,1,48.22,0.0
+city,Southeast,MG,antonio carlos,1,48.21,0.0
+city,Southeast,RJ,bemposta,1,48.11,0.0
+city,South,RS,colinas,1,48.09,0.0
+city,South,SC,dona emma,1,47.81,0.0
+city,South,RS,paraiso do sul,1,47.29,0.0
+city,South,PR,rosario do ivai,1,47.23,0.0
+city,Southeast,MG,guinda,1,47.11,0.0
+city,Central-West,MT,vila bela da santissima trindade,1,46.78,0.0
+city,Southeast,RJ,barao de juparana,1,46.72,0.0
+city,Northeast,PI,varzea grande,1,46.65,0.0
+city,Southeast,SP,parisi,1,46.34,0.0
+city,Central-West,GO,novo planalto,1,46.29,0.0
+city,Northeast,BA,pirai do norte,1,46.28,0.0
+city,Southeast,SP,turmalina,1,46.23,0.0
+city,South,RS,boa vista do sul,1,46.22,0.0
+city,South,PR,corumbatai do sul,1,45.78,0.0
+city,Northeast,PI,rio grande do piaui,1,45.7,0.0
+city,North,TO,pium,1,45.63,0.0
+city,Southeast,MG,centralina,1,45.09,0.0
+city,Southeast,MG,santa rita de jacutinga,1,45.09,0.0
+city,Southeast,RJ,corrego do ouro,1,45.01,0.0
+city,South,PR,sulina,1,45.0,0.0
+city,South,RS,marques de souza,1,45.0,0.0
+city,Northeast,AL,santa luzia do norte,1,44.95,0.0
+city,Northeast,BA,sao felix,1,44.69,0.0
+city,South,PR,jussara,1,44.59,0.0
+city,Southeast,MG,senhora dos remedios,1,44.51,0.0
+city,Southeast,MG,pescador,1,44.42,0.0
+city,Central-West,MS,eldorado,1,44.13,0.0
+city,South,PR,icaraima,1,43.95,0.0
+city,Northeast,CE,vicosa do ceara,1,43.79,0.0
+city,Northeast,CE,pires ferreira,1,43.79,0.0
+city,Southeast,ES,angelo frechiani,1,43.6,0.0
+city,Central-West,GO,flores de goias,1,43.22,0.0
+city,Southeast,MG,minduri,1,43.18,0.0
+city,North,PA,medicilandia,1,43.14,0.0
+city,South,PR,laranjal,1,43.09,0.0
+city,Central-West,GO,turvelandia,1,42.4,0.0
+city,Southeast,MG,silveira carvalho,1,42.27,0.0
+city,Northeast,CE,porteiras,1,42.18,0.0
+city,Central-West,MT,nova guarita,1,41.79,0.0
+city,Northeast,PI,francisco santos,1,41.7,0.0
+city,Northeast,BA,satiro dias,1,41.29,0.0
+city,Northeast,RN,monte alegre,1,41.14,0.0
+city,Southeast,MG,morro vermelho,1,40.99,0.0
+city,Southeast,SP,fernao,1,40.85,0.0
+city,Northeast,CE,missao velha,1,40.62,0.0
+city,Northeast,PI,demerval lobao,1,40.38,0.0
+city,Northeast,BA,ipecaeta,1,40.19,0.0
+city,South,SC,leoberto leal,1,40.09,0.0
+city,South,SC,uniao do oeste,1,40.09,0.0
+city,Southeast,MG,sobralia,1,40.0,0.0
+city,Northeast,BA,monte santo,1,40.0,0.0
+city,Southeast,SP,boraceia,1,39.96,0.0
+city,Southeast,RJ,vargem alegre,1,39.86,0.0
+city,South,RS,serio,1,39.69,0.0
+city,North,PA,tracuateua,1,39.61,0.0
+city,Southeast,MG,santana do capivari,1,39.52,0.0
+city,Southeast,MG,delfim moreira,1,39.37,0.0
+city,South,RS,sertao santana,1,39.13,0.0
+city,Southeast,RJ,sao sebastiao de campos,1,38.9,0.0
+city,Northeast,PI,nova santa rita,1,38.82,0.0
+city,Southeast,MG,pedra menina,1,38.5,0.0
+city,Southeast,RJ,cambiasca,1,38.09,0.0
+city,Northeast,PI,joaquim pires,1,37.81,0.0
+city,South,RS,pareci novo,1,37.1,0.0
+city,South,RS,vista alegre,1,37.1,0.0
+city,South,RS,vale do sol,1,37.09,0.0
+city,Southeast,RJ,duas barras,1,36.95,0.0
+city,Northeast,BA,nova redencao,1,36.69,0.0
+city,Northeast,BA,joao dourado,1,36.69,0.0
+city,South,RS,faxinalzinho,1,35.95,0.0
+city,Southeast,MG,desterro do melo,1,35.86,0.0
+city,Southeast,MG,cuite velho,1,35.09,0.0
+city,South,SC,presidente castello branco,1,35.0,0.0
+city,South,RS,pinhal da serra,1,35.0,0.0
+city,Southeast,SP,nova independencia,1,34.86,0.0
+city,Northeast,BA,brejolandia,1,34.78,0.0
+city,Northeast,BA,jacuipe,1,34.78,0.0
+city,Southeast,SP,nova luzitania,1,34.75,0.0
+city,South,SC,caxambu do sul,1,34.6,0.0
+city,South,PR,barracao,1,34.51,0.0
+city,Central-West,GO,jardim abc de goias,1,34.09,0.0
+city,South,PR,balsa nova,1,33.97,0.0
+city,South,RS,uniao da serra,1,33.6,0.0
+city,Central-West,GO,cabeceiras,1,33.13,0.0
+city,Central-West,GO,montividiu do norte,1,33.09,0.0
+city,Southeast,MG,uruana de minas,1,33.0,0.0
+city,South,RS,travesseiro,1,32.71,0.0
+city,Southeast,MG,estevao de araujo,1,32.43,0.0
+city,South,PR,tupassi,1,32.38,0.0
+city,South,RS,agudo,1,32.1,0.0
+city,South,RS,presidente lucena,1,32.09,0.0
+city,Central-West,GO,trombas,1,32.07,0.0
+city,Southeast,SP,aparecida doeste,1,31.75,0.0
+city,Southeast,MG,tuparece,1,31.73,0.0
+city,Central-West,GO,cezarina,1,31.72,0.0
+city,Southeast,RJ,boa ventura,1,31.69,0.0
+city,North,PA,senador jose porfirio,1,31.63,0.0
+city,South,PR,leopolis,1,31.38,0.0
+city,South,RS,liberato salzano,1,31.22,0.0
+city,South,RS,vicente dutra,1,31.22,0.0
+city,Southeast,MG,sao bento abade,1,31.1,0.0
+city,Southeast,MG,crucilandia,1,30.47,0.0
+city,Northeast,BA,canapolis,1,30.44,0.0
+city,South,RS,estrela velha,1,30.0,0.0
+city,Southeast,MG,estiva,1,29.13,0.0
+city,Southeast,MG,ponto do marambaia,1,28.8,0.0
+city,South,PR,reserva do iguacu,1,28.52,0.0
+city,Southeast,SP,ibitiuva,1,27.69,0.0
+city,South,PR,ouro verde do oeste,1,27.38,0.0
+city,Southeast,MG,nova resende,1,26.09,0.0
+city,South,PR,planaltina do parana,1,25.85,0.0
+city,Central-West,GO,bom jardim de goias,1,25.1,0.0
+city,Northeast,BA,erico cardoso,1,24.88,0.0
+city,Southeast,MG,santo antonio do rio abaixo,1,24.23,0.0
+city,Southeast,RJ,santa maria,1,24.11,0.0
+city,South,PR,tamboara,1,24.09,0.0
+city,Southeast,MG,jenipapo de minas,1,22.58,0.0
+city,South,RS,polo petroquimico de triunfo,1,20.7,0.0
+city,South,PR,sabaudia,1,20.42,0.0

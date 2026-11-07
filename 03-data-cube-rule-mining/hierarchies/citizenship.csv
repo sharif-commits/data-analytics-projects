@@ -1,8 +1,6 @@
-value,parent
-Native- Born in the United States,Native born
-Native- Born in Puerto Rico or U S Outlying,Native born
-Native- Born abroad of American Parent(s),Native born
+level_0,level_1
+Native- Born in the United States,Native
+Native- Born in Puerto Rico or U S Outlying,Native
+Native- Born abroad of American Parent(s),Native
 Foreign born- U S citizen by naturalization,Foreign born
 Foreign born- Not a citizen of U S,Foreign born
-Native born,ANY
-Foreign born,ANY

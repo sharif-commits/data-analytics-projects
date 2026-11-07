@@ -1,0 +1,11 @@
+lead_origin,deals_won,active_sellers,revenue,revenue_per_active_seller,pct_of_funnel_revenue,pct_of_all_revenue
+unknown,193,85,240160.89,2825.42,30.96,1.52
+organic_search,271,113,235956.58,2088.11,30.41,1.49
+paid_search,195,101,182000.06,1801.98,23.46,1.15
+social,75,31,51363.47,1656.89,6.62,0.32
+direct_traffic,56,31,27549.8,888.7,3.55,0.17
+referral,24,9,19687.84,2187.54,2.54,0.12
+email,15,6,9122.41,1520.4,1.18,0.06
+other,4,2,8766.63,4383.31,1.13,0.06
+display,6,2,1207.95,603.98,0.16,0.01
+not_in_funnel,,2715,15067737.61,5549.81,,95.1

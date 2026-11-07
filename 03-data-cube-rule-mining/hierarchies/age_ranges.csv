@@ -1,0 +1,9 @@
+low,high,level_1,level_2,level_3
+0,17,0-17,Under 18,Under 35
+18,24,18-24,Young adult,Under 35
+25,34,25-34,Young adult,Under 35
+35,44,35-44,Prime working age,35-64
+45,54,45-54,Prime working age,35-64
+55,64,55-64,Older worker,35-64
+65,74,65-74,Senior,65 and over
+75,90,75-90,Senior,65 and over

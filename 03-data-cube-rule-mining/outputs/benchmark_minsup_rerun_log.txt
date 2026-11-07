@@ -1,0 +1,11 @@
+{'version': 'memory', 'minsup': 1000, 'memory_bytes': '', 'cells': 143132, 'median_s': 26.746, 'min_s': 25.536, 'max_s': 28.227, 'bytes_read': 0, 'bytes_written': 0, 'disk_partitions': 0}
+{'version': 'disk', 'minsup': 1000, 'memory_bytes': 1048576, 'cells': 143132, 'median_s': 118.661, 'min_s': 117.665, 'max_s': 121.654, 'bytes_read': 14837775740, 'bytes_written': 7348359540, 'disk_partitions': 7817}
+{'version': 'memory', 'minsup': 2000, 'memory_bytes': '', 'cells': 67215, 'median_s': 20.131, 'min_s': 19.929, 'max_s': 20.227, 'bytes_read': 0, 'bytes_written': 0, 'disk_partitions': 0}
+{'version': 'disk', 'minsup': 2000, 'memory_bytes': 1048576, 'cells': 67215, 'median_s': 99.024, 'min_s': 98.95, 'max_s': 100.6, 'bytes_read': 14703803640, 'bytes_written': 7215035320, 'disk_partitions': 7817}
+{'version': 'memory', 'minsup': 5000, 'memory_bytes': '', 'cells': 22177, 'median_s': 14.064, 'min_s': 13.867, 'max_s': 14.087, 'bytes_read': 0, 'bytes_written': 0, 'disk_partitions': 0}
+{'version': 'disk', 'minsup': 5000, 'memory_bytes': 1048576, 'cells': 22177, 'median_s': 81.224, 'min_s': 80.405, 'max_s': 82.317, 'bytes_read': 14432181140, 'bytes_written': 6956734700, 'disk_partitions': 7817}
+{'version': 'memory', 'minsup': 10000, 'memory_bytes': '', 'cells': 10894, 'median_s': 10.921, 'min_s': 10.802, 'max_s': 10.983, 'bytes_read': 0, 'bytes_written': 0, 'disk_partitions': 0}
+{'version': 'disk', 'minsup': 10000, 'memory_bytes': 1048576, 'cells': 10894, 'median_s': 68.299, 'min_s': 66.369, 'max_s': 71.09, 'bytes_read': 13762081260, 'bytes_written': 6560383380, 'disk_partitions': 7816}
+{'version': 'memory', 'minsup': 20000, 'memory_bytes': '', 'cells': 7360, 'median_s': 8.985, 'min_s': 8.916, 'max_s': 9.202, 'bytes_read': 0, 'bytes_written': 0, 'disk_partitions': 0}
+{'version': 'disk', 'minsup': 20000, 'memory_bytes': 1048576, 'cells': 7360, 'median_s': 55.312, 'min_s': 55.108, 'max_s': 58.525, 'bytes_read': 12443510160, 'bytes_written': 5893729520, 'disk_partitions': 7360}
+minsup finished in 1521 s

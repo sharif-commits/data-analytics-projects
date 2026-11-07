@@ -1,0 +1,7 @@
+class,orders,gap,orders_with_installments
+items but no payment,1,-143.46,0
+matches within 5 centavos,98405,-0.63,50597
+paid less than item revenue,19,-198.63,8
+paid more than item revenue,241,3069.65,235
+payment but no items,775,162591.95,330
+,99441,165318.88,51170

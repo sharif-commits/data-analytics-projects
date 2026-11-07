@@ -1,0 +1,8 @@
+order_status,orders,revenue,pct_of_total
+delivered,96478,15419773.75,97.33
+shipped,1106,177129.34,1.12
+canceled,461,105885.72,0.67
+processing,301,69394.11,0.44
+invoiced,312,68988.75,0.44
+unavailable,6,2140.49,0.01
+approved,2,241.08,0.0

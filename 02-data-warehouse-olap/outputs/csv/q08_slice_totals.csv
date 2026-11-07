@@ -1,0 +1,9 @@
+grouping_id,grouped_by,cells,slice_total,matches_grand_total
+0,"region, category, year",718,15843553.24,True
+1,"region, category",348,15843553.24,True
+2,"region, year",15,15843553.24,True
+3,region,5,15843553.24,True
+4,"category, year",178,15843553.24,True
+5,category,74,15843553.24,True
+6,year,3,15843553.24,True
+7,grand total,1,15843553.24,True

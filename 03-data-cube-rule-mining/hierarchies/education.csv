@@ -1,24 +1,18 @@
-value,parent
-Less than 1st grade,No HS diploma
-1st 2nd 3rd or 4th grade,No HS diploma
-5th or 6th grade,No HS diploma
-7th and 8th grade,No HS diploma
-9th grade,No HS diploma
-10th grade,No HS diploma
-11th grade,No HS diploma
-12th grade no diploma,No HS diploma
-High school graduate,HS graduate
-Some college but no degree,Some college/Associates
-Associates degree-academic program,Some college/Associates
-Associates degree-occup /vocational,Some college/Associates
-Bachelors degree(BA AB BS),Bachelors
-Masters degree(MA MS MEng MEd MSW MBA),Graduate/Professional
-Prof school degree (MD DDS DVM LLB JD),Graduate/Professional
-Doctorate degree(PhD EdD),Graduate/Professional
-Children,Children/NA
-No HS diploma,ANY
-HS graduate,ANY
-Some college/Associates,ANY
-Bachelors,ANY
-Graduate/Professional,ANY
-Children/NA,ANY
+level_0,level_1,level_2
+Children,Below high school,No degree
+Less than 1st grade,Below high school,No degree
+1st 2nd 3rd or 4th grade,Below high school,No degree
+5th or 6th grade,Below high school,No degree
+7th and 8th grade,Below high school,No degree
+9th grade,Below high school,No degree
+10th grade,Below high school,No degree
+11th grade,Below high school,No degree
+12th grade no diploma,Below high school,No degree
+High school graduate,High school,No degree
+Some college but no degree,Some college,No degree
+Associates degree-academic program,Associates,Degree
+Associates degree-occup /vocational,Associates,Degree
+Bachelors degree(BA AB BS),Bachelors,Degree
+Masters degree(MA MS MEng MEd MSW MBA),Postgraduate,Degree
+Prof school degree (MD DDS DVM LLB JD),Postgraduate,Degree
+Doctorate degree(PhD EdD),Postgraduate,Degree

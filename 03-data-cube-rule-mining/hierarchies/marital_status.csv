@@ -1,12 +1,8 @@
-value,parent
-Married-civilian spouse present,Married
-Married-A F spouse present,Married
-Married-spouse absent,Married
-Divorced,Previously married
-Separated,Previously married
-Widowed,Previously married
-Never married,Never married
-Married,Ever married
-Previously married,Ever married
-Never married,ANY
-Ever married,ANY
+level_0,level_1,level_2
+Married-civilian spouse present,Married,Ever married
+Married-A F spouse present,Married,Ever married
+Married-spouse absent,Married,Ever married
+Separated,Previously married,Ever married
+Divorced,Previously married,Ever married
+Widowed,Previously married,Ever married
+Never married,Never married,Never married

@@ -1,0 +1,80 @@
+age,education,class_of_worker,marital_status,sex,weeks_worked_in_year,count,t_weight
+35-64,Degree,Employed,Ever married,Male,Worked,7082,38.14088754847049
+35-64,No degree,Employed,Ever married,Male,Worked,3447,18.56419646704007
+35-64,Degree,Employed,Ever married,Female,Worked,1772,9.54330030159414
+Under 35,Degree,Employed,Ever married,Male,Worked,1018,5.482550624730719
+35-64,No degree,Employed,Ever married,Female,Worked,653,3.516803102111159
+Under 35,No degree,Employed,Ever married,Male,Worked,554,2.9836277466609222
+35-64,Degree,Employed,Never married,Male,Worked,397,2.13808703145196
+Under 35,Degree,Employed,Ever married,Female,Worked,371,1.9980611805256354
+65 and over,Degree,Employed,Ever married,Male,Worked,341,1.8364928909952607
+Under 35,Degree,Employed,Never married,Male,Worked,310,1.6695389918138734
+35-64,Degree,Employed,Never married,Female,Worked,269,1.448728996122361
+65 and over,Degree,Not employed,Ever married,Male,Did not work,229,1.2333046100818612
+65 and over,No degree,Employed,Ever married,Male,Worked,203,1.0932787591555364
+Under 35,Degree,Employed,Never married,Female,Worked,174,0.9370960792761741
+65 and over,No degree,Not employed,Ever married,Male,Did not work,166,0.894011202068074
+35-64,Degree,Not employed,Ever married,Male,Worked,159,0.8563119345109866
+Under 35,No degree,Employed,Never married,Male,Worked,158,0.8509263248599741
+35-64,No degree,Employed,Never married,Male,Worked,138,0.7432141318397243
+65 and over,No degree,Not employed,Ever married,Female,Did not work,128,0.6893580353295993
+65 and over,Degree,Not employed,Ever married,Female,Did not work,92,0.4954760878931495
+Under 35,No degree,Employed,Ever married,Female,Worked,87,0.46854803963808705
+35-64,No degree,Not employed,Ever married,Male,Worked,74,0.3985351141749246
+35-64,Degree,Not employed,Ever married,Male,Did not work,64,0.34467901766479964
+35-64,No degree,Not employed,Ever married,Male,Did not work,62,0.3339077983627747
+Under 35,No degree,Employed,Never married,Female,Worked,53,0.2854373115036622
+65 and over,Degree,Employed,Ever married,Female,Worked,49,0.2638948728996122
+65 and over,No degree,Employed,Ever married,Female,Worked,49,0.2638948728996122
+65 and over,Degree,Not employed,Ever married,Male,Worked,48,0.25850926324859974
+35-64,Degree,Not employed,Ever married,Female,Worked,44,0.23696682464454977
+35-64,Degree,Not employed,Ever married,Female,Did not work,42,0.22619560534252478
+35-64,No degree,Employed,Never married,Female,Worked,38,0.2046531667384748
+35-64,No degree,Not employed,Ever married,Female,Did not work,30,0.16156828953037483
+65 and over,No degree,Not employed,Ever married,Male,Worked,29,0.15618267987936235
+35-64,No degree,Not employed,Ever married,Female,Worked,26,0.14002585092632486
+Under 35,Degree,Not employed,Ever married,Male,Worked,21,0.11309780267126239
+65 and over,No degree,Not employed,Never married,Male,Did not work,14,0.07539853511417492
+65 and over,No degree,Not employed,Ever married,Female,Worked,12,0.06462731581214994
+35-64,Degree,Not employed,Never married,Male,Did not work,10,0.05385609651012495
+35-64,Degree,Not employed,Never married,Male,Worked,10,0.05385609651012495
+65 and over,Degree,Not employed,Ever married,Female,Worked,9,0.048470486859112455
+65 and over,Degree,Employed,Never married,Male,Worked,8,0.043084877208099955
+65 and over,No degree,Employed,Never married,Male,Worked,8,0.043084877208099955
+Under 35,Degree,Not employed,Ever married,Female,Worked,8,0.043084877208099955
+65 and over,No degree,Employed,Never married,Female,Worked,7,0.03769926755708746
+35-64,No degree,Not employed,Never married,Male,Did not work,6,0.03231365790607497
+Under 35,No degree,Not employed,Never married,Male,Worked,6,0.03231365790607497
+35-64,Degree,Employed,Ever married,Male,Did not work,5,0.026928048255062474
+35-64,No degree,Not employed,Never married,Male,Worked,5,0.026928048255062474
+65 and over,Degree,Not employed,Never married,Female,Did not work,5,0.026928048255062474
+65 and over,No degree,Not employed,Never married,Female,Did not work,5,0.026928048255062474
+Under 35,Degree,Not employed,Ever married,Female,Did not work,5,0.026928048255062474
+Under 35,Degree,Not employed,Never married,Male,Worked,5,0.026928048255062474
+Under 35,No degree,Not employed,Ever married,Female,Did not work,5,0.026928048255062474
+Under 35,No degree,Not employed,Ever married,Female,Worked,5,0.026928048255062474
+35-64,Degree,Employed,Ever married,Female,Did not work,4,0.021542438604049977
+65 and over,Degree,Employed,Ever married,Male,Did not work,4,0.021542438604049977
+65 and over,Degree,Employed,Never married,Female,Worked,4,0.021542438604049977
+Under 35,Degree,Not employed,Never married,Male,Did not work,4,0.021542438604049977
+35-64,No degree,Employed,Ever married,Male,Did not work,3,0.016156828953037484
+35-64,No degree,Not employed,Never married,Female,Did not work,3,0.016156828953037484
+Under 35,No degree,Not employed,Never married,Male,Did not work,3,0.016156828953037484
+35-64,Degree,Not employed,Never married,Female,Did not work,2,0.010771219302024989
+35-64,Degree,Not employed,Never married,Female,Worked,2,0.010771219302024989
+35-64,No degree,Employed,Ever married,Female,Did not work,2,0.010771219302024989
+65 and over,Degree,Not employed,Never married,Female,Worked,2,0.010771219302024989
+65 and over,Degree,Not employed,Never married,Male,Did not work,2,0.010771219302024989
+Under 35,Degree,Not employed,Never married,Female,Did not work,2,0.010771219302024989
+Under 35,No degree,Employed,Never married,Male,Did not work,2,0.010771219302024989
+Under 35,No degree,Not employed,Ever married,Male,Worked,2,0.010771219302024989
+Under 35,No degree,Not employed,Never married,Female,Did not work,2,0.010771219302024989
+Under 35,No degree,Not employed,Never married,Female,Worked,2,0.010771219302024989
+35-64,Degree,Employed,Never married,Female,Did not work,1,0.005385609651012494
+35-64,No degree,Not employed,Never married,Female,Worked,1,0.005385609651012494
+65 and over,Degree,Employed,Ever married,Female,Did not work,1,0.005385609651012494
+65 and over,Degree,Not employed,Never married,Male,Worked,1,0.005385609651012494
+65 and over,No degree,Employed,Ever married,Male,Did not work,1,0.005385609651012494
+Under 35,Degree,Employed,Never married,Female,Did not work,1,0.005385609651012494
+Under 35,Degree,Employed,Never married,Male,Did not work,1,0.005385609651012494
+Under 35,Degree,Not employed,Never married,Female,Worked,1,0.005385609651012494

@@ -1,0 +1,5 @@
+delivery_class,orders,orders_with_review,avg_review,pct_low_scores,avg_days_vs_estimate
+early,88644,88163,4.294,9.2,-13.7
+on_time,1292,1280,4.036,12.3,0.0
+late,6534,6381,2.272,62.4,10.6
+not_delivered,2971,2849,1.754,77.7,-27.8

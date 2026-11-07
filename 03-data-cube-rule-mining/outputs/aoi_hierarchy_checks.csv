@@ -1,0 +1,6 @@
+pair,rows_tested,rows_mismatched,pct_match,values_mismatched,rows_not_in_hierarchy,values_not_in_hierarchy
+industry_code_detailed -> industry_code_major,149643,0,100.0,,0,
+occupation_code_detailed -> occupation_code_major,149643,0,100.0,,0,
+household_family_status -> household_summary,149640,41,99.9726,In group quarters,3,Child <18 spouse of subfamily RP
+state_prev_residence -> region_prev_residence,149643,284,99.8102,?; Abroad,0,
+"state_prev_residence -> US Census region (hand-written, all rows)",298247,11954,95.9919,Abroad; Illinois; Kentucky; Maine; Maryland; Massachusetts; Michigan; Mississippi; Missouri; Montana; Nebraska; Nevada; New Hampshire; New Mexico; New York; North Carolina; North Dakota; Oklahoma; Oregon; Pennsylvania; South Carolina; South Dakota; Tennessee; Utah; Vermont; Virginia; West Virginia; Wisconsin; Wyoming,1038,?
