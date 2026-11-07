@@ -1,225 +1,154 @@
-%% =====================================================================
-%%  Assignment 2 / Part 1 / Task 1 -- SNOWFLAKE SCHEMA ER DIAGRAM
-%%  Notation: CROW'S FOOT (Mermaid erDiagram default)
-%%    one-to-many:  one ||--o{ many
-%%    one-to-one :  one ||--|| one
-%% 
-%%  Fact grains
-%%    fact_order_item    : one row per line item of an order
-%%    fact_order_payment : one row per payment transaction
-%% 
-%%  Normalised hierarchies (snowflake)
-%%    GEOGRAPHY  region - state - city - zip (shared by customer and seller)
-%%    PRODUCT    product - category
-%%    SELLER     seller - acquisition - lead origin
-%%    DELIVERY   delivery bucket - delivery status
-%%  dim_date is conformed and role-playing (6 date roles on fact_order_item).
-%%  Every dimension has an Unknown member (key = -1) so facts with
-%%  missing delivery dates or reviews are never dropped.
-%% =====================================================================
 erDiagram
-    %% ---------------- GEOGRAPHY HIERARCHY (snowflaked) ----------------
-    dim_region {
-        integer region_key PK
-        varchar region_code UK
-        varchar region_name
+    dim_region ||--o{ dim_state : contains
+    dim_state ||--o{ dim_city : contains
+    dim_city ||--o{ dim_zip : contains
+    dim_zip ||--o{ dim_customer : locates
+    dim_zip ||--o{ dim_seller : locates
+    dim_year ||--o{ dim_quarter : contains
+    dim_quarter ||--o{ dim_month : contains
+    dim_month ||--o{ dim_date : contains
+    dim_category ||--o{ dim_product : groups
+    dim_lead_origin ||--o{ dim_seller_acquisition : sources
+    dim_seller_acquisition ||--o{ dim_seller : recruits
+    dim_date ||--o{ dim_seller_acquisition : "won / first contact"
+    dim_customer ||--o{ dim_order : places
+    dim_order_status ||--o{ dim_order : classifies
+    dim_date ||--o{ dim_order : "purchase / delivered / estimated"
+    dim_order ||--o{ dim_review : "reviewed by"
+    dim_date ||--o{ dim_review : created
+    dim_order ||--o{ fact_order_item : "has lines"
+    dim_product ||--o{ fact_order_item : "sold as"
+    dim_seller ||--o{ fact_order_item : fulfils
+    dim_customer ||--o{ fact_order_item : buys
+    dim_date ||--o{ fact_order_item : "purchase / shipping limit"
+    dim_order ||--o{ fact_order_payment : "paid by"
+    dim_payment_type ||--o{ fact_order_payment : classifies
+    dim_date ||--o{ fact_order_payment : purchase
+
+    fact_order_item {
+        int order_key PK,FK
+        int order_item_id PK
+        int product_key FK
+        int seller_key FK
+        int customer_key FK
+        int purchase_date_key FK
+        int shipping_limit_date_key FK
+        decimal price
+        decimal freight_value
+        decimal revenue
     }
-    dim_state {
-        integer state_key PK
-        varchar state_code UK
-        varchar state_name
-        integer region_key FK
+    fact_order_payment {
+        int order_key PK,FK
+        int payment_sequential PK
+        int payment_type_key FK
+        int purchase_date_key FK
+        int installments
+        decimal payment_value
     }
-    dim_city {
-        integer city_key PK
-        varchar city_name
-        integer state_key FK
+    dim_order {
+        int order_key PK
+        string order_id UK
+        int customer_key FK
+        int order_status_key FK
+        int purchase_date_key FK
+        int delivered_date_key FK
+        int estimated_date_key FK
+        timestamp delivered_ts
+        int days_vs_estimate
+    }
+    dim_review {
+        int review_key PK
+        string review_id
+        int order_key FK
+        int review_score
+        boolean has_comment
+        int creation_date_key FK
+    }
+    dim_order_status {
+        int order_status_key PK
+        string order_status UK
+    }
+    dim_payment_type {
+        int payment_type_key PK
+        string payment_type UK
+    }
+    dim_customer {
+        int customer_key PK
+        string customer_id UK
+        string customer_unique_id
+        int zip_key FK
+    }
+    dim_seller {
+        int seller_key PK
+        string seller_id UK
+        int zip_key FK
+        int acquisition_key FK
+    }
+    dim_seller_acquisition {
+        int acquisition_key PK
+        string mql_id UK
+        int lead_origin_key FK
+        string business_segment
+        string lead_type
+        string business_type
+        int first_contact_date_key FK
+        int won_date_key FK
+    }
+    dim_lead_origin {
+        int lead_origin_key PK
+        string lead_origin UK
+    }
+    dim_product {
+        int product_key PK
+        string product_id UK
+        int category_key FK
+        int weight_g
+    }
+    dim_category {
+        int category_key PK
+        string category_name_pt UK
+        string category_name_en
     }
     dim_zip {
-        integer zip_key PK
-        varchar zip_code_prefix UK
-        integer city_key FK
+        int zip_key PK
+        string zip_prefix UK
+        int city_key FK
         double latitude
         double longitude
     }
-    dim_customer {
-        integer customer_key PK
-        varchar customer_id UK
-        varchar customer_unique_id
-        integer zip_key FK
+    dim_city {
+        int city_key PK
+        string city_name
+        int state_key FK
     }
-    dim_seller {
-        integer seller_key PK
-        varchar seller_id UK
-        integer zip_key FK
-        integer acquisition_key FK
+    dim_state {
+        int state_key PK
+        string state_code UK
+        string state_name
+        int region_key FK
     }
-
-    %% ---------------- SELLER ACQUISITION HIERARCHY -------------------
-    dim_lead_origin {
-        integer lead_origin_key PK
-        varchar lead_origin UK
-        varchar lead_origin_group
-    }
-    dim_seller_acquisition {
-        integer acquisition_key PK
-        varchar mql_id
-        integer lead_origin_key FK
-        varchar business_segment
-        varchar lead_type
-        varchar lead_behaviour_profile
-        varchar business_type
-        varchar landing_page_id
-        integer first_contact_date_key FK
-        integer won_date_key FK
-        timestamp won_date
-        integer days_to_close
-        boolean has_company
-        boolean has_gtin
-        varchar average_stock
-        double declared_product_catalog_size
-        double declared_monthly_revenue
-    }
-
-    %% ---------------- PRODUCT HIERARCHY -------------------------------
-    dim_category {
-        integer category_key PK
-        varchar category_name_pt UK
-        varchar category_name_english
-    }
-    dim_product {
-        integer product_key PK
-        varchar product_id UK
-        integer category_key FK
-        integer product_name_length
-        integer product_description_length
-        integer product_photos_qty
-        integer product_weight_g
-        integer product_length_cm
-        integer product_height_cm
-        integer product_width_cm
-        bigint product_volume_cm3
-    }
-
-    %% ---------------- DELIVERY HIERARCHY ------------------------------
-    dim_delivery_status {
-        integer delivery_status_key PK
-        varchar delivery_status UK
-        integer sort_order
-    }
-    dim_delivery_bucket {
-        integer delivery_bucket_key PK
-        varchar delivery_bucket UK
-        integer delivery_status_key FK
-        integer sort_order
-    }
-
-    %% ---------------- SMALL STAND-ALONE DIMENSIONS --------------------
-    dim_order_status {
-        integer order_status_key PK
-        varchar order_status UK
-    }
-    dim_payment_type {
-        integer payment_type_key PK
-        varchar payment_type UK
+    dim_region {
+        int region_key PK
+        string region_name UK
     }
     dim_date {
-        integer date_key PK
+        int date_key PK
         date full_date
-        integer year
-        integer quarter
-        integer month
-        varchar month_name
-        integer day_of_month
-        integer day_of_week
-        varchar day_name
-        integer week_of_year
-        varchar year_month
-        varchar year_quarter
         boolean is_weekend
+        int month_key FK
     }
-    dim_review {
-        integer review_key PK
-        varchar review_id
-        varchar order_id
-        integer review_score
-        varchar review_score_band
-        boolean has_comment
-        integer review_creation_date_key FK
-        integer review_answer_date_key FK
-        double response_hours
+    dim_month {
+        int month_key PK
+        int month_number
+        string month_name
+        int quarter_key FK
     }
-
-    %% ---------------- FACT TABLES -------------------------------------
-    fact_order_item {
-        bigint order_item_sk PK
-        varchar order_id
-        integer order_item_id
-        integer customer_key FK
-        integer seller_key FK
-        integer product_key FK
-        integer order_status_key FK
-        integer delivery_bucket_key FK
-        integer review_key FK
-        integer purchase_date_key FK
-        integer approved_date_key FK
-        integer carrier_date_key FK
-        integer delivered_date_key FK
-        integer estimated_date_key FK
-        integer shipping_limit_date_key FK
-        double price
-        double freight_value
-        double revenue
-        integer items_in_order
-        integer delivery_days
-        integer delivery_delay_days
-        double approval_hours
+    dim_quarter {
+        int quarter_key PK
+        int quarter_number
+        int year_key FK
     }
-    fact_order_payment {
-        bigint payment_sk PK
-        varchar order_id
-        integer payment_sequential
-        integer customer_key FK
-        integer payment_type_key FK
-        integer order_status_key FK
-        integer purchase_date_key FK
-        integer payment_installments
-        double payment_value
+    dim_year {
+        int year_key PK
+        int year_number
     }
-
-    %% ---------------- RELATIONSHIPS (crow's foot) ---------------------
-    %% GEOGRAPHY: region to state to city to zip, shared by customer and seller
-    dim_region        ||--o{ dim_state              : "state lies in"
-    dim_state         ||--o{ dim_city               : "city lies in"
-    dim_city          ||--o{ dim_zip                : "zip prefix lies in"
-    dim_zip           ||--o{ dim_customer           : "customer lives at"
-    dim_zip           ||--o{ dim_seller             : "seller based at"
-
-    %% SELLER ACQUISITION: lead origin to acquisition to seller
-    dim_lead_origin   ||--o{ dim_seller_acquisition : "lead came from"
-    dim_seller_acquisition ||--o{ dim_seller        : "deal acquired"
-
-    %% PRODUCT: category to product
-    dim_category      ||--o{ dim_product            : "product belongs to"
-
-    %% DELIVERY: status to bucket
-    dim_delivery_status ||--o{ dim_delivery_bucket  : "bucket rolls up to"
-
-    %% fact_order_item foreign keys
-    dim_customer      ||--o{ fact_order_item        : "customer bought"
-    dim_seller        ||--o{ fact_order_item        : "seller sold"
-    dim_product       ||--o{ fact_order_item        : "product sold as"
-    dim_order_status  ||--o{ fact_order_item        : "order is in"
-    dim_delivery_bucket ||--o{ fact_order_item      : "item delivered in"
-    dim_review        ||--o{ fact_order_item        : "order reviewed by"
-    dim_date          ||--o{ fact_order_item        : "role-playing purchase approved carrier delivered estimated shipping-limit"
-
-    %% fact_order_payment foreign keys
-    dim_customer      ||--o{ fact_order_payment     : "customer paid"
-    dim_payment_type  ||--o{ fact_order_payment     : "paid via"
-    dim_order_status  ||--o{ fact_order_payment     : "order is in"
-    dim_date          ||--o{ fact_order_payment     : "purchase date of"
-
-    %% date FKs from the dimension side
-    dim_date          ||--o{ dim_review             : "creation and answer dates"
-    dim_date          ||--o{ dim_seller_acquisition : "first contact and won dates"

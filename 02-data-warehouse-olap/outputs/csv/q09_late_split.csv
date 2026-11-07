@@ -1,0 +1,6 @@
+bucket,orders,orders_with_review,avg_review,pct_low_scores
+early,88644,88163,4.294,9.2
+on_time,1292,1280,4.036,12.3
+late_1_to_7_days,3672,3600,2.715,49.4
+late_over_7_days,2862,2781,1.698,79.2
+not_delivered,2971,2849,1.754,77.7

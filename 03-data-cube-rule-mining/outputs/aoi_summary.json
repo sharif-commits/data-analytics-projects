@@ -1,0 +1,128 @@
+{
+  "attributes": [
+    "age",
+    "education",
+    "class_of_worker",
+    "marital_status",
+    "occupation_code_detailed",
+    "industry_code_detailed",
+    "sex",
+    "weeks_worked_in_year",
+    "country_birth_self",
+    "wage_per_hour"
+  ],
+  "attr_threshold": 6,
+  "rel_threshold": 80,
+  "characteristic": {
+    "levels": {
+      "age": 3,
+      "education": 2,
+      "class_of_worker": 2,
+      "marital_status": 2,
+      "sex": 0,
+      "weeks_worked_in_year": 2
+    },
+    "removed": [
+      [
+        "industry_code_detailed",
+        "too many values and no higher concept"
+      ],
+      [
+        "country_birth_self",
+        "too many values and no higher concept"
+      ],
+      [
+        "wage_per_hour",
+        "too many values and no higher concept"
+      ],
+      [
+        "occupation_code_detailed",
+        "climbed to ANY to meet the relation threshold"
+      ]
+    ],
+    "rules": 79,
+    "t_weight_total": 100.0,
+    "target_rows": 18568,
+    "seconds": 1.8120213000220247
+  },
+  "discriminant": {
+    "levels": {
+      "education": 2,
+      "class_of_worker": 2,
+      "marital_status": 2,
+      "sex": 0,
+      "weeks_worked_in_year": 2
+    },
+    "removed": [
+      [
+        "industry_code_detailed",
+        "too many values and no higher concept"
+      ],
+      [
+        "country_birth_self",
+        "too many values and no higher concept"
+      ],
+      [
+        "wage_per_hour",
+        "too many values and no higher concept"
+      ],
+      [
+        "occupation_code_detailed",
+        "climbed to ANY to meet the relation threshold"
+      ],
+      [
+        "age",
+        "climbed to ANY to meet the relation threshold"
+      ]
+    ],
+    "rules": 32,
+    "rules_with_target": 31,
+    "base_rate_pct": 6.204119818901716,
+    "target_rows": 18568,
+    "contrast_rows": 280717,
+    "seconds": 41.691995200002566
+  },
+  "discriminant_adults": {
+    "levels": {
+      "education": 2,
+      "class_of_worker": 2,
+      "marital_status": 2,
+      "sex": 0,
+      "weeks_worked_in_year": 2
+    },
+    "removed": [
+      [
+        "industry_code_detailed",
+        "too many values and no higher concept"
+      ],
+      [
+        "country_birth_self",
+        "too many values and no higher concept"
+      ],
+      [
+        "wage_per_hour",
+        "too many values and no higher concept"
+      ],
+      [
+        "occupation_code_detailed",
+        "climbed to ANY to meet the relation threshold"
+      ],
+      [
+        "age",
+        "climbed to ANY to meet the relation threshold"
+      ]
+    ],
+    "rules": 32,
+    "rules_with_target": 31,
+    "base_rate_pct": 8.612355849963354,
+    "target_rows": 18566,
+    "contrast_rows": 197008
+  },
+  "cross_check_with_buc": {
+    "aoi_tuples": 79,
+    "buc_cells_all": 935,
+    "buc_base_cells": 79,
+    "buc_seconds": 0.06366380001418293,
+    "counts_identical": true
+  }
+}

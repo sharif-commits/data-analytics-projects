@@ -1,14 +1,10 @@
-value,parent
-Private,Private sector
-Federal government,Government
-State government,Government
-Local government,Government
-Self-employed-incorporated,Self-employed
-Self-employed-not incorporated,Self-employed
-Without pay,Unpaid/Not in universe
-Never worked,Unpaid/Not in universe
-Not in universe,Unpaid/Not in universe
-Private sector,ANY
-Government,ANY
-Self-employed,ANY
-Unpaid/Not in universe,ANY
+level_0,level_1,level_2
+Private,Private sector,Employed
+Federal government,Government,Employed
+State government,Government,Employed
+Local government,Government,Employed
+Self-employed-incorporated,Self-employed,Employed
+Self-employed-not incorporated,Self-employed,Employed
+Without pay,Not employed,Not employed
+Never worked,Not employed,Not employed
+Not in universe,Not employed,Not employed

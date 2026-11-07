@@ -1,0 +1,5 @@
+delivery_class,order_grain_avg,order_grain_with_items,item_grain_avg
+early,4.294,4.294,4.212
+late,2.272,2.272,2.257
+not_delivered,1.754,1.765,1.754
+on_time,4.036,4.036,3.987

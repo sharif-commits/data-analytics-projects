@@ -1,92 +1,50 @@
--- =====================================================================
--- Q8. CUBE over (REGION, CATEGORY, YEAR).
---     CUBE returns all 2^3 = 8 grouping combinations in one pass:
---       (R,C,Y) (R,C) (R,Y) (C,Y) (R) (C) (Y) ()
---     GROUPING_ID() encodes which combination each row belongs to, so the
---     whole lattice lives in a single result set and can be sliced
---     afterwards without touching the fact table again.  That is exactly
---     the property a materialised cube buys you, so we materialise it
---     once here and then read three different slices off it.
--- =====================================================================
+-- Q8. CUBE of revenue over (Region, Category, Year).
+-- GROUPING_ID is a 3-bit mask: 0 = all three grouped, 7 = grand total.
 
-CREATE OR REPLACE TEMP TABLE cube_rcy AS
-SELECT CASE WHEN GROUPING(customer_region) = 1 THEN 'ALL'
-            ELSE customer_region END                                AS region,
-       CASE WHEN GROUPING(category) = 1 THEN 'ALL'
-            ELSE category END                                       AS category,
-       CASE WHEN GROUPING(purchase_year) = 1 THEN 'ALL'
-            ELSE CAST(purchase_year AS VARCHAR) END                 AS year,
-       GROUPING_ID(customer_region, category, purchase_year)         AS grouping_id,
-       GROUPING(customer_region)                                     AS g_region,
-       GROUPING(category)                                            AS g_category,
-       GROUPING(purchase_year)                                       AS g_year,
-       ROUND(SUM(revenue), 2)                                        AS revenue,
-       COUNT(DISTINCT order_id)                                      AS orders,
-       COUNT(*)                                                      AS line_items,
-       ROUND(AVG(price), 2)                                          AS avg_unit_price
-FROM v_sales
-GROUP BY CUBE (customer_region, category, purchase_year);
+-- @result q08_cube
+SELECT GROUPING_ID(g.region_name, p.category, c.year_number) AS grouping_id,
+       g.region_name AS region, p.category, c.year_number AS year,
+       sum(f.revenue) AS revenue
+FROM fact_order_item f
+JOIN dim_customer d USING (customer_key)
+JOIN v_geo g USING (zip_key)
+JOIN v_product p USING (product_key)
+JOIN v_calendar c ON c.date_key = f.purchase_date_key
+GROUP BY CUBE (g.region_name, p.category, c.year_number)
+ORDER BY grouping_id DESC, revenue DESC;
 
--- (a) The complete cube, one row per cell ------------------------------
-SELECT grouping_id,
-       CASE grouping_id
-            WHEN 0 THEN '(Region, Category, Year)'
-            WHEN 1 THEN '(Region, Category)'
-            WHEN 2 THEN '(Region, Year)'
-            WHEN 3 THEN '(Region)'
-            WHEN 4 THEN '(Category, Year)'
-            WHEN 5 THEN '(Category)'
-            WHEN 6 THEN '(Year)'
-            ELSE        '()  grand total' END AS grouping_set,
-       region, category, year,
-       revenue, orders, line_items, avg_unit_price
-FROM cube_rcy
-ORDER BY grouping_id, revenue DESC;
-
--- (b) How many cells does each of the 8 grouping sets contribute? -------
-SELECT grouping_id,
-       CASE grouping_id
-            WHEN 0 THEN '(Region, Category, Year)'
-            WHEN 1 THEN '(Region, Category)'
-            WHEN 2 THEN '(Region, Year)'
-            WHEN 3 THEN '(Region)'
-            WHEN 4 THEN '(Category, Year)'
-            WHEN 5 THEN '(Category)'
-            WHEN 6 THEN '(Year)'
-            ELSE        '()  grand total' END AS grouping_set,
-       COUNT(*)                              AS cells,
-       ROUND(SUM(revenue), 2)                AS revenue_in_slice
-FROM cube_rcy
-GROUP BY grouping_id
-ORDER BY grouping_id;
-
--- (c) Slice: the 2-D (Region x Year) face, plus its margins -------------
-SELECT region, year, revenue, orders
-FROM cube_rcy
-WHERE grouping_id IN (2, 3, 6, 7)         -- (R,Y) (R) (Y) ()
-ORDER BY CASE WHEN region = 'ALL' THEN 1 ELSE 0 END, revenue DESC, year;
-
--- (d) Slice: top 3 categories inside each region, all years pooled -----
-WITH rc AS (
-    SELECT region, category, revenue, orders
-    FROM cube_rcy
-    WHERE grouping_id = 1                 -- (Region, Category)
-      AND region <> 'ALL'
-),
-r_tot AS (
-    SELECT region, revenue AS region_revenue
-    FROM cube_rcy
-    WHERE grouping_id = 3                 -- (Region)
-      AND region <> 'ALL'
+-- Revenue is fully additive, so each of the 8 slices must re-sum to the same grand total.
+-- @result q08_slice_totals
+WITH cube AS (
+    SELECT GROUPING_ID(g.region_name, p.category, c.year_number) AS grouping_id, sum(f.revenue) AS revenue
+    FROM fact_order_item f
+    JOIN dim_customer d USING (customer_key)
+    JOIN v_geo g USING (zip_key)
+    JOIN v_product p USING (product_key)
+    JOIN v_calendar c ON c.date_key = f.purchase_date_key
+    GROUP BY CUBE (g.region_name, p.category, c.year_number)
 )
-SELECT rc.region,
-       ROUND(rt.region_revenue, 2)                                  AS region_revenue,
-       ROW_NUMBER() OVER (PARTITION BY rc.region ORDER BY rc.revenue DESC) AS rank_in_region,
-       rc.category,
-       rc.revenue,
-       rc.orders,
-       ROUND(100.0 * rc.revenue / rt.region_revenue, 1)             AS pct_of_region
-FROM rc
-JOIN r_tot rt USING (region)
-QUALIFY rank_in_region <= 3
-ORDER BY rt.region_revenue DESC, rank_in_region;
+SELECT grouping_id,
+       CASE grouping_id WHEN 0 THEN 'region, category, year' WHEN 1 THEN 'region, category'
+            WHEN 2 THEN 'region, year' WHEN 3 THEN 'region' WHEN 4 THEN 'category, year'
+            WHEN 5 THEN 'category' WHEN 6 THEN 'year' ELSE 'grand total' END AS grouped_by,
+       count(*) AS cells, sum(revenue) AS slice_total,
+       sum(revenue) = (SELECT sum(revenue) FROM fact_order_item) AS matches_grand_total
+FROM cube
+GROUP BY 1
+ORDER BY 1;
+
+-- Example read of the cube: each region's leading category over the whole period.
+-- @result q08_top_category_per_region
+WITH cell AS (
+    SELECT g.region_name AS region, p.category, sum(f.revenue) AS revenue
+    FROM fact_order_item f
+    JOIN dim_customer d USING (customer_key)
+    JOIN v_geo g USING (zip_key)
+    JOIN v_product p USING (product_key)
+    GROUP BY 1, 2
+)
+SELECT region, category, revenue, round(100.0 * revenue / sum(revenue) OVER (PARTITION BY region), 2) AS pct_of_region
+FROM cell
+QUALIFY rank() OVER (PARTITION BY region ORDER BY revenue DESC) = 1
+ORDER BY revenue DESC;
